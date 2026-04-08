@@ -1,7 +1,7 @@
 # Dieta enero · GitHub Pages
 
 Web estática pensada para móvil, con estética inspirada en apps tipo Whoop / Bevel / Apple Watch:
-- modo oscuro premium
+- modo oscuro premium 
 - navegación inferior tipo app
 - gráfico de peso real vs estimado
 - calorías, proteína, déficit acumulado
