@@ -1,0 +1,2462 @@
+{
+  "meta": {
+    "title": "Dieta enero",
+    "person": {
+      "sex": "male",
+      "age": 21,
+      "height_cm": 176
+    },
+    "start_weight_kg": 86.5,
+    "current_weight_kg": 81.5,
+    "start_date": "2026-01-19",
+    "current_date": "2026-04-08",
+    "current_day": 80,
+    "protein_target_g": 130,
+    "calibrated_base_maintenance_kcal": 2168,
+    "notes": [
+      "La fecha del Día 80 se ha fijado en 2026-04-08 por falta de fechas exactas en el histórico original.",
+      "El peso estimado se calcula con déficit acumulado calibrado para que el Día 80 coincida con 81.5 kg.",
+      "El porcentaje graso es orientativo y usa una fórmula tipo Deurenberg basada en IMC, edad y sexo."
+    ]
+  },
+  "days": [
+    {
+      "day": 1,
+      "date": "2026-01-19",
+      "calories": 1831,
+      "protein_g": 93,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "Sin datos cargados en el histórico.",
+      "raw_block": "DÍA 1",
+      "source": {
+        "calories": null,
+        "protein_g": null,
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": true,
+        "protein_imputed": true,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1831,
+      "deficit_kcal": 337,
+      "cumulative_deficit_kcal": 337,
+      "estimated_weight_kg": 86.46,
+      "trend_weight_kg": 86.5,
+      "estimated_body_fat_pct": 22.1,
+      "trend_body_fat_pct": 22.1,
+      "weight_actual_kg": 86.5
+    },
+    {
+      "day": 2,
+      "date": "2026-01-20",
+      "calories": 2600,
+      "protein_g": 95,
+      "exercise_kcal": 430,
+      "training_type": "espalda + cardio",
+      "alcohol": false,
+      "notes": "DÍA 2 – RESUMEN Calorías ingeridas: – Total comida: 2.600 kcal (buffet sushi) Deporte realizado: – Gimnasio (espalda + cinta): ~60 min – Fuerza espalda: • Jalón al pecho: 45 kg – 4×15 • Remo con mancuernas: 20 kg/lado – 4×15 • Poleas espalda – Cinta: 215 kcal – Gasto estimado total gym: ~430 kcal Proteína ingerida: – Aproximadamente 90–100 g (estimación buff",
+      "raw_block": "DÍA 2 – RESUMEN\n\nCalorías ingeridas:\n– Total comida: 2.600 kcal (buffet sushi)\n\nDeporte realizado:\n– Gimnasio (espalda + cinta): ~60 min\n– Fuerza espalda:\n• Jalón al pecho: 45 kg – 4×15\n• Remo con mancuernas: 20 kg/lado – 4×15\n• Poleas espalda\n– Cinta: 215 kcal\n– Gasto estimado total gym: ~430 kcal\n\nProteína ingerida:\n– Aproximadamente 90–100 g (estimación buffet)\n\nNotas:\n– Día alto en calorías por comida social\n– Ayuno el resto del día\n– Entrenamiento cumplido\n– Proteína justa para el objetivo",
+      "source": {
+        "calories": "– Total comida: 2.600 kcal (buffet sushi)",
+        "protein_g": "– Aproximadamente 90–100 g (estimación buffet)",
+        "exercise_kcal": "– Gasto estimado total gym: ~430 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2598,
+      "net_intake_kcal": 2170,
+      "deficit_kcal": -2,
+      "cumulative_deficit_kcal": 335,
+      "estimated_weight_kg": 86.46,
+      "trend_weight_kg": 86.44,
+      "estimated_body_fat_pct": 22.1,
+      "trend_body_fat_pct": 22.1,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 3,
+      "date": "2026-01-21",
+      "calories": 1620,
+      "protein_g": 95,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 3 – PLANTILLA PARA NOTAS Calorías ingeridas: – Total comida: ~1.620 kcal Deporte realizado: – No gimnasio Proteína ingerida: – ~90–100 g Balance del día: – Objetivo comida diaria: 1.900 kcal – Diferencia: −280 kcal (déficit)",
+      "raw_block": "DÍA 3 – PLANTILLA PARA NOTAS\n\nCalorías ingeridas:\n– Total comida: ~1.620 kcal\n\nDeporte realizado:\n– No gimnasio\n\nProteína ingerida:\n– ~90–100 g\n\nBalance del día:\n– Objetivo comida diaria: 1.900 kcal\n– Diferencia: −280 kcal (déficit)",
+      "source": {
+        "calories": "– Total comida: ~1.620 kcal",
+        "protein_g": "– ~90–100 g",
+        "exercise_kcal": "no gym"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1620,
+      "deficit_kcal": 548,
+      "cumulative_deficit_kcal": 883,
+      "estimated_weight_kg": 86.39,
+      "trend_weight_kg": 86.37,
+      "estimated_body_fat_pct": 22.1,
+      "trend_body_fat_pct": 22.1,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 4,
+      "date": "2026-01-22",
+      "calories": 1600,
+      "protein_g": 70,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": true,
+      "notes": "DÍA 4 – PLANTILLA PARA SEGUIMIENTO Calorías ingeridas: – Total comida: 1.400 kcal – Alcohol: 200 kcal – Total día: 1.600 kcal Deporte realizado: – No gimnasio Proteína ingerida: – ~65–75 g Balance del día: – Objetivo comida diaria: 1.900 kcal – Diferencia: −300 kcal (déficit)",
+      "raw_block": "DÍA 4 – PLANTILLA PARA SEGUIMIENTO\n\nCalorías ingeridas:\n– Total comida: 1.400 kcal\n– Alcohol: 200 kcal\n– Total día: 1.600 kcal\n\nDeporte realizado:\n– No gimnasio\n\nProteína ingerida:\n– ~65–75 g\n\nBalance del día:\n– Objetivo comida diaria: 1.900 kcal\n– Diferencia: −300 kcal (déficit)",
+      "source": {
+        "calories": "– Total día: 1.600 kcal",
+        "protein_g": "– ~65–75 g",
+        "exercise_kcal": "no gym"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1600,
+      "deficit_kcal": 568,
+      "cumulative_deficit_kcal": 1451,
+      "estimated_weight_kg": 86.31,
+      "trend_weight_kg": 86.31,
+      "estimated_body_fat_pct": 22.1,
+      "trend_body_fat_pct": 22.1,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 5,
+      "date": "2026-01-23",
+      "calories": 2000,
+      "protein_g": 112,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 5 – PLANTILLA PARA SEGUIMIENTO Calorías ingeridas: – Total comida: ~2.000 kcal Deporte realizado: – No gimnasio Proteína ingerida: – ~105–120 g Balance del día: – Objetivo comida diaria: 1.900 kcal – Diferencia: +100 kcal aprox",
+      "raw_block": "DÍA 5 – PLANTILLA PARA SEGUIMIENTO\n\nCalorías ingeridas:\n– Total comida: ~2.000 kcal\n\nDeporte realizado:\n– No gimnasio\n\nProteína ingerida:\n– ~105–120 g\n\nBalance del día:\n– Objetivo comida diaria: 1.900 kcal\n– Diferencia: +100 kcal aprox",
+      "source": {
+        "calories": "– Total comida: ~2.000 kcal",
+        "protein_g": "– ~105–120 g",
+        "exercise_kcal": "no gym"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 2000,
+      "deficit_kcal": 168,
+      "cumulative_deficit_kcal": 1619,
+      "estimated_weight_kg": 86.29,
+      "trend_weight_kg": 86.25,
+      "estimated_body_fat_pct": 22.1,
+      "trend_body_fat_pct": 22.0,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 6,
+      "date": "2026-01-24",
+      "calories": 1580,
+      "protein_g": 55,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 6 – RESUMEN Calorías ingeridas: – Comida fuera: • Patatas bravas (100 g aprox): ~250 kcal • Sándwich jamón y queso: ~350 kcal • Nachos con guacamole (10 triángulos): ~300 kcal – Cena: • 2 rebanadas pan integral: 126 kcal • Burrata (150 g): ~350 kcal • Quesadilla: – Tortita integral: 100 kcal – Mozzarella rallada (10 g): ~30 kcal – Pavo (incluido en total",
+      "raw_block": "DÍA 6 – RESUMEN\n\nCalorías ingeridas:\n– Comida fuera:\n• Patatas bravas (100 g aprox): ~250 kcal\n• Sándwich jamón y queso: ~350 kcal\n• Nachos con guacamole (10 triángulos): ~300 kcal\n– Cena:\n• 2 rebanadas pan integral: 126 kcal\n• Burrata (150 g): ~350 kcal\n• Quesadilla:\n– Tortita integral: 100 kcal\n– Mozzarella rallada (10 g): ~30 kcal\n– Pavo (incluido en total diario): ~75 kcal\n\n– Total comida estimado: ~1.580 kcal",
+      "source": {
+        "calories": "– Pavo (incluido en total diario): ~75 kcal",
+        "protein_g": null,
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": true,
+        "protein_imputed": true,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1580,
+      "deficit_kcal": 588,
+      "cumulative_deficit_kcal": 2207,
+      "estimated_weight_kg": 86.21,
+      "trend_weight_kg": 86.18,
+      "estimated_body_fat_pct": 22.0,
+      "trend_body_fat_pct": 22.0,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 7,
+      "date": "2026-01-25",
+      "calories": 1420,
+      "protein_g": 110,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 7 – RESUMEN Calorías ingeridas: – Comida: • Pan (3 rebanadas × 60 kcal): 180 kcal • Pavo (180 g): ~190 kcal • Mozzarella rallada (70 g): ~210 kcal – Cena: • Tortitas integrales (4 × 100 kcal): 400 kcal • Mozzarella (100 g): ~300 kcal • Pollo (140 kcal): 140 kcal – Total comida estimado: ~1.420 kcal   Deporte realizado: – Gimnasio: no – Actividad adiciona",
+      "raw_block": "DÍA 7 – RESUMEN\n\nCalorías ingeridas:\n– Comida:\n• Pan (3 rebanadas × 60 kcal): 180 kcal\n• Pavo (180 g): ~190 kcal\n• Mozzarella rallada (70 g): ~210 kcal\n– Cena:\n• Tortitas integrales (4 × 100 kcal): 400 kcal\n• Mozzarella (100 g): ~300 kcal\n• Pollo (140 kcal): 140 kcal\n\n– Total comida estimado: ~1.420 kcal\n\n⸻\n\nDeporte realizado:\n– Gimnasio: no\n– Actividad adicional: no indicada",
+      "source": {
+        "calories": "– Total comida estimado: ~1.420 kcal",
+        "protein_g": null,
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": true,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1420,
+      "deficit_kcal": 748,
+      "cumulative_deficit_kcal": 2955,
+      "estimated_weight_kg": 86.12,
+      "trend_weight_kg": 86.12,
+      "estimated_body_fat_pct": 22.0,
+      "trend_body_fat_pct": 22.0,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 8,
+      "date": "2026-01-26",
+      "calories": 2910,
+      "protein_g": 112,
+      "exercise_kcal": 430,
+      "training_type": "espalda + bíceps + pecho + hombro",
+      "alcohol": true,
+      "notes": "DÍA 8 – RESUMEN Calorías ingeridas: Desayuno: – Tostas con salmorejo + café con leche: 500 kcal Comida: – Total Rodilla: ~750 kcal – Gelatina: 60 kcal Cena (previa): – Empanada queso de cabra y cebolla: 200 kcal Cena (McDonald’s + alcohol): – Big Mac: 503 kcal – Hamburguesa pollo pequeña (tipo euro): ~300 kcal – Nuggets (2 uds): ~90 kcal – Ketchup (2 sobres)",
+      "raw_block": "DÍA 8 – RESUMEN\n\nCalorías ingeridas:\n\nDesayuno:\n– Tostas con salmorejo + café con leche: 500 kcal\n\nComida:\n– Total Rodilla: ~750 kcal\n– Gelatina: 60 kcal\n\nCena (previa):\n– Empanada queso de cabra y cebolla: 200 kcal\n\nCena (McDonald’s + alcohol):\n– Big Mac: 503 kcal\n– Hamburguesa pollo pequeña (tipo euro): ~300 kcal\n– Nuggets (2 uds): ~90 kcal\n– Ketchup (2 sobres): ~20 kcal\n– Salsa BBQ (1 sobre): ~45 kcal\n– Cerveza: ~140 kcal\n– Copa whisky con coca zero: ~100 kcal\n\n– Total McDonald’s + alcohol: ~1.200 kcal\n\n– Total calorías del día estimado: ~2.910 kcal\n\n⸻\n\nDeporte realizado:\n\n– Pasos / actividad diaria: ~250 kcal\n– Gimnasio:\n• Cinta: 200 kcal\n• Fuerza espalda y hombro (~50–60 min):\n– Jalón al pecho 50 kg – 4×12\n– Remo unilateral 25 kg – 3×15 por brazo\n– Press militar 30 kg/mancuerna – 4×12\n– Bíceps 20 kg\n\n– Gasto estimado total gym: ~430 kcal\n\n– Total proteína estimada: ~110–115 g",
+      "source": {
+        "calories": "– Total calorías del día estimado: ~2.910 kcal",
+        "protein_g": "– Total proteína estimada: ~110–115 g",
+        "exercise_kcal": "– Gasto estimado total gym: ~430 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2598,
+      "net_intake_kcal": 2480,
+      "deficit_kcal": -312,
+      "cumulative_deficit_kcal": 2643,
+      "estimated_weight_kg": 86.16,
+      "trend_weight_kg": 86.06,
+      "estimated_body_fat_pct": 22.0,
+      "trend_body_fat_pct": 22.0,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 9,
+      "date": "2026-01-27",
+      "calories": 1550,
+      "protein_g": 72,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 9 – RESUMEN Calorías ingeridas: – Comida: • Trozo de tortilla: ~250 kcal • Pan masa madre (2 trozos): ~200 kcal – Cena: • Masa de pizza tipo buitoni: ~600 kcal • Mozzarella (100 g): ~300 kcal • Pavo: ~150 kcal • Tomate frito (50 ml): ~50 kcal – Total comida estimado: ~1.550 kcal",
+      "raw_block": "DÍA 9 – RESUMEN\n\nCalorías ingeridas:\n– Comida:\n• Trozo de tortilla: ~250 kcal\n• Pan masa madre (2 trozos): ~200 kcal\n– Cena:\n• Masa de pizza tipo buitoni: ~600 kcal\n• Mozzarella (100 g): ~300 kcal\n• Pavo: ~150 kcal\n• Tomate frito (50 ml): ~50 kcal\n\n– Total comida estimado: ~1.550 kcal",
+      "source": {
+        "calories": "– Total comida estimado: ~1.550 kcal",
+        "protein_g": null,
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": true,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1550,
+      "deficit_kcal": 618,
+      "cumulative_deficit_kcal": 3261,
+      "estimated_weight_kg": 86.08,
+      "trend_weight_kg": 85.99,
+      "estimated_body_fat_pct": 22.0,
+      "trend_body_fat_pct": 21.9,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 10,
+      "date": "2026-01-28",
+      "calories": 1810,
+      "protein_g": 100,
+      "exercise_kcal": 400,
+      "training_type": "pecho + cardio",
+      "alcohol": false,
+      "notes": "DÍA 10 – RESUMEN Calorías ingeridas: Comida: – Pasta (110 g en seco): ~390 kcal – Bacon (50 g): ~250 kcal – Salsa carbonara casera: • 2 yemas de huevo: ~110 kcal • Queso parmesano (100 g): ~430 kcal – Total comida: ~1.180 kcal Cena: – Mix patata/boniato/cebolla (100 g, Mercadona): 75 kcal – Burrata (150 g): ~330 kcal – Albóndigas de pollo (2 uds): ~180 kcal ",
+      "raw_block": "DÍA 10 – RESUMEN\n\nCalorías ingeridas:\n\nComida:\n– Pasta (110 g en seco): ~390 kcal\n– Bacon (50 g): ~250 kcal\n– Salsa carbonara casera:\n• 2 yemas de huevo: ~110 kcal\n• Queso parmesano (100 g): ~430 kcal\n\n– Total comida: ~1.180 kcal\n\nCena:\n– Mix patata/boniato/cebolla (100 g, Mercadona): 75 kcal\n– Burrata (150 g): ~330 kcal\n– Albóndigas de pollo (2 uds): ~180 kcal\n– Medio yogur: ~45 kcal\n\n– Total cena: ~630 kcal\n\n– Total comida del día: ~1.810 kcal\n\n⸻\n\nDeporte realizado:\n\n– Gimnasio (pecho): ~60 min\n• Press inclinado mancuernas: 16 kg – 4×12\n• Press máquina: 30 kg/lado – 4×12\n• Poleas pecho (interior y superior): 3×15\n– Cinta: 170 kcal\n\n– Gasto estimado gym: ~400 kcal\n– Total proteína estimada: ~100 g",
+      "source": {
+        "calories": "– Total comida del día: ~1.810 kcal",
+        "protein_g": "– Total proteína estimada: ~100 g",
+        "exercise_kcal": "– Gasto estimado gym: ~400 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2568,
+      "net_intake_kcal": 1410,
+      "deficit_kcal": 758,
+      "cumulative_deficit_kcal": 4019,
+      "estimated_weight_kg": 85.98,
+      "trend_weight_kg": 85.93,
+      "estimated_body_fat_pct": 21.9,
+      "trend_body_fat_pct": 21.9,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 11,
+      "date": "2026-01-29",
+      "calories": 1760,
+      "protein_g": 100,
+      "exercise_kcal": 390,
+      "training_type": "brazos + hombro + cardio",
+      "alcohol": true,
+      "notes": "DÍA 11 – RESUMEN Calorías ingeridas: Comida: – Cachopo: ~750 kcal • Ternera (180 g): ~300 kcal • Queso tranchete (30 g): ~90 kcal • Jamón serrano (20 g): ~50 kcal • Rebozado/aceite: incluido en la estimación – Empanada frita: ~250 kcal – Total comida: ~1.000 kcal Cena / salida: – Big King (Burger King): ~550 kcal – Cerveza 0,5 L: ~210 kcal – Total cena: ~760",
+      "raw_block": "DÍA 11 – RESUMEN\n\nCalorías ingeridas:\n\nComida:\n– Cachopo: ~750 kcal\n• Ternera (180 g): ~300 kcal\n• Queso tranchete (30 g): ~90 kcal\n• Jamón serrano (20 g): ~50 kcal\n• Rebozado/aceite: incluido en la estimación\n– Empanada frita: ~250 kcal\n\n– Total comida: ~1.000 kcal\n\nCena / salida:\n– Big King (Burger King): ~550 kcal\n– Cerveza 0,5 L: ~210 kcal\n\n– Total cena: ~760 kcal\n\n– Total comida del día estimado: ~1.760 kcal\n\n⸻\n\nDeporte realizado:\n\n– Gimnasio (brazos + hombro): ~60 min\n• Curl bíceps barra: 20 kg – 4×12\n• Press hombro mancuernas: 16 kg/lado – 4×12\n• Curl martillo: 8 kg/lado – 4×12\n• Tríceps polea cuerda: 17,5 kg – 5 series al fallo\n– Cinta: 150 kcal\n\n– Gasto estimado total gym: ~380–400 kcal\n\n– Total proteína estimada: ~100 g",
+      "source": {
+        "calories": "– Total comida del día estimado: ~1.760 kcal",
+        "protein_g": "– Total proteína estimada: ~100 g",
+        "exercise_kcal": "– Gasto estimado total gym: ~380–400 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2558,
+      "net_intake_kcal": 1370,
+      "deficit_kcal": 798,
+      "cumulative_deficit_kcal": 4817,
+      "estimated_weight_kg": 85.87,
+      "trend_weight_kg": 85.87,
+      "estimated_body_fat_pct": 21.9,
+      "trend_body_fat_pct": 21.9,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 12,
+      "date": "2026-01-30",
+      "calories": 1890,
+      "protein_g": 140,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 12 – RESUMEN Calorías ingeridas: Desayuno: – 2 yogures naturales Arone: ~160 kcal – Proteína en polvo (30 g): ~120 kcal – Cacahuete en polvo desgrasado (10 g): ~40 kcal – Cereales chocolate 0 (15 g): ~55 kcal – Total desayuno: ~375 kcal Comida: – Pasta de lentejas (80 g): ~280 kcal – Atún al natural (2 latas de 80 g): ~220 kcal – Tomate triturado natural",
+      "raw_block": "DÍA 12 – RESUMEN\n\nCalorías ingeridas:\n\nDesayuno:\n– 2 yogures naturales Arone: ~160 kcal\n– Proteína en polvo (30 g): ~120 kcal\n– Cacahuete en polvo desgrasado (10 g): ~40 kcal\n– Cereales chocolate 0 (15 g): ~55 kcal\n\n– Total desayuno: ~375 kcal\n\nComida:\n– Pasta de lentejas (80 g): ~280 kcal\n– Atún al natural (2 latas de 80 g): ~220 kcal\n– Tomate triturado natural: ~20 kcal\n\n– Total comida: ~520 kcal\n\nCena (pizza casera):\n– Masa de pizza Mercadona (pizza y media): ~450 kcal\n– Mozzarella rallada (70 g): ~210 kcal\n– Media burrata: ~150 kcal\n– Pollo (140 g): ~140 kcal\n– Pavo (30 g): ~35 kcal\n– Tomate base: ~10 kcal\n\n– Total cena: ~995 kcal\n\n⸻\n\nTotal comida del día: ~1.890 kcal\n\nDeporte realizado:\n– Gimnasio: no\n– Actividad adicional: no indicada\n\n⸻\n\nProteína ingerida (aprox):\n– Desayuno: ~35 g\n– Comida (pasta lentejas + atún): ~60 g\n– Cena (pollo + pavo + quesos): ~45 g\n\n– Total proteína estimada: ~140 g",
+      "source": {
+        "calories": "Total comida del día: ~1.890 kcal",
+        "protein_g": "– Total proteína estimada: ~140 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1890,
+      "deficit_kcal": 278,
+      "cumulative_deficit_kcal": 5095,
+      "estimated_weight_kg": 85.84,
+      "trend_weight_kg": 85.8,
+      "estimated_body_fat_pct": 21.9,
+      "trend_body_fat_pct": 21.9,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 13,
+      "date": "2026-01-31",
+      "calories": 1530,
+      "protein_g": 50,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 13 – RESUMEN Calorías ingeridas: – Comida fuera (rabas fritas + tortilla de patata + migas): 700 kcal – Cena (pasta + queso + salsa): 830 kcal – Total comida del día: 1.530 kcal   Deporte realizado: – Gimnasio: no – Actividad adicional: no indicada   Proteína ingerida (aprox): – Comida fuera: ~20–25 g – Cena (pasta + queso): ~25–30 g – Total proteína est",
+      "raw_block": "DÍA 13 – RESUMEN\n\nCalorías ingeridas:\n– Comida fuera (rabas fritas + tortilla de patata + migas): 700 kcal\n– Cena (pasta + queso + salsa): 830 kcal\n\n– Total comida del día: 1.530 kcal\n\n⸻\n\nDeporte realizado:\n– Gimnasio: no\n– Actividad adicional: no indicada\n\n⸻\n\nProteína ingerida (aprox):\n– Comida fuera: ~20–25 g\n– Cena (pasta + queso): ~25–30 g\n\n– Total proteína estimada: ~45–55 g\n\n⸻\n\nNotas:\n– Día bajo en calorías\n– Proteína muy baja\n– Sin entrenamiento\n– Buen día para compensar días altos, pero no ideal repetir\n– Mañana conviene subir proteína aunque se mantengan calorías controladas",
+      "source": {
+        "calories": "– Total comida del día: 1.530 kcal",
+        "protein_g": "– Total proteína estimada: ~45–55 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1530,
+      "deficit_kcal": 638,
+      "cumulative_deficit_kcal": 5733,
+      "estimated_weight_kg": 85.76,
+      "trend_weight_kg": 85.74,
+      "estimated_body_fat_pct": 21.9,
+      "trend_body_fat_pct": 21.8,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 14,
+      "date": "2026-02-01",
+      "calories": 1925,
+      "protein_g": 125,
+      "exercise_kcal": 400,
+      "training_type": "pecho + cardio",
+      "alcohol": true,
+      "notes": "DÍA 14 – RESUMEN Calorías ingeridas: Comida: – Pasta konjac: ~10 kcal – Atún al natural (2 latas): ~220 kcal – Mozzarella rallada (50 g): ~150 kcal – Tomate triturado (100 g): ~20 kcal – Flan proteico: 70 kcal – Total comida: ~470 kcal Merienda: – Yogures naturales Danone (2): 160 kcal – Proteína en polvo (30 g): 170 kcal – Cereales chocolate 0 (20 g): ~75 k",
+      "raw_block": "DÍA 14 – RESUMEN\n\nCalorías ingeridas:\n\nComida:\n– Pasta konjac: ~10 kcal\n– Atún al natural (2 latas): ~220 kcal\n– Mozzarella rallada (50 g): ~150 kcal\n– Tomate triturado (100 g): ~20 kcal\n– Flan proteico: 70 kcal\n\n– Total comida: ~470 kcal\n\nMerienda:\n– Yogures naturales Danone (2): 160 kcal\n– Proteína en polvo (30 g): 170 kcal\n– Cereales chocolate 0 (20 g): ~75 kcal\n\n– Total merienda: ~405 kcal\n\nCena / salida:\n– Cerveza (600 ml): ~260 kcal\n– Patatas bravas (7 dados): ~120 kcal\n– Huevo relleno (atún + tomate): ~120 kcal\n– Media hamburguesa pequeña (pan blanco + ~120 g carne): ~300 kcal\n– Medio brioche de birria con mayonesa: ~250 kcal\n\n– Total cena: ~1.050 kcal\n\n⸻\n\nTotal comida del día estimado: ~1.925 kcal\n\n⸻\n\nDeporte realizado:\n\n– Gimnasio (pecho): ~60 min\n• 4 ejercicios de fuerza – 4×12\n– Cinta: 200 kcal\n\n– Gasto estimado gym: ~400 kcal\n\n⸻\n\nProteína ingerida (aprox):\n\n– Atún: ~45 g\n– Proteína en polvo: ~24 g\n– Yogures: ~10 g\n– Mozzarella: ~12 g\n– Huevo relleno + carne hamburguesa: ~30–35 g\n\n– Total proteína estimada: ~120–130 g",
+      "source": {
+        "calories": "Total comida del día estimado: ~1.925 kcal",
+        "protein_g": "– Total proteína estimada: ~120–130 g",
+        "exercise_kcal": "– Gasto estimado gym: ~400 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2568,
+      "net_intake_kcal": 1525,
+      "deficit_kcal": 643,
+      "cumulative_deficit_kcal": 6376,
+      "estimated_weight_kg": 85.67,
+      "trend_weight_kg": 85.68,
+      "estimated_body_fat_pct": 21.8,
+      "trend_body_fat_pct": 21.8,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 15,
+      "date": "2026-02-02",
+      "calories": 950,
+      "protein_g": 70,
+      "exercise_kcal": 275,
+      "training_type": "fuerza",
+      "alcohol": false,
+      "notes": "DÍA 15 Calorías ingeridas: – Total comida: ~950 kcal Deporte realizado: – Gimnasio (fuerza): ~60 min – Cinta: no Proteína ingerida: – ~70 g",
+      "raw_block": "DÍA 15\n\nCalorías ingeridas:\n– Total comida: ~950 kcal\n\nDeporte realizado:\n– Gimnasio (fuerza): ~60 min\n– Cinta: no\n\nProteína ingerida:\n– ~70 g",
+      "source": {
+        "calories": "– Total comida: ~950 kcal",
+        "protein_g": "– ~70 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2443,
+      "net_intake_kcal": 675,
+      "deficit_kcal": 1493,
+      "cumulative_deficit_kcal": 7869,
+      "estimated_weight_kg": 85.48,
+      "trend_weight_kg": 85.61,
+      "estimated_body_fat_pct": 21.7,
+      "trend_body_fat_pct": 21.8,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 16,
+      "date": "2026-02-03",
+      "calories": 1585,
+      "protein_g": 130,
+      "exercise_kcal": 450,
+      "training_type": "espalda + brazos + core + cardio",
+      "alcohol": false,
+      "notes": "DÍA 16 – RESUMEN Calorías ingeridas: Desayuno: – 2 yogures naturales Danone – Proteína en polvo (40 g) – Cereales chocolate 0 (20 g) → ~395 kcal Comida: – Judías blancas → 400 kcal Cena (pizza casera proteica): – Queso cottage (200 g) – 2 huevos – Harina (30 g) – Tomate triturado (150 g) – Pavo (60 g) – Mozzarella rallada (50 g) – Salsa barbacoa (10 g) → ~79",
+      "raw_block": "DÍA 16 – RESUMEN\n\nCalorías ingeridas:\n\nDesayuno:\n– 2 yogures naturales Danone\n– Proteína en polvo (40 g)\n– Cereales chocolate 0 (20 g)\n→ ~395 kcal\n\nComida:\n– Judías blancas\n→ 400 kcal\n\nCena (pizza casera proteica):\n– Queso cottage (200 g)\n– 2 huevos\n– Harina (30 g)\n– Tomate triturado (150 g)\n– Pavo (60 g)\n– Mozzarella rallada (50 g)\n– Salsa barbacoa (10 g)\n→ ~790 kcal\n\n⸻\n\nTotal calorías del día: ~1.585 kcal\n\n⸻\n\nDeporte realizado:\n\nGimnasio (espalda + brazos + core):\n– Duración total: ~70 min\n– Fuerza (remo, face pull, tríceps, jalón): ~330 kcal\n– Core: incluido\n– Escaleras (10 min): 120 kcal\n\n→ Gasto estimado total gimnasio: ~450 kcal\n\n⸻\n\nProteína ingerida (aprox):\n– ~130 g",
+      "source": {
+        "calories": "Total calorías del día: ~1.585 kcal",
+        "protein_g": "– ~130 g",
+        "exercise_kcal": "→ Gasto estimado total gimnasio: ~450 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2618,
+      "net_intake_kcal": 1135,
+      "deficit_kcal": 1033,
+      "cumulative_deficit_kcal": 8902,
+      "estimated_weight_kg": 85.34,
+      "trend_weight_kg": 85.55,
+      "estimated_body_fat_pct": 21.7,
+      "trend_body_fat_pct": 21.8,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 17,
+      "date": "2026-02-04",
+      "calories": 1960,
+      "protein_g": 105,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 17 Calorías ingeridas: Desayuno: – Gelatina proteica + flan proteico → ~150 kcal Comida: – Ñoquis (200 g) – Pollo (140 g) – Philadelphia (40 g) – Mozzarella rallada (20 g) → ~590 kcal Cena (sushi + postre): – 12 uramakis – 5 nigiris – Postre de obleas con queso crema y nocilla → ~1.220 kcal Total calorías del día: → ~1.960 kcal Deporte realizado: – No gi",
+      "raw_block": "DÍA 17\n\nCalorías ingeridas:\n\nDesayuno:\n– Gelatina proteica + flan proteico\n→ ~150 kcal\n\nComida:\n– Ñoquis (200 g)\n– Pollo (140 g)\n– Philadelphia (40 g)\n– Mozzarella rallada (20 g)\n→ ~590 kcal\n\nCena (sushi + postre):\n– 12 uramakis\n– 5 nigiris\n– Postre de obleas con queso crema y nocilla\n→ ~1.220 kcal\n\nTotal calorías del día:\n→ ~1.960 kcal\n\nDeporte realizado:\n– No gimnasio\n\nProteína ingerida (aprox):\n– ~100–110 g\n\nNotas:\n– Día social bien controlado\n– Calorías dentro del rango\n– Proteína algo justa pero aceptable\n– No afecta negativamente al progreso",
+      "source": {
+        "calories": "→ ~1.960 kcal",
+        "protein_g": "– ~100–110 g",
+        "exercise_kcal": "no gym"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1960,
+      "deficit_kcal": 208,
+      "cumulative_deficit_kcal": 9110,
+      "estimated_weight_kg": 85.32,
+      "trend_weight_kg": 85.49,
+      "estimated_body_fat_pct": 21.7,
+      "trend_body_fat_pct": 21.7,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 18,
+      "date": "2026-02-05",
+      "calories": 2260,
+      "protein_g": 100,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 18 Calorías ingeridas: Desayuno: – Café con leche sin azúcar → ~50 kcal Comida: – Pizza 1: • Base pizza Mercadona → 370 kcal • Pollo → 140 kcal • Mozzarella rallada (30 g) → ~90 kcal – Pizza 2 (media): • Media base pizza → ~185 kcal • Media burrata → ~150 kcal • Pavo (10 g) → ~15 kcal • Mozzarella rallada (15 g) → ~45 kcal → Total comida: ~995 kcal Cena ",
+      "raw_block": "DÍA 18\n\nCalorías ingeridas:\n\nDesayuno:\n– Café con leche sin azúcar → ~50 kcal\n\nComida:\n– Pizza 1:\n• Base pizza Mercadona → 370 kcal\n• Pollo → 140 kcal\n• Mozzarella rallada (30 g) → ~90 kcal\n– Pizza 2 (media):\n• Media base pizza → ~185 kcal\n• Media burrata → ~150 kcal\n• Pavo (10 g) → ~15 kcal\n• Mozzarella rallada (15 g) → ~45 kcal\n\n→ Total comida: ~995 kcal\n\nCena / salida:\n– McExtreme → ~520 kcal\n– Cuarto de libra → ~520 kcal\n– Nuggets (3 uds) → ~130 kcal\n– Salsa BBQ → ~45 kcal\n\n→ Total cena: ~1.215 kcal\n⸻\nTotal calorías del día:\n→ ~2.260 kcal\n\nDeporte realizado:\n– No gimnasio\n\nProteína ingerida (aprox):\n– ~95–105 g",
+      "source": {
+        "calories": "→ ~2.260 kcal",
+        "protein_g": "– ~95–105 g",
+        "exercise_kcal": "no gym"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 2260,
+      "deficit_kcal": -92,
+      "cumulative_deficit_kcal": 9018,
+      "estimated_weight_kg": 85.33,
+      "trend_weight_kg": 85.42,
+      "estimated_body_fat_pct": 21.7,
+      "trend_body_fat_pct": 21.7,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 19,
+      "date": "2026-02-06",
+      "calories": 1720,
+      "protein_g": 80,
+      "exercise_kcal": 375,
+      "training_type": "pierna",
+      "alcohol": true,
+      "notes": "DÍA 19 Calorías ingeridas: Comida: – 3 tortitas integrales – Mozzarella rallada (110 g) – Pollo (180 g) → ~810 kcal Cena fuera: – Cerveza (1) – Patatas bravas (50 g) – Croqueta de jamón (1) – Pincho de tortilla con cebolla caramelizada y queso de cabra → ~660 kcal Alcohol: – Whisky con Coca-Cola 0 (2,5 copas) → ~250 kcal Total calorías del día: → ~1.720 kcal",
+      "raw_block": "DÍA 19\n\nCalorías ingeridas:\n\nComida:\n– 3 tortitas integrales\n– Mozzarella rallada (110 g)\n– Pollo (180 g)\n→ ~810 kcal\n\nCena fuera:\n– Cerveza (1)\n– Patatas bravas (50 g)\n– Croqueta de jamón (1)\n– Pincho de tortilla con cebolla caramelizada y queso de cabra\n→ ~660 kcal\n\nAlcohol:\n– Whisky con Coca-Cola 0 (2,5 copas)\n→ ~250 kcal\n\nTotal calorías del día:\n→ ~1.720 kcal\n\nDeporte realizado:\n– Gimnasio pierna (~45–50 min)\n– Gasto estimado: ~350–400 kcal\n\nProteína ingerida:\n– ~80 g",
+      "source": {
+        "calories": "→ ~1.720 kcal",
+        "protein_g": "– ~80 g",
+        "exercise_kcal": "– Gasto estimado: ~350–400 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2543,
+      "net_intake_kcal": 1345,
+      "deficit_kcal": 823,
+      "cumulative_deficit_kcal": 9841,
+      "estimated_weight_kg": 85.22,
+      "trend_weight_kg": 85.36,
+      "estimated_body_fat_pct": 21.6,
+      "trend_body_fat_pct": 21.7,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 20,
+      "date": "2026-02-07",
+      "calories": 2000,
+      "protein_g": 85,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 20 Calorías ingeridas: Comida fuera: – Huevos fritos con patatas y jamón – Alcachofa con jamón – Pulpo a la gallega (1/3 ración) → ~1200 kcal Cena: – Tostadas integrales (3) – Burrata (200 g) – Pavo (15 g) – Chorrito de pesto → ~710 kcal Extra: – Barrita proteica → 90 kcal Total calorías del día: → ~2000kcal Deporte realizado: – No gimnasio Proteína inge",
+      "raw_block": "DÍA 20\n\nCalorías ingeridas:\n\nComida fuera:\n– Huevos fritos con patatas y jamón\n– Alcachofa con jamón\n– Pulpo a la gallega (1/3 ración)\n→ ~1200 kcal\n\nCena:\n– Tostadas integrales (3)\n– Burrata (200 g)\n– Pavo (15 g)\n– Chorrito de pesto\n→ ~710 kcal\n\nExtra:\n– Barrita proteica\n→ 90 kcal\n\nTotal calorías del día:\n→ ~2000kcal\n\nDeporte realizado:\n– No gimnasio\n\nProteína ingerida:\n– ~85 g",
+      "source": {
+        "calories": "→ ~2000kcal",
+        "protein_g": "– ~85 g",
+        "exercise_kcal": "no gym"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 2000,
+      "deficit_kcal": 168,
+      "cumulative_deficit_kcal": 10009,
+      "estimated_weight_kg": 85.2,
+      "trend_weight_kg": 85.3,
+      "estimated_body_fat_pct": 21.6,
+      "trend_body_fat_pct": 21.7,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 21,
+      "date": "2026-02-08",
+      "calories": 1730,
+      "protein_g": 120,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 21 Calorías ingeridas: Media mañana: – Sándwich pollo y curry (Rodilla) – Café con leche → ~250 kcal Comida: – Ñoquis (150 g) – Hamburguesa solo carne (120 g) – Queso fresco batido + mozzarella – Mazapán – Flan proteico → ~720 kcal Cena: – Zanahorias (4) – Pimiento verde – Tortitas integrales (3) – Pollo (140 g) – Mozzarella rallada (57 g) → ~760 kcal To",
+      "raw_block": "DÍA 21\n\nCalorías ingeridas:\n\nMedia mañana:\n– Sándwich pollo y curry (Rodilla)\n– Café con leche\n→ ~250 kcal\n\nComida:\n– Ñoquis (150 g)\n– Hamburguesa solo carne (120 g)\n– Queso fresco batido + mozzarella\n– Mazapán\n– Flan proteico\n→ ~720 kcal\n\nCena:\n– Zanahorias (4)\n– Pimiento verde\n– Tortitas integrales (3)\n– Pollo (140 g)\n– Mozzarella rallada (57 g)\n→ ~760 kcal\n\nTotal calorías del día:\n→ ~1.730 kcal\n\nDeporte realizado:\n– No gimnasio\n\nProteína ingerida:\n– ~120 g",
+      "source": {
+        "calories": "→ ~1.730 kcal",
+        "protein_g": "– ~120 g",
+        "exercise_kcal": "no gym"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1730,
+      "deficit_kcal": 438,
+      "cumulative_deficit_kcal": 10447,
+      "estimated_weight_kg": 85.14,
+      "trend_weight_kg": 85.23,
+      "estimated_body_fat_pct": 21.6,
+      "trend_body_fat_pct": 21.6,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 22,
+      "date": "2026-02-09",
+      "calories": 1270,
+      "protein_g": 83,
+      "exercise_kcal": 600,
+      "training_type": "pecho + hombro + cardio",
+      "alcohol": false,
+      "notes": "DÍA 22 – RESUMEN Calorías ingeridas Desayuno: – Café con leche (sin azúcar): ~60 kcal – Mini bizcochito (~10 g): ~45 kcal → Total desayuno: ~105 kcal   Comida: – Arroz blanco cocido (200 g): ~260 kcal – Tomate triturado (50 g): ~10 kcal – Huevos fritos (2 uds, con aceite): ~350 kcal → Total comida: ~620 kcal   Cena (arroz + pollo + salsa cacahuete): – Arroz ",
+      "raw_block": "DÍA 22 – RESUMEN\n\nCalorías ingeridas\n\nDesayuno:\n– Café con leche (sin azúcar): ~60 kcal\n– Mini bizcochito (~10 g): ~45 kcal\n\n→ Total desayuno: ~105 kcal\n\n⸻\n\nComida:\n– Arroz blanco cocido (200 g): ~260 kcal\n– Tomate triturado (50 g): ~10 kcal\n– Huevos fritos (2 uds, con aceite): ~350 kcal\n\n→ Total comida: ~620 kcal\n\n⸻\n\nCena (arroz + pollo + salsa cacahuete):\n– Arroz Sabroz (125 g cocido): 164 kcal\n– Pollo a la plancha (250 g en crudo): ~275 kcal\n– Cacahuete en polvo desgrasado (20 g): ~84 kcal\n– Queso fresco batido (2 cucharadas): ~25 kcal\n\n→ Total cena: ~548 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n~1.270 kcal\n\n⸻\n\nDeporte realizado:\n– Entrenamiento fuerza (pecho + hombro): ~200 kcal\n– Cinta (30 min, pendiente alta): ~400 kcal\n\n→ Gasto total entrenamiento: ~600 kcal\n\n⸻\n\nProteína ingerida (aprox):\n– Leche del café: ~3 g\n– Huevos: ~12 g\n– Pollo (250 g crudo): ~55 g\n– Cacahuete en polvo: ~9 g\n– Queso fresco batido: ~4 g\n\n→ Total proteína estimada: ~83 g",
+      "source": {
+        "calories": "~1.270 kcal",
+        "protein_g": "→ Total proteína estimada: ~83 g",
+        "exercise_kcal": "→ Gasto total entrenamiento: ~600 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2768,
+      "net_intake_kcal": 670,
+      "deficit_kcal": 1498,
+      "cumulative_deficit_kcal": 11945,
+      "estimated_weight_kg": 84.95,
+      "trend_weight_kg": 85.17,
+      "estimated_body_fat_pct": 21.5,
+      "trend_body_fat_pct": 21.6,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 23,
+      "date": "2026-02-10",
+      "calories": 1827,
+      "protein_g": 80,
+      "exercise_kcal": 200,
+      "training_type": "espalda",
+      "alcohol": false,
+      "notes": "DÍA 23 – RESUMEN Calorías ingeridas Desayuno: – Bol de yogur (2 yogures naturales + proteína + cereales 0%): ~372 kcal → Total desayuno: ~372 kcal   Comida: – Canelones de foie gras (5 unidades): ~1.200 kcal → Total comida: ~1.200 kcal   Cena: – Patata cocida + batata cocida (150 g total): ~115 kcal – Pollo a la plancha (140 g): ~140 kcal → Total cena: ~255 ",
+      "raw_block": "DÍA 23 – RESUMEN\n\nCalorías ingeridas\n\nDesayuno:\n– Bol de yogur (2 yogures naturales + proteína + cereales 0%): ~372 kcal\n\n→ Total desayuno: ~372 kcal\n\n⸻\n\nComida:\n– Canelones de foie gras (5 unidades): ~1.200 kcal\n\n→ Total comida: ~1.200 kcal\n\n⸻\n\nCena:\n– Patata cocida + batata cocida (150 g total): ~115 kcal\n– Pollo a la plancha (140 g): ~140 kcal\n\n→ Total cena: ~255 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n~1.827 kcal\n\n⸻\n\nDeporte realizado:\n– Entrenamiento fuerza (espalda + brazos): ~200 kcal\n\n→ Gasto total entrenamiento: ~200 kcal\n\n⸻\n\nProteína ingerida (aprox):\n– Desayuno (proteína + yogur): ~45 g\n– Pollo cena: ~31 g\n– Resto alimentos: ~5 g\n\n→ Total proteína estimada: ~80 g\n\n⸻",
+      "source": {
+        "calories": "~1.827 kcal",
+        "protein_g": "→ Total proteína estimada: ~80 g",
+        "exercise_kcal": "→ Gasto total entrenamiento: ~200 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2368,
+      "net_intake_kcal": 1627,
+      "deficit_kcal": 541,
+      "cumulative_deficit_kcal": 12486,
+      "estimated_weight_kg": 84.88,
+      "trend_weight_kg": 85.11,
+      "estimated_body_fat_pct": 21.5,
+      "trend_body_fat_pct": 21.6,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 24,
+      "date": "2026-02-11",
+      "calories": 2410,
+      "protein_g": 90,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 24 – RESUMEN Calorías ingeridas Comida: – Carne tipo albóndiga frita (300 g, con aceite): ~850 kcal – Pan integral: ~60 kcal → Total comida: ~910 kcal   Cena: – Smash Burger: ~600 kcal – Patatas fritas: ~380 kcal – McFlurry: ~520 kcal → Total cena: ~1.500 kcal   Total calorías ingeridas del día: ~2.410 kcal   Deporte realizado: – No gimnasio → Gasto tota",
+      "raw_block": "DÍA 24 – RESUMEN\n\nCalorías ingeridas\n\nComida:\n– Carne tipo albóndiga frita (300 g, con aceite): ~850 kcal\n– Pan integral: ~60 kcal\n\n→ Total comida: ~910 kcal\n\n⸻\n\nCena:\n– Smash Burger: ~600 kcal\n– Patatas fritas: ~380 kcal\n– McFlurry: ~520 kcal\n\n→ Total cena: ~1.500 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n~2.410 kcal\n\n⸻\n\nDeporte realizado:\n– No gimnasio\n\n→ Gasto total entrenamiento: 0 kcal\n\n⸻\n\nProteína ingerida (aprox):\n– Carne frita: ~60 g\n– Smash Burger: ~25 g\n– Resto alimentos: ~5 g\n\n→ Total proteína estimada: ~90 g",
+      "source": {
+        "calories": "~2.410 kcal",
+        "protein_g": "→ Total proteína estimada: ~90 g",
+        "exercise_kcal": "→ Gasto total entrenamiento: 0 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 2410,
+      "deficit_kcal": -242,
+      "cumulative_deficit_kcal": 12244,
+      "estimated_weight_kg": 84.91,
+      "trend_weight_kg": 85.04,
+      "estimated_body_fat_pct": 21.5,
+      "trend_body_fat_pct": 21.6,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 25,
+      "date": "2026-02-12",
+      "calories": 1740,
+      "protein_g": 78,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 25 – RESUMEN (ACTUALIZADO) Calorías ingeridas Desayuno – No realizado → 0 kcal   Comida – Sándwich pan brioche con pavo y queso → ~350 kcal   Cena – Sushi variado (≈16 piezas, con algo de teriyaki/aguacate/frito) → ~800 kcal   Extras – Hamburguesa pequeña McDonald’s (tipo 1€): ~250 kcal – McFlurry pequeño: ~340 kcal   Total calorías del día  ~1.740 kcal ",
+      "raw_block": "DÍA 25 – RESUMEN (ACTUALIZADO)\n\nCalorías ingeridas\n\nDesayuno\n– No realizado\n→ 0 kcal\n\n⸻\n\nComida\n– Sándwich pan brioche con pavo y queso\n→ ~350 kcal\n\n⸻\n\nCena\n– Sushi variado (≈16 piezas, con algo de teriyaki/aguacate/frito)\n→ ~800 kcal\n\n⸻\n\nExtras\n– Hamburguesa pequeña McDonald’s (tipo 1€): ~250 kcal\n– McFlurry pequeño: ~340 kcal\n\n⸻\n\nTotal calorías del día\n\n👉 ~1.740 kcal\n\n⸻\n\nEntrenamiento\n– No gimnasio\n→ Gasto entrenamiento: 0 kcal\n\n⸻\n\nProteína estimada\n– Sándwich: ~20–25 g\n– Sushi: ~35–45 g\n– Hamburguesa: ~12 g\n\n→ Total proteína: ~70–80",
+      "source": {
+        "calories": "👉 ~1.740 kcal",
+        "protein_g": null,
+        "exercise_kcal": "no gym"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": true,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1740,
+      "deficit_kcal": 428,
+      "cumulative_deficit_kcal": 12672,
+      "estimated_weight_kg": 84.85,
+      "trend_weight_kg": 84.98,
+      "estimated_body_fat_pct": 21.5,
+      "trend_body_fat_pct": 21.6,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 26,
+      "date": "2026-02-13",
+      "calories": 3223,
+      "protein_g": 110,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": true,
+      "notes": "DÍA 26 – RESUMEN Calorías ingeridas Comida / mediodía: – Pincho de tortilla con jamón y queso: ~350 kcal – Cerveza doble (2): ~400 kcal – Media ración de bravas: ~250 kcal – Taco de chorizo con guacamole: ~200 kcal – ¼ croissant: ~80 kcal → Total comida: ~1.280 kcal   Cena (McDonald’s): – Big Mac: ~503 kcal – 8 McNuggets: ~340 kcal – Hamburguesa pequeña: ~25",
+      "raw_block": "DÍA 26 – RESUMEN\n\nCalorías ingeridas\n\nComida / mediodía:\n– Pincho de tortilla con jamón y queso: ~350 kcal\n– Cerveza doble (2): ~400 kcal\n– Media ración de bravas: ~250 kcal\n– Taco de chorizo con guacamole: ~200 kcal\n– ¼ croissant: ~80 kcal\n\n→ Total comida: ~1.280 kcal\n\n⸻\n\nCena (McDonald’s):\n– Big Mac: ~503 kcal\n– 8 McNuggets: ~340 kcal\n– Hamburguesa pequeña: ~250 kcal\n– Salsa BBQ (2): ~90 kcal\n– Salsa Buffalo: ~30 kcal\n– Ketchup (2): ~20 kcal\n– ½ bolsa pequeña de patatas fritas: ~110 kcal\n– Mini McFlurry Oreo con toppings: ~300 kcal\n\n→ Total cena: ~1.643 kcal\n\n⸻\n\nAlcohol:\n– Whisky con Coca-Cola Zero (3 copas): ~300 kcal\n\n→ Total alcohol: ~300 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n~3.223 kcal\n\n⸻\n\nDeporte realizado:\n– No gimnasio\n\n→ Gasto total entrenamiento: 0 kcal\n\n⸻\n\nProteína ingerida (aprox):\n– Pincho tortilla + jamón + queso: ~20 g\n– Carne hamburguesas + nuggets: ~70 g\n– Resto alimentos: ~20 g\n\n→ Total proteína estimada: ~110 g",
+      "source": {
+        "calories": "~3.223 kcal",
+        "protein_g": "→ Total proteína estimada: ~110 g",
+        "exercise_kcal": "→ Gasto total entrenamiento: 0 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 3223,
+      "deficit_kcal": -1055,
+      "cumulative_deficit_kcal": 11617,
+      "estimated_weight_kg": 84.99,
+      "trend_weight_kg": 84.92,
+      "estimated_body_fat_pct": 21.6,
+      "trend_body_fat_pct": 21.5,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 27,
+      "date": "2026-02-14",
+      "calories": 2680,
+      "protein_g": 95,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": true,
+      "notes": "DÍA 27 – RESUMEN Calorías ingeridas Desayuno: – 3 churros: ~300 kcal – Chocolate caliente: ~250 kcal – Café con leche: ~60 kcal → Total desayuno: ~610 kcal   Comida: – 2 tacos cochinita pibil: ~320 kcal – 2 tacos tinga de pollo: ~280 kcal – 2 tacos cochinita con queso: ~380 kcal – Cerveza doble: ~200 kcal → Total comida: ~1.180 kcal   Cena: – Pasta (125 g): ",
+      "raw_block": "DÍA 27 – RESUMEN\n\nCalorías ingeridas\n\nDesayuno:\n– 3 churros: ~300 kcal\n– Chocolate caliente: ~250 kcal\n– Café con leche: ~60 kcal\n\n→ Total desayuno: ~610 kcal\n\n⸻\n\nComida:\n– 2 tacos cochinita pibil: ~320 kcal\n– 2 tacos tinga de pollo: ~280 kcal\n– 2 tacos cochinita con queso: ~380 kcal\n– Cerveza doble: ~200 kcal\n\n→ Total comida: ~1.180 kcal\n\n⸻\n\nCena:\n– Pasta (125 g): ~430 kcal\n– Bacon: 150 kcal\n– Grana Padano: 200 kcal\n– 2 yemas de huevo: ~110 kcal\n\n→ Total cena: ~890 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n~2.680 kcal\n\n⸻\n\nDeporte realizado:\n– No gimnasio\n\n→ Gasto total entrenamiento: 0 kcal\n\n⸻\n\nProteína ingerida (aprox):\n→ ~90–100 g",
+      "source": {
+        "calories": "~2.680 kcal",
+        "protein_g": "→ ~90–100 g",
+        "exercise_kcal": "→ Gasto total entrenamiento: 0 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 2680,
+      "deficit_kcal": -512,
+      "cumulative_deficit_kcal": 11105,
+      "estimated_weight_kg": 85.06,
+      "trend_weight_kg": 84.85,
+      "estimated_body_fat_pct": 21.6,
+      "trend_body_fat_pct": 21.5,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 28,
+      "date": "2026-02-15",
+      "calories": 1095,
+      "protein_g": 88,
+      "exercise_kcal": 375,
+      "training_type": "espalda + bíceps + pecho",
+      "alcohol": false,
+      "notes": "DÍA 28 – RESUMEN Calorías ingeridas Desayuno: – No realizado → Total desayuno: 0 kcal   Comida: – Arroz de paella (30 g cocido): ~40 kcal → Total comida: ~40 kcal   Merienda: – Pan integral (2 rebanadas × 60 kcal): 120 kcal – Pavo (70 g): ~75 kcal – Mozzarella rallada (10 g): ~30 kcal → Total merienda: ~225 kcal   Cena (quesadillas): – Tortitas integrales (3",
+      "raw_block": "DÍA 28 – RESUMEN\n\nCalorías ingeridas\n\nDesayuno:\n– No realizado\n\n→ Total desayuno: 0 kcal\n\n⸻\n\nComida:\n– Arroz de paella (30 g cocido): ~40 kcal\n\n→ Total comida: ~40 kcal\n\n⸻\n\nMerienda:\n– Pan integral (2 rebanadas × 60 kcal): 120 kcal\n– Pavo (70 g): ~75 kcal\n– Mozzarella rallada (10 g): ~30 kcal\n\n→ Total merienda: ~225 kcal\n\n⸻\n\nCena (quesadillas):\n– Tortitas integrales (3,5 × 100 kcal): 350 kcal\n– Pollo (140 g): ~140 kcal\n– Pavo (30 g): ~35 kcal\n– Mozzarella rallada total (100 g, parte proteica): ~280 kcal\n– Salsa barbacoa (10 g): ~25 kcal\n\n→ Total cena: ~830 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n~1.095 kcal\n\n⸻\n\nDeporte realizado:\n– Gimnasio (espalda + bíceps): ~60–70 min\n• Remo\n• Jalón al pecho\n• Remo unilateral\n• Curl martillo\n• Bíceps en polea\n\n→ Gasto total entrenamiento: ~350–400 kcal\n\n⸻\n\nProteína ingerida (aprox):\n– Pollo (140 g): ~31 g\n– Pavo total (~100 g): ~22 g\n– Mozzarella (100 g): ~20–25 g\n– Pan + extras: ~10 g\n\n→ Total proteína estimada: ~85–90 g",
+      "source": {
+        "calories": "~1.095 kcal",
+        "protein_g": "→ Total proteína estimada: ~85–90 g",
+        "exercise_kcal": "→ Gasto total entrenamiento: ~350–400 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2543,
+      "net_intake_kcal": 720,
+      "deficit_kcal": 1448,
+      "cumulative_deficit_kcal": 12553,
+      "estimated_weight_kg": 84.87,
+      "trend_weight_kg": 84.79,
+      "estimated_body_fat_pct": 21.5,
+      "trend_body_fat_pct": 21.5,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 29,
+      "date": "2026-02-16",
+      "calories": 1690,
+      "protein_g": 135,
+      "exercise_kcal": 350,
+      "training_type": "pecho + tríceps + cardio",
+      "alcohol": false,
+      "notes": "DÍA 29 – RESUMEN Calorías ingeridas Desayuno: – Café con leche (sin azúcar): ~60 kcal → Total desayuno: ~60 kcal   Comida: – Filete de ternera (200 g): ~320 kcal – Puré de patata 99% patata: ~230 kcal → Total comida: ~550 kcal   Extra: – Yogur natural Danone: ~80 kcal   Cena (pizza casera proteica): – Queso cottage (200 g): ~180 kcal – Huevos (2): ~150 kcal ",
+      "raw_block": "DÍA 29 – RESUMEN\n\nCalorías ingeridas\n\nDesayuno:\n– Café con leche (sin azúcar): ~60 kcal\n\n→ Total desayuno: ~60 kcal\n\n⸻\n\nComida:\n– Filete de ternera (200 g): ~320 kcal\n– Puré de patata 99% patata: ~230 kcal\n\n→ Total comida: ~550 kcal\n\n⸻\n\nExtra:\n– Yogur natural Danone: ~80 kcal\n\n⸻\n\nCena (pizza casera proteica):\n– Queso cottage (200 g): ~180 kcal\n– Huevos (2): ~150 kcal\n– Harina de trigo (30 g): ~110 kcal\n– Tomate triturado (100 g): ~40 kcal\n– Mozzarella rallada (100 g): ~280 kcal\n– Pavo (120 g): ~135 kcal\n– Salsa barbacoa (15 g): ~35 kcal\n\n→ Total cena: ~930 kcal\n\n⸻\n\nPostre:\n– Flan proteico: 70 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n~1.690 kcal\n\n⸻\n\nDeporte realizado:\n– Gimnasio (pecho + tríceps): ~60 min\n• Press banca\n• Press inclinado mancuernas\n• Cruces en poleas (inferior y superior)\n• Extensión tríceps polea (arriba y abajo)\n– Cinta (10 min): ~140 kcal\n\n→ Gasto total entrenamiento: ~340–360 kcal\n\n⸻\n\nProteína ingerida (aprox):\n– Ternera (200 g): ~42 g\n– Queso cottage: ~24 g\n– Huevos: ~12 g\n– Mozzarella: ~22 g\n– Pavo (120 g): ~27 g\n– Flan proteico + yogur: ~12 g\n\n→ Total proteína aproximada: ~135 g",
+      "source": {
+        "calories": "~1.690 kcal",
+        "protein_g": "→ Total proteína aproximada: ~135 g",
+        "exercise_kcal": "→ Gasto total entrenamiento: ~340–360 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2518,
+      "net_intake_kcal": 1340,
+      "deficit_kcal": 828,
+      "cumulative_deficit_kcal": 13381,
+      "estimated_weight_kg": 84.76,
+      "trend_weight_kg": 84.73,
+      "estimated_body_fat_pct": 21.5,
+      "trend_body_fat_pct": 21.5,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 30,
+      "date": "2026-02-17",
+      "calories": 2095,
+      "protein_g": 70,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 30 – RESUMEN Calorías ingeridas Desayuno: – Café con leche (20% leche aprox): ~30 kcal – 2 pastitas pequeñas de panadería (~10 g total): ~45 kcal → Total desayuno: ~75 kcal   Comida: – Patata guisada (7 dados, aprox 120 g): ~100 kcal – Costilla adobada (20–30 g carne limpia): ~80 kcal – Quesadilla: – Tortita integral: 100 kcal – Pavo (110 g): ~120 kcal –",
+      "raw_block": "DÍA 30 – RESUMEN\n\nCalorías ingeridas\n\nDesayuno:\n– Café con leche (20% leche aprox): ~30 kcal\n– 2 pastitas pequeñas de panadería (~10 g total): ~45 kcal\n\n→ Total desayuno: ~75 kcal\n\n⸻\n\nComida:\n– Patata guisada (7 dados, aprox 120 g): ~100 kcal\n– Costilla adobada (20–30 g carne limpia): ~80 kcal\n– Quesadilla:\n– Tortita integral: 100 kcal\n– Pavo (110 g): ~120 kcal\n– Mozzarella rallada (15 g): ~45 kcal\n\n→ Total comida: ~445 kcal\n\n⸻\n\nCena (salida):\n– Pincho de tortilla: ~250 kcal\n– Queso jalapeño (4 triángulos, ~60 g): ~220 kcal\n– Cecina con almendra y aceite: ~120 kcal\n– Nachos + guacamole + salsa roja + salsa queso (media bolsa con salsas): ~600 kcal\n– Flan de queso: ~200 kcal\n– Ferrero Rocher: ~75 kcal\n– Polvorón: ~110 kcal\n\n→ Total cena: ~1.575 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n~2.095 kcal\n\n⸻\n\nDeporte realizado:\n– No gimnasio\n\n→ Gasto total entrenamiento: 0 kcal\n\n⸻\n\nProteína ingerida (aprox):\n– Pavo (110 g): ~24 g\n– Queso total: ~20 g\n– Costilla: ~6 g\n– Tortilla: ~8 g\n– Cecina: ~10 g\n\n→ Total proteína estimada: ~70 g",
+      "source": {
+        "calories": "~2.095 kcal",
+        "protein_g": "→ Total proteína estimada: ~70 g",
+        "exercise_kcal": "→ Gasto total entrenamiento: 0 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 2095,
+      "deficit_kcal": 73,
+      "cumulative_deficit_kcal": 13454,
+      "estimated_weight_kg": 84.75,
+      "trend_weight_kg": 84.66,
+      "estimated_body_fat_pct": 21.5,
+      "trend_body_fat_pct": 21.4,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 31,
+      "date": "2026-02-18",
+      "calories": 1491,
+      "protein_g": 111,
+      "exercise_kcal": 250,
+      "training_type": "pierna",
+      "alcohol": false,
+      "notes": "DÍA 31 – RESUMEN (actualizado con gelatina) Calorías ingeridas Desayuno: – Café con muy poca leche: ~20 kcal → Total desayuno: ~20 kcal   Comida (pasta lentejas + atún + tomate + burrata): – Pasta de lentejas (80 g en seco): ~267 kcal – Atún al natural (1 lata, 60 g escurrido): ~59 kcal – Tomate triturado con albahaca (100 g): 34 kcal – Burrata (150 g): ~353",
+      "raw_block": "DÍA 31 – RESUMEN (actualizado con gelatina)\n\nCalorías ingeridas\n\nDesayuno:\n– Café con muy poca leche: ~20 kcal\n\n→ Total desayuno: ~20 kcal\n\n⸻\n\nComida (pasta lentejas + atún + tomate + burrata):\n– Pasta de lentejas (80 g en seco): ~267 kcal\n– Atún al natural (1 lata, 60 g escurrido): ~59 kcal\n– Tomate triturado con albahaca (100 g): 34 kcal\n– Burrata (150 g): ~353 kcal\n\n→ Total comida: ~713 kcal\n\n⸻\n\nCena:\n– Zanahorias (4) + pimiento verde: ~120 kcal\n– Pollo (140 g): ~140 kcal\n– Mozzarella rallada (60 g): ~170 kcal\n– Tortitas integrales (3 uds): ~291 kcal\n\n→ Total cena: ~721 kcal\n\n⸻\n\nExtra:\n– Gelatina casera (100 g de mezcla queso fresco 0% + agua): ~37 kcal\n\n→ Total extra: ~37 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n~1.491 kcal\n\n⸻\n\nDeporte realizado:\n– Gimnasio (pierna: extensiones/cuádriceps + isquios + prensa + sentadilla): ~250 kcal\n\n→ Gasto total entrenamiento: ~250 kcal\n\n⸻\n\nProteína ingerida (aprox, con etiquetas)\n– Leche del café: ~1 g\n– Pasta lentejas (80 g): ~21 g\n– Atún (60 g escurrido): ~13 g\n– Tomate (100 g): ~1 g\n– Burrata (150 g): ~15 g\n– Pollo (140 g): ~31 g\n– Mozzarella (60 g): ~13 g\n– Tortitas integrales (3 uds): ~10 g\n– Gelatina (100 g): ~6,4 g\n\n→ Total proteína estimada: ~111 g",
+      "source": {
+        "calories": "~1.491 kcal",
+        "protein_g": "→ Total proteína estimada: ~111 g",
+        "exercise_kcal": "→ Gasto total entrenamiento: ~250 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2418,
+      "net_intake_kcal": 1241,
+      "deficit_kcal": 927,
+      "cumulative_deficit_kcal": 14381,
+      "estimated_weight_kg": 84.63,
+      "trend_weight_kg": 84.6,
+      "estimated_body_fat_pct": 21.4,
+      "trend_body_fat_pct": 21.4,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 32,
+      "date": "2026-02-19",
+      "calories": 499,
+      "protein_g": 92,
+      "exercise_kcal": 0,
+      "training_type": "cardio",
+      "alcohol": true,
+      "notes": "DÍA 32 – RESUMEN Calorías ingeridas Desayuno: – Café con un poco de leche: ~20 kcal → Total desayuno: ~20 kcal   Comida: – Tortitas integrales (2 uds, 97 kcal cada una): ~194 kcal – Mozzarella rallada (30 g total): ~85 kcal – Pavo (110 g): ~120 kcal – Patatas fritas: ~100 kcal → Total comida: ~499 kcal   Cena en casa (tostadas + crema proteica): – Tostadas i",
+      "raw_block": "DÍA 32 – RESUMEN\n\nCalorías ingeridas\n\nDesayuno:\n– Café con un poco de leche: ~20 kcal\n\n→ Total desayuno: ~20 kcal\n\n⸻\n\nComida:\n– Tortitas integrales (2 uds, 97 kcal cada una): ~194 kcal\n– Mozzarella rallada (30 g total): ~85 kcal\n– Pavo (110 g): ~120 kcal\n– Patatas fritas: ~100 kcal\n\n→ Total comida: ~499 kcal\n\n⸻\n\nCena en casa (tostadas + crema proteica):\n– Tostadas integrales (2 × 60 kcal): 120 kcal\n– Proteína en polvo (20 g)\n(377 kcal/100 g → 20 g = ~75 kcal)\n– Leche en polvo (25 g): 89 kcal\n– Leche normal (10 ml): ~5 kcal\n\n→ Total cena en casa: ~289 kcal\n\n⸻\n\nSalida (alcohol + tacos):\n\nAlcohol:\n– 1 tercio (~330 ml): ~140 kcal\n– 1 jarra 0,5 L: ~210 kcal\n– ½ doble (~250 ml aprox): ~100 kcal\n\n→ Total alcohol: ~450 kcal\n\nTacos (tamaño palma de mano):\n– 2 cochinita con queso: ~400 kcal\n– 2 birria: ~350 kcal\n\n→ Total tacos: ~750 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n20\n\t•\t499\n\t•\t289\n\t•\t450\n\t•\t750\n\n👉 ~2.008 kcal\n\n(Realista: entre 2.000 y 2.150 kcal dependiendo del tamaño real de los tacos y queso)\n\n⸻\n\nDeporte realizado:\n– No gimnasio\n\nActividad diaria habitual (~200 kcal pasos)\n\n⸻\n\nProteína estimada (aprox):\n– Pavo: ~24 g\n– Mozzarella: ~7 g\n– Proteína en polvo (20 g): ~15 g\n– Leche en polvo (25 g): ~8 g\n– Tacos (carne + queso): ~35–40 g\n\n👉 Total proteína: ~90–95 g",
+      "source": {
+        "calories": "→ Total comida: ~499 kcal",
+        "protein_g": "👉 Total proteína: ~90–95 g",
+        "exercise_kcal": "no gym"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 499,
+      "deficit_kcal": 1669,
+      "cumulative_deficit_kcal": 16050,
+      "estimated_weight_kg": 84.42,
+      "trend_weight_kg": 84.54,
+      "estimated_body_fat_pct": 21.3,
+      "trend_body_fat_pct": 21.4,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 33,
+      "date": "2026-02-20",
+      "calories": 2046,
+      "protein_g": 160,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA – 33 Calorías ingeridas Desayuno: – Café con un poco de leche: ~20 kcal → Total desayuno: ~20 kcal   Comida (pizza casera estilo base Mercadona): – Pollo (140 g): ~170 kcal – Pavo (40 g): ~45 kcal – Mozzarella rallada (100 g): ~283 kcal – Media burrata (~75 g): ~175 kcal – Base pizza: ~350 kcal → Total comida: ~1.020 kcal   Merienda: – 2 tostadas (67 kca",
+      "raw_block": "DÍA – 33\n\nCalorías ingeridas\n\nDesayuno:\n– Café con un poco de leche: ~20 kcal\n\n→ Total desayuno: ~20 kcal\n\n⸻\n\nComida (pizza casera estilo base Mercadona):\n– Pollo (140 g): ~170 kcal\n– Pavo (40 g): ~45 kcal\n– Mozzarella rallada (100 g): ~283 kcal\n– Media burrata (~75 g): ~175 kcal\n– Base pizza: ~350 kcal\n\n→ Total comida: ~1.020 kcal\n\n⸻\n\nMerienda:\n– 2 tostadas (67 kcal cada una): ~134 kcal\n– Proteína en polvo (20 g): ~75 kcal\n– Leche en polvo (20 g): ~71 kcal\n– Un chorrito de leche: ~5 kcal\n\n→ Total merienda: ~285 kcal\n\n⸻\n\nCena (chicken fingers + salsa Raising Fit):\n– Pollo (300 g): ~360 kcal\n– Cornflakes (50 g): ~186 kcal\n– ½ huevo: ~35 kcal\n– Spray aceite: ~30 kcal\n– Salsa Raising Fit: ~110 kcal\n\n→ Total cena: ~721 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n~2.046 kcal\n\n⸻\n\nProteína ingerida (aprox):\n– Pollo total (440 g): ~97 g\n– Pavo: ~9 g\n– Mozzarella + burrata: ~30 g\n– Proteína en polvo: ~15 g\n– Leche en polvo: ~6 g\n– Huevo: ~3 g\n\n→ Total proteína estimada: ~160 g",
+      "source": {
+        "calories": "~2.046 kcal",
+        "protein_g": "→ Total proteína estimada: ~160 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 2046,
+      "deficit_kcal": 122,
+      "cumulative_deficit_kcal": 16172,
+      "estimated_weight_kg": 84.4,
+      "trend_weight_kg": 84.47,
+      "estimated_body_fat_pct": 21.3,
+      "trend_body_fat_pct": 21.4,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 34,
+      "date": "2026-02-21",
+      "calories": 1369,
+      "protein_g": 112,
+      "exercise_kcal": 250,
+      "training_type": "hombro + abdomen + cardio",
+      "alcohol": false,
+      "notes": "DÍA 34 Calorías ingeridas Desayuno: – 2 yogures naturales Danone: ~144 kcal – Cereales Choco 0 (10 g): ~39 kcal – Proteína en polvo (40 g): ~148 kcal → Total desayuno: ~331 kcal ——— Comida: – Merluza (300 g): ~240 kcal – Yogur natural: ~72 kcal → Total comida: ~312 kcal ——— Cena / Cine: – Medio bol palomitas medianas: ~420 kcal – Pan brioche (2 rebanadas): ~",
+      "raw_block": "DÍA 34\nCalorías ingeridas\n\nDesayuno:\n– 2 yogures naturales Danone: ~144 kcal\n– Cereales Choco 0 (10 g): ~39 kcal\n– Proteína en polvo (40 g): ~148 kcal\n\n→ Total desayuno: ~331 kcal\n\n———\n\nComida:\n– Merluza (300 g): ~240 kcal\n– Yogur natural: ~72 kcal\n\n→ Total comida: ~312 kcal\n\n———\n\nCena / Cine:\n– Medio bol palomitas medianas: ~420 kcal\n– Pan brioche (2 rebanadas): ~196 kcal\n– Pavo (70 g): ~80 kcal\n– Mozzarella rallada (10 g): ~30 kcal\n\n→ Total cena: ~726 kcal\n\n———\n\nTotal día: ~1.369 kcal\n\nProteína aproximada del día: ~110–115 g\n\nEntrenamiento:\n– 4 ejercicios de hombro\n– Cinta: ~200 kcal\n– 10 min abdominales",
+      "source": {
+        "calories": "Total día: ~1.369 kcal",
+        "protein_g": "Proteína aproximada del día: ~110–115 g",
+        "exercise_kcal": "– Cinta: ~200 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2418,
+      "net_intake_kcal": 1119,
+      "deficit_kcal": 1049,
+      "cumulative_deficit_kcal": 17221,
+      "estimated_weight_kg": 84.26,
+      "trend_weight_kg": 84.41,
+      "estimated_body_fat_pct": 21.3,
+      "trend_body_fat_pct": 21.3,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 35,
+      "date": "2026-02-22",
+      "calories": 1300,
+      "protein_g": 70,
+      "exercise_kcal": 275,
+      "training_type": "pecho + tríceps",
+      "alcohol": false,
+      "notes": "DÍA 35 Calorías ingeridas Desayuno: – Café con leche: ~60 kcal → Total desayuno: ~60 kcal   Comida: – Raviolis rellenos (pollo + queso cabra + cebolla caramelizada): ~700 kcal – Yogur natural Danone: ~75 kcal → Total comida: ~775 kcal   Cena (ensalada salmón): – Salmón (90 g aprox): ~180 kcal – Salsa soja (50 ml): ~35 kcal – Salsa teriyaki (20 ml): ~40 kcal ",
+      "raw_block": "DÍA 35\n\nCalorías ingeridas\n\nDesayuno:\n– Café con leche: ~60 kcal\n\n→ Total desayuno: ~60 kcal\n\n⸻\n\nComida:\n– Raviolis rellenos (pollo + queso cabra + cebolla caramelizada): ~700 kcal\n– Yogur natural Danone: ~75 kcal\n\n→ Total comida: ~775 kcal\n\n⸻\n\nCena (ensalada salmón):\n– Salmón (90 g aprox): ~180 kcal\n– Salsa soja (50 ml): ~35 kcal\n– Salsa teriyaki (20 ml): ~40 kcal\n– Sriracha (chorrito): ~10 kcal\n– Queso Philadelphia light (60 g): ~95 kcal\n– Pepino (1 entero): ~30 kcal\n– Yogur natural Danone: ~75 kcal\n\n→ Total cena: ~465 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n~1.300 kcal\n\n⸻\n\nDeporte realizado:\n– Gimnasio (pecho + tríceps, volumen medio/alto): ~250–300 kcal\n\n→ Gasto estimado entrenamiento: ~275 kcal\n\n⸻\n\nProteína ingerida (aprox):\n– Raviolis: ~30 g\n– Salmón: ~20 g\n– Philadelphia light: ~6 g\n– Yogures (2): ~8 g\n– Resto alimentos: ~5 g\n\n→ Total proteína estimada: ~70 g",
+      "source": {
+        "calories": "~1.300 kcal",
+        "protein_g": "→ Total proteína estimada: ~70 g",
+        "exercise_kcal": "→ Gasto estimado entrenamiento: ~275 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2443,
+      "net_intake_kcal": 1025,
+      "deficit_kcal": 1143,
+      "cumulative_deficit_kcal": 18364,
+      "estimated_weight_kg": 84.12,
+      "trend_weight_kg": 84.35,
+      "estimated_body_fat_pct": 21.2,
+      "trend_body_fat_pct": 21.3,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 36,
+      "date": "2026-02-23",
+      "calories": 1785,
+      "protein_g": 87,
+      "exercise_kcal": 325,
+      "training_type": "espalda + bíceps",
+      "alcohol": false,
+      "notes": "DÍA 36 – RESUMEN Calorías ingeridas Desayuno: – Café con leche – Tostadas pan blanco con hummus + chorrito de aceite → Total desayuno: ~550 kcal   Comida: – Puré (cantidad pequeña): ~100 kcal – Albóndigas (160 g ternera, enharinadas y fritas): ~450–500 kcal → Total comida: ~550–600 kcal   Cena: – Pan proteico (85 g): ~227 kcal – Pavo (75 g): ~80 kcal – Burra",
+      "raw_block": "DÍA 36 – RESUMEN\n\nCalorías ingeridas\n\nDesayuno:\n– Café con leche\n– Tostadas pan blanco con hummus + chorrito de aceite\n\n→ Total desayuno: ~550 kcal\n\n⸻\n\nComida:\n– Puré (cantidad pequeña): ~100 kcal\n– Albóndigas (160 g ternera, enharinadas y fritas): ~450–500 kcal\n\n→ Total comida: ~550–600 kcal\n\n⸻\n\nCena:\n– Pan proteico (85 g): ~227 kcal\n– Pavo (75 g): ~80 kcal\n– Burrata entera (150 g): ~353 kcal\n\n→ Total cena: ~660 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n~1.760 – 1.810 kcal\n\n⸻\n\nDeporte realizado:\n– Gimnasio (espalda + bíceps, volumen alto): ~300–350 kcal\n\n→ Gasto estimado entrenamiento: ~325 kcal\n\n⸻\n\nProteína ingerida (aprox, corregida):\n– Ternera (160 g): ~34 g\n– Pavo (75 g): ~16 g\n– Burrata (150 g): ~15 g\n– Pan proteico (85 g → 20,1 g por 100 g): ~17 g\n– Resto alimentos: ~5 g\n\n→ Total proteína estimada: ~87 g",
+      "source": {
+        "calories": "~1.760 – 1.810 kcal",
+        "protein_g": "→ Total proteína estimada: ~87 g",
+        "exercise_kcal": "→ Gasto estimado entrenamiento: ~325 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2493,
+      "net_intake_kcal": 1460,
+      "deficit_kcal": 708,
+      "cumulative_deficit_kcal": 19072,
+      "estimated_weight_kg": 84.02,
+      "trend_weight_kg": 84.28,
+      "estimated_body_fat_pct": 21.2,
+      "trend_body_fat_pct": 21.3,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 37,
+      "date": "2026-02-24",
+      "calories": 2500,
+      "protein_g": 112,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 37 – RESUMEN Calorías ingeridas Desayuno: – No realizado → Total desayuno: 0 kcal   Comida: – Pasta de lentejas (70 g en seco) → ~234 kcal – Queso feta (87 kcal) → 87 kcal – Tomate triturado → 80 kcal → Total comida: ~401 kcal   Cena: – Pizza Telepizza (4 quesos + barbacoa) → ~2.100 kcal → Total cena: ~2.100 kcal   Total calorías ingeridas del día: ~2.50",
+      "raw_block": "DÍA 37 – RESUMEN\n\nCalorías ingeridas\n\nDesayuno:\n– No realizado\n\n→ Total desayuno: 0 kcal\n\n⸻\n\nComida:\n– Pasta de lentejas (70 g en seco) → ~234 kcal\n– Queso feta (87 kcal) → 87 kcal\n– Tomate triturado → 80 kcal\n\n→ Total comida: ~401 kcal\n\n⸻\n\nCena:\n– Pizza Telepizza (4 quesos + barbacoa) → ~2.100 kcal\n\n→ Total cena: ~2.100 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n~2.500 kcal\n\n⸻\n\nDeporte realizado:\n– No gimnasio\n\n→ Gasto entrenamiento: 0 kcal\n\n⸻\n\nProteína ingerida (aprox):\n– Pasta lentejas (70 g): ~18 g\n– Queso feta: ~5–6 g\n– Pizza (estimado): ~90 g aprox\n\n→ Total proteína estimada: ~110–115 g",
+      "source": {
+        "calories": "~2.500 kcal",
+        "protein_g": "→ Total proteína estimada: ~110–115 g",
+        "exercise_kcal": "no gym"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 2500,
+      "deficit_kcal": -332,
+      "cumulative_deficit_kcal": 18740,
+      "estimated_weight_kg": 84.07,
+      "trend_weight_kg": 84.22,
+      "estimated_body_fat_pct": 21.2,
+      "trend_body_fat_pct": 21.3,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 38,
+      "date": "2026-02-25",
+      "calories": 1413,
+      "protein_g": 72,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": true,
+      "notes": "DÍA 38 – RESUMEN Calorías ingeridas Desayuno: – No realizado   Media mañana / snack: – Barrita proteica (20 g proteína): 200 kcal → Total snack: 200 kcal   Alcohol: – 2 cervezas (330 ml cada una): ~300 kcal → Total alcohol: ~300 kcal   Cena (pizza casera): – Base pizza: 400 kcal – Tomate frito: 40 kcal – Mozzarella rallada (100 g): 283 kcal – Pollo (140 g): ",
+      "raw_block": "DÍA 38 – RESUMEN\n\nCalorías ingeridas\n\nDesayuno:\n– No realizado\n\n⸻\n\nMedia mañana / snack:\n– Barrita proteica (20 g proteína): 200 kcal\n\n→ Total snack: 200 kcal\n\n⸻\n\nAlcohol:\n– 2 cervezas (330 ml cada una): ~300 kcal\n\n→ Total alcohol: ~300 kcal\n\n⸻\n\nCena (pizza casera):\n– Base pizza: 400 kcal\n– Tomate frito: 40 kcal\n– Mozzarella rallada (100 g): 283 kcal\n– Pollo (140 g): 165 kcal\n– Salsa barbacoa (10 g): 25 kcal\n\n→ Total cena: ~913 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n200\n\t•\t300\n\t•\t913\n\n👉 ~1.413 kcal\n\n⸻\n\nProteína ingerida (aprox):\n– Barrita: 20 g\n– Mozzarella: ~21 g\n– Pollo: ~31 g\n\n→ Total proteína estimada: ~72 g",
+      "source": {
+        "calories": "👉 ~1.413 kcal",
+        "protein_g": "→ Total proteína estimada: ~72 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1413,
+      "deficit_kcal": 755,
+      "cumulative_deficit_kcal": 19495,
+      "estimated_weight_kg": 83.97,
+      "trend_weight_kg": 84.16,
+      "estimated_body_fat_pct": 21.2,
+      "trend_body_fat_pct": 21.2,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 39,
+      "date": "2026-02-26",
+      "calories": 1138,
+      "protein_g": 70,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": true,
+      "notes": "DÍA 39 – RESUMEN Calorías ingeridas Comida / cena principal: – 200 g pollo → ~330 kcal – 50 g corn flakes → ~185 kcal – Medio huevo → ~35 kcal – Trozo pizza → 200 kcal – Queso fresco batido (50 g) → ~23 kcal → Total comida: ~773 kcal (Es un poco más de 700 kcal realmente)   Salida / noche: – Chuches (20 g) → ~80 kcal – 3 copas DYC con Coca-Cola Zero Una copa",
+      "raw_block": "DÍA 39 – RESUMEN\n\nCalorías ingeridas\n\nComida / cena principal:\n– 200 g pollo → ~330 kcal\n– 50 g corn flakes → ~185 kcal\n– Medio huevo → ~35 kcal\n– Trozo pizza → 200 kcal\n– Queso fresco batido (50 g) → ~23 kcal\n\n→ Total comida: ~773 kcal\n\n(Es un poco más de 700 kcal realmente)\n\n⸻\n\nSalida / noche:\n– Chuches (20 g) → ~80 kcal\n– 3 copas DYC con Coca-Cola Zero\n\nUna copa estándar (40 ml whisky) → ~95 kcal\n3 copas → ~285 kcal\n\n→ Total alcohol + chuches: ~365 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n773\n\t•\t365\n\n👉 ~1.138 kcal",
+      "source": {
+        "calories": "👉 ~1.138 kcal",
+        "protein_g": null,
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": true,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1138,
+      "deficit_kcal": 1030,
+      "cumulative_deficit_kcal": 20525,
+      "estimated_weight_kg": 83.83,
+      "trend_weight_kg": 84.09,
+      "estimated_body_fat_pct": 21.1,
+      "trend_body_fat_pct": 21.2,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 40,
+      "date": "2026-02-27",
+      "calories": 2217,
+      "protein_g": 90,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": true,
+      "notes": "DÍA 40 – RESUMEN Calorías ingeridas Comida (McDonald’s): – Hamburguesa pollo: 682 kcal – Hamburguesa pequeña carne (tipo 1€): ~250 kcal – ½ patatas fritas grandes: ~220 kcal – Mini McFlurry Oreo + toppings: ~300 kcal – 5 nuggets: ~210 kcal – Salsa Buffalo: ~30 kcal – Salsa BBQ: ~45 kcal – 3 sobres ketchup: ~30 kcal → Total comida McDonald’s: ~1.767 kcal   Ce",
+      "raw_block": "DÍA 40 – RESUMEN\n\nCalorías ingeridas\n\nComida (McDonald’s):\n\n– Hamburguesa pollo: 682 kcal\n– Hamburguesa pequeña carne (tipo 1€): ~250 kcal\n– ½ patatas fritas grandes: ~220 kcal\n– Mini McFlurry Oreo + toppings: ~300 kcal\n– 5 nuggets: ~210 kcal\n– Salsa Buffalo: ~30 kcal\n– Salsa BBQ: ~45 kcal\n– 3 sobres ketchup: ~30 kcal\n\n→ Total comida McDonald’s: ~1.767 kcal\n\n⸻\n\nCena (tapeo):\n– Tapeo variado: ~300 kcal\n– 1 doble cerveza (330 ml): ~150 kcal\n\n→ Total cena: ~450 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n1.767\n\t•\t450\n\n👉 ~2.217 kcal\n\n⸻\n\nDeporte realizado:\n– No mencionado (asumo no gym)\n\n⸻\n\nProteína ingerida (aprox):\n– Hamburguesas + nuggets → ~75–85 g\n– Resto alimentos → ~10 g\n\n→ Total proteína estimada: ~85–95 g",
+      "source": {
+        "calories": "👉 ~2.217 kcal",
+        "protein_g": "→ Total proteína estimada: ~85–95 g",
+        "exercise_kcal": "no gym"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 2217,
+      "deficit_kcal": -49,
+      "cumulative_deficit_kcal": 20476,
+      "estimated_weight_kg": 83.84,
+      "trend_weight_kg": 84.03,
+      "estimated_body_fat_pct": 21.1,
+      "trend_body_fat_pct": 21.2,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 41,
+      "date": "2026-02-28",
+      "calories": 1690,
+      "protein_g": 72,
+      "exercise_kcal": 250,
+      "training_type": "cardio",
+      "alcohol": false,
+      "notes": "DÍA 41 Calorías ingeridas Primera parte del día: – Coca-Cola 0: 0 kcal – Pincho de tortilla: ~400 kcal – 20 patatas fritas finas: ~120 kcal – 4 trocitos jamón serrano: ~90 kcal – Medio huevo frito: ~55 kcal – 1/12 tarta queso con Nutella: ~300 kcal → Subtotal primera parte: ~965 kcal   Cena: – Pollo (180 g): ~215 kcal – Tortitas integrales (3): 300 kcal – Mo",
+      "raw_block": "DÍA 41\n\nCalorías ingeridas\n\nPrimera parte del día:\n\n– Coca-Cola 0: 0 kcal\n– Pincho de tortilla: ~400 kcal\n– 20 patatas fritas finas: ~120 kcal\n– 4 trocitos jamón serrano: ~90 kcal\n– Medio huevo frito: ~55 kcal\n– 1/12 tarta queso con Nutella: ~300 kcal\n\n→ Subtotal primera parte: ~965 kcal\n\n⸻\n\nCena:\n\n– Pollo (180 g): ~215 kcal\n– Tortitas integrales (3): 300 kcal\n– Mozzarella rallada (40 g): ~120 kcal\n– Salsa BBQ cremosa: ~90 kcal\n\n→ Subtotal cena: ~725 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n965 + 725 =\n\n👉 ~1.690 kcal\n\n⸻\n\nDeporte realizado:\n\n– Cinta: 250 kcal\n\n⸻\n\nBalance aproximado del día\n\nSi tu mantenimiento ronda 2.300–2.500 kcal:\n\n1.690 kcal ingeridas\n– 250 kcal cinta\n\n👉 Día equivalente a ~1.440 kcal netas\n\nEso supone un déficit aproximado de 800–1.000 kcal según tu mantenimiento real.\n\n⸻\n\nProteína estimada (aprox):\n\n– Pollo (180 g): ~40 g\n– Tortilla + huevo: ~15 g\n– Mozzarella: ~8 g\n– Jamón serrano: ~8 g\n\n👉 Total proteína: ~70–75 g",
+      "source": {
+        "calories": "👉 ~1.690 kcal",
+        "protein_g": "👉 Total proteína: ~70–75 g",
+        "exercise_kcal": "– Cinta: 250 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2418,
+      "net_intake_kcal": 1440,
+      "deficit_kcal": 728,
+      "cumulative_deficit_kcal": 21204,
+      "estimated_weight_kg": 83.75,
+      "trend_weight_kg": 83.97,
+      "estimated_body_fat_pct": 21.1,
+      "trend_body_fat_pct": 21.2,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 42,
+      "date": "2026-03-01",
+      "calories": 1405,
+      "protein_g": 80,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 42 – RESUMEN (ACTUALIZADO) Calorías ingeridas Desayuno: – No realizado → Total desayuno: 0 kcal   Comida: – Lomo de cerdo (130 g): ~220 kcal – Puré de patata Mercadona (200–250 g preparado): ~220–270 kcal → Total comida: ~440–490 kcal   Cena: – Tallarinas de arroz: 347 kcal – Pollo (135 g): ~160 kcal – Salsa teriyaki (20 g): ~40 kcal – Salsa soja (40 g):",
+      "raw_block": "DÍA 42 – RESUMEN (ACTUALIZADO)\n\nCalorías ingeridas\n\nDesayuno:\n– No realizado\n\n→ Total desayuno: 0 kcal\n\n⸻\n\nComida:\n– Lomo de cerdo (130 g): ~220 kcal\n– Puré de patata Mercadona (200–250 g preparado): ~220–270 kcal\n\n→ Total comida: ~440–490 kcal\n\n⸻\n\nCena:\n– Tallarinas de arroz: 347 kcal\n– Pollo (135 g): ~160 kcal\n– Salsa teriyaki (20 g): ~40 kcal\n– Salsa soja (40 g): ~25 kcal\n– Salsa BBQ (5 g): ~15 kcal\n– Pizza: 350 kcal\n\n→ Total cena: ~937 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n👉 ~1.380 – 1.430 kcal\n\n⸻\n\nDeporte realizado:\n– No gimnasio\n\n⸻\n\nProteína ingerida (aprox):\n– Lomo cerdo (130 g): ~28 g\n– Pollo (135 g): ~30 g\n– Tallarinas arroz: ~6 g\n– Puré: ~5 g\n– Pizza (estimación): ~12 g\n\n👉 Total proteína estimada: ~80 g",
+      "source": {
+        "calories": "👉 ~1.380 – 1.430 kcal",
+        "protein_g": "👉 Total proteína estimada: ~80 g",
+        "exercise_kcal": "no gym"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1405,
+      "deficit_kcal": 763,
+      "cumulative_deficit_kcal": 21967,
+      "estimated_weight_kg": 83.65,
+      "trend_weight_kg": 83.91,
+      "estimated_body_fat_pct": 21.0,
+      "trend_body_fat_pct": 21.1,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 43,
+      "date": "2026-03-02",
+      "calories": 1840,
+      "protein_g": 83,
+      "exercise_kcal": 275,
+      "training_type": "pecho + tríceps",
+      "alcohol": false,
+      "notes": "DÍA 43 – RESUMEN COMPLETO Calorías ingeridas Desayuno: – 2 tostadas con hummus + café con leche → ~550 kcal   Comida: – Quesadilla (tortita integral + 40 g pavo + mozzarella) → ~220 kcal – Fabada (≈10 judías blancas) → ~30 kcal → Subtotal hasta aquí: ~800 kcal   Cena (pizza y media casera): – Base pizza Mercadona (1,5 bases × 380 kcal) → 570 kcal – Pavo (20 ",
+      "raw_block": "DÍA 43 – RESUMEN COMPLETO\n\nCalorías ingeridas\n\nDesayuno:\n– 2 tostadas con hummus + café con leche → ~550 kcal\n\n⸻\n\nComida:\n– Quesadilla (tortita integral + 40 g pavo + mozzarella) → ~220 kcal\n– Fabada (≈10 judías blancas) → ~30 kcal\n\n→ Subtotal hasta aquí: ~800 kcal\n\n⸻\n\nCena (pizza y media casera):\n– Base pizza Mercadona (1,5 bases × 380 kcal) → 570 kcal\n– Pavo (20 g) → ~25 kcal\n– Pollo (140 g) → ~165 kcal\n– Mozzarella rallada (100 g) → ~280 kcal\n\n→ Total pizza: ~1.040 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n👉 ~1.840 kcal\n\n⸻\n\nDeporte realizado:\n– Gimnasio (pecho: 4 ejercicios × 4×12)\n– Tríceps (2 ejercicios × 3×12)\n\nDuración estimada: ~60–70 min\n→ Gasto estimado: ~250–300 kcal\n\n⸻\n\nBalance estimado del día\n\nSi tu mantenimiento está en ~2.300–2.400 kcal:\n\n1.840 kcal ingeridas\n– 275 kcal (media gym)\n\n👉 Día equivalente a ~1.565 kcal netas\n\n→ Déficit aproximado: ~700–800 kcal\n\n⸻\n\nProteína estimada: ~94 g",
+      "source": {
+        "calories": "👉 ~1.840 kcal",
+        "protein_g": null,
+        "exercise_kcal": "→ Gasto estimado: ~250–300 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": true,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2443,
+      "net_intake_kcal": 1565,
+      "deficit_kcal": 603,
+      "cumulative_deficit_kcal": 22570,
+      "estimated_weight_kg": 83.57,
+      "trend_weight_kg": 83.84,
+      "estimated_body_fat_pct": 21.0,
+      "trend_body_fat_pct": 21.1,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 44,
+      "date": "2026-03-03",
+      "calories": 1289,
+      "protein_g": 50,
+      "exercise_kcal": 325,
+      "training_type": "pierna",
+      "alcohol": false,
+      "notes": "DÍA 44 – RESUMEN COMPLETO Calorías ingeridas 🍝 Comida – Pasta de lentejas (85 g) → ~284 kcal – Atún al natural (80 g) → ~110 kcal – Queso feta → 100 kcal – Parmesano → 30 kcal – Tomate triturado → 80 kcal → Subtotal comida: ~604 kcal Proteína: ~50 g   🥪 Merienda – Pan integral → 120 kcal – Cacahuete en polvo desgrasado (25 g) → 100 kcal – Leche en polvo (10 ",
+      "raw_block": "DÍA 44 – RESUMEN COMPLETO\n\nCalorías ingeridas\n\n🍝 Comida\n– Pasta de lentejas (85 g) → ~284 kcal\n– Atún al natural (80 g) → ~110 kcal\n– Queso feta → 100 kcal\n– Parmesano → 30 kcal\n– Tomate triturado → 80 kcal\n\n→ Subtotal comida: ~604 kcal\nProteína: ~50 g\n\n⸻\n\n🥪 Merienda\n– Pan integral → 120 kcal\n– Cacahuete en polvo desgrasado (25 g) → 100 kcal\n– Leche en polvo (10 g) → 50 kcal\n\n→ Subtotal merienda: ~270 kcal\nProteína: ~17 g\n\n⸻\n\n🍣 Cena\n– Salmón (100 g) → ~200 kcal\n– Pepino → ~15 kcal\n– Philadelphia (40 g) → ~100 kcal\n– Salsa soja-ajo (estimación) → 100 kcal\n\n→ Subtotal cena: ~415 kcal\nProteína: ~27 g\n\n⸻\n\nTotal calorías ingeridas del día:\n\n604 + 270 + 415 =\n\n👉 ~1.289 kcal\n\n⸻\n\nDeporte realizado\n\nGimnasio (pierna, volumen alto):\n– 6 ejercicios\n– 4×12 cada uno\n– Mayoría con ~60 kg\n– Sentadilla, prensa/jaca, extensiones, curl femoral, etc.\n\nDuración estimada: 70–80 min\n→ Gasto estimado: ~300–350 kcal\n\n⸻\n\nBalance del día\n\nSi tu mantenimiento está en ~2.300–2.400 kcal:\n\n1.289 kcal ingeridas\n– 325 kcal (media gym)\n\n👉 Día equivalente a ~960 kcal netas\n\n→ Déficit aproximado: ~1.300–1.400 kcal\n\n⸻\n\nProteína total estimada\n\nComida → 50 g\nMerienda → 17 g\nCena → 27 g\n\n👉 ~94 g proteína",
+      "source": {
+        "calories": "👉 ~1.289 kcal",
+        "protein_g": "Comida → 50 g",
+        "exercise_kcal": "→ Gasto estimado: ~300–350 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2493,
+      "net_intake_kcal": 964,
+      "deficit_kcal": 1204,
+      "cumulative_deficit_kcal": 23774,
+      "estimated_weight_kg": 83.41,
+      "trend_weight_kg": 83.78,
+      "estimated_body_fat_pct": 20.9,
+      "trend_body_fat_pct": 21.1,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 45,
+      "date": "2026-03-04",
+      "calories": 1515,
+      "protein_g": 110,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 45 – RESUMEN (ACTUALIZADO) Calorías ingeridas Desayuno: – Pan integral (140 kcal) – Cacahuete en polvo (25 g) → ~100 kcal – Cacao puro (10 g) → ~40 kcal – Leche en polvo (20 g) → ~100 kcal → Total desayuno: ~380 kcal   Comida: – Merluza (200 g) → ~170 kcal – Quesadilla x2: • 2 tortitas integrales → ~200 kcal • Pavo total (76 g) → ~90 kcal • Mozzarella to",
+      "raw_block": "DÍA 45 – RESUMEN (ACTUALIZADO)\n\nCalorías ingeridas\n\nDesayuno:\n– Pan integral (140 kcal)\n– Cacahuete en polvo (25 g) → ~100 kcal\n– Cacao puro (10 g) → ~40 kcal\n– Leche en polvo (20 g) → ~100 kcal\n\n→ Total desayuno: ~380 kcal\n\n⸻\n\nComida:\n– Merluza (200 g) → ~170 kcal\n– Quesadilla x2:\n• 2 tortitas integrales → ~200 kcal\n• Pavo total (76 g) → ~90 kcal\n• Mozzarella total (30 g) → ~90 kcal\n\n→ Total comida: ~550 kcal\n\n⸻\n\nCena (pizza casera):\n– Base pizza → 380 kcal\n– Pavo (30 g) → ~35 kcal\n– Mozzarella rallada (60 g) → ~170 kcal\n\n→ Total cena: ~585 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n380 + 550 + 585 =\n\n👉 ~1.515 kcal\n\n⸻\n\nProteína estimada:\n\n– Desayuno → ~27 g\n– Merluza (200 g) → ~40 g\n– Pavo total (106 g entre día) → ~23 g\n– Mozzarella total (90 g) → ~20 g\n\n👉 Total proteína aproximada: ~110 g",
+      "source": {
+        "calories": "👉 ~1.515 kcal",
+        "protein_g": "👉 Total proteína aproximada: ~110 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1515,
+      "deficit_kcal": 653,
+      "cumulative_deficit_kcal": 24427,
+      "estimated_weight_kg": 83.33,
+      "trend_weight_kg": 83.72,
+      "estimated_body_fat_pct": 20.9,
+      "trend_body_fat_pct": 21.1,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 46,
+      "date": "2026-03-05",
+      "calories": 1330,
+      "protein_g": 86,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA – 46 Calorías ingeridas 🍽 Comida – Ternera (100 g) → ~200 kcal – Puré de patata con leche (200 g aprox) → ~220–250 kcal → Total comida: ~420–450 kcal   🥪 Merienda – Pan integral → 140 kcal – Cacao puro (5 g) → 19 kcal – Cacahuete en polvo desgrasado (20 g) → 80 kcal – Leche en polvo (10 g) → 50 kcal → Total merienda: 289 kcal Proteína: ~17 g   🌯 Cena – 3",
+      "raw_block": "DÍA – 46\n\nCalorías ingeridas\n\n🍽 Comida\n– Ternera (100 g) → ~200 kcal\n– Puré de patata con leche (200 g aprox) → ~220–250 kcal\n\n→ Total comida: ~420–450 kcal\n\n⸻\n\n🥪 Merienda\n– Pan integral → 140 kcal\n– Cacao puro (5 g) → 19 kcal\n– Cacahuete en polvo desgrasado (20 g) → 80 kcal\n– Leche en polvo (10 g) → 50 kcal\n\n→ Total merienda: 289 kcal\nProteína: ~17 g\n\n⸻\n\n🌯 Cena\n– 3 tortitas integrales (100 kcal cada una) → 300 kcal\n– Mozzarella rallada (50 g) → ~140 kcal\n– Pollo (140 g) → ~165 kcal\n\n→ Total cena: ~605 kcal\n\n⸻\n\n🔥 TOTAL DEL DÍA\n\nComida: ~435 kcal (media)\nMerienda: 289 kcal\nCena: 605 kcal\n\n👉 Total aproximado: ~1.330 kcal\n\n⸻\n\n💪 Proteína estimada\n\n– Ternera (100 g) → ~22 g\n– Pollo (140 g) → ~31 g\n– Mozzarella (50 g) → ~11 g\n– Merienda → ~17 g\n– Puré → ~5 g\n\n👉 Total proteína estimada: ~86 g",
+      "source": {
+        "calories": "Comida: ~435 kcal (media)",
+        "protein_g": "👉 Total proteína estimada: ~86 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": true,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1330,
+      "deficit_kcal": 838,
+      "cumulative_deficit_kcal": 25265,
+      "estimated_weight_kg": 83.22,
+      "trend_weight_kg": 83.65,
+      "estimated_body_fat_pct": 20.9,
+      "trend_body_fat_pct": 21.0,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 47,
+      "date": "2026-03-06",
+      "calories": 4160,
+      "protein_g": 150,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": true,
+      "notes": "DÍA 47 – RESUMEN COMPLETO Calorías ingeridas 🥪 Desayuno – 2 tostadas integrales → 150 kcal – Cacahuete en polvo desgrasado (25 g) → ~100 kcal – Cacao puro 100% (5 g) → ~20 kcal – Leche en polvo (10 g) → ~50 kcal → Total desayuno: ~320 kcal   🍔 Comida (McDonald’s) – Big Mac → ~503 kcal – Hamburguesa 1€ → ~250 kcal – Patatas medianas → ~340 kcal – 8 McNuggets ",
+      "raw_block": "DÍA 47 – RESUMEN COMPLETO\n\nCalorías ingeridas\n\n🥪 Desayuno\n\n– 2 tostadas integrales → 150 kcal\n– Cacahuete en polvo desgrasado (25 g) → ~100 kcal\n– Cacao puro 100% (5 g) → ~20 kcal\n– Leche en polvo (10 g) → ~50 kcal\n\n→ Total desayuno: ~320 kcal\n\n⸻\n\n🍔 Comida (McDonald’s)\n\n– Big Mac → ~503 kcal\n– Hamburguesa 1€ → ~250 kcal\n– Patatas medianas → ~340 kcal\n– 8 McNuggets → ~340 kcal\n– 4 ketchup → ~40 kcal\n– 2 BBQ → ~90 kcal\n– 1 Buffalo → ~30 kcal\n– McFlurry Oreo + topping caramelo → ~350 kcal\n\n→ Total comida: ~1.943 kcal\n\n⸻\n\n🌙 Cena\n\n– Big Mac → ~503 kcal\n– 2 hamburguesas 1€ → ~500 kcal\n– Salsa BBQ → ~45 kcal\n– Chucherías → ~200 kcal\n– 3 whiskies con Coca-Cola 0 → ~300 kcal\n– McFlurry Oreo + topping → ~350 kcal\n\n→ Total cena: ~1.898 kcal\n\n⸻\n\n🔥 TOTAL DEL DÍA\n\n320 (desayuno)\n\t•\t1.943 (comida)\n\t•\t1.898 (cena)\n\n👉 ~4.160 kcal\n\n⸻\n\n💪 Proteína estimada\n\nSolo en hamburguesas + nuggets → ~140–160 g aprox\n(No es un día bajo en proteína, pero sí muy alto en calorías)\n\n⸻\n\n📌 Día muy alto, sí.\n📌 Probablemente 1.500–1.800 kcal por encima de tu mantenimiento.\n📌 Eso equivale a como mucho 200–250 g de grasa potencial si TODO se almacenara (que no es exactamente así por el efecto térmico y retención de agua).\n\nLo importante:\n\nUn día así no arruina 46 días de déficit.\nLo que te hará daño es convertirlo en 3–4 seguidos.",
+      "source": {
+        "calories": "👉 ~4.160 kcal",
+        "protein_g": null,
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": true,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 4160,
+      "deficit_kcal": -1992,
+      "cumulative_deficit_kcal": 23273,
+      "estimated_weight_kg": 83.48,
+      "trend_weight_kg": 83.59,
+      "estimated_body_fat_pct": 21.0,
+      "trend_body_fat_pct": 21.0,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 48,
+      "date": "2026-03-07",
+      "calories": 1195,
+      "protein_g": 52,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 48 – RESUMEN Calorías ingeridas Desayuno: – No realizado → Total desayuno: 0 kcal   Comida: – Trozo de pizza con queso de cabra: ~350 kcal – 1/2 sándwich triple pan brioche (3 rebanadas total, tú 1/2): – Pan brioche (1,5 rebanadas): ~150 kcal – Mozzarella (20 g): ~60 kcal – Pavo (4 lonchas finas): ~40 kcal → Total sándwich: ~250 kcal → Total comida: ~600",
+      "raw_block": "DÍA 48 – RESUMEN\n\nCalorías ingeridas\n\nDesayuno:\n– No realizado\n\n→ Total desayuno: 0 kcal\n\n⸻\n\nComida:\n– Trozo de pizza con queso de cabra: ~350 kcal\n– 1/2 sándwich triple pan brioche (3 rebanadas total, tú 1/2):\n– Pan brioche (1,5 rebanadas): ~150 kcal\n– Mozzarella (20 g): ~60 kcal\n– Pavo (4 lonchas finas): ~40 kcal\n\n→ Total sándwich: ~250 kcal\n\n→ Total comida: ~600 kcal\n\n⸻\n\nCena:\n– Pincho de tortilla: ~400 kcal\n– Pan blanco (un poco): ~80 kcal\n– Yogur proteico (12 g proteína): 115 kcal\n\n→ Total cena: ~595 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n600 + 595 =\n\n👉 ~1.195 kcal\n\n⸻\n\nDeporte realizado:\n– No mencionado (asumo no gym)\n\n⸻\n\nProteína ingerida (aprox):\n– Pavo: ~10 g\n– Mozzarella: ~4 g\n– Pincho tortilla: ~12–15 g\n– Yogur proteico: 12 g\n– Pizza + pan: ~10 g\n\n👉 Total proteína estimada: ~50–55 g",
+      "source": {
+        "calories": "👉 ~1.195 kcal",
+        "protein_g": "👉 Total proteína estimada: ~50–55 g",
+        "exercise_kcal": "no gym"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1195,
+      "deficit_kcal": 973,
+      "cumulative_deficit_kcal": 24246,
+      "estimated_weight_kg": 83.35,
+      "trend_weight_kg": 83.53,
+      "estimated_body_fat_pct": 20.9,
+      "trend_body_fat_pct": 21.0,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 49,
+      "date": "2026-03-08",
+      "calories": 870,
+      "protein_g": 17,
+      "exercise_kcal": 325,
+      "training_type": "pecho",
+      "alcohol": false,
+      "notes": "DÍA 49 – RESUMEN 🍳 Comida – 1/4 tortilla de patata (equivalente a un pincho generoso) → ~350 kcal → Total comida: ~350 kcal   🌙 Cena 🍞 Pan proteico (3 tostadas) Si asumimos ~85 g como otras veces: 85 g × 267 kcal /100 g = 227 kcal Proteína: 85 × 0,201 ≈ 17 g 🦃 Pavo 30 kcal → ~7 g proteína aprox 🧀 3/4 burrata Bote escurrido = 150 g 3/4 → 112 g aprox 112 g × 2",
+      "raw_block": "DÍA 49 – RESUMEN\n\n🍳 Comida\n\n– 1/4 tortilla de patata (equivalente a un pincho generoso) → ~350 kcal\n\n→ Total comida: ~350 kcal\n\n⸻\n\n🌙 Cena\n\n🍞 Pan proteico (3 tostadas)\n\nSi asumimos ~85 g como otras veces:\n\n85 g × 267 kcal /100 g = 227 kcal\nProteína: 85 × 0,201 ≈ 17 g\n\n🦃 Pavo\n\n30 kcal → ~7 g proteína aprox\n\n🧀 3/4 burrata\n\nBote escurrido = 150 g\n3/4 → 112 g aprox\n\n112 g × 235 kcal /100 g ≈ 263 kcal\nProteína: 112 × 0,10 ≈ 11 g\n\n⸻\n\n🔥 Total cena\n\n227 + 30 + 263 =\n👉 520 kcal\n\n⸻\n\n🔢 TOTAL DEL DÍA\n\n350 (comida)\n\t•\t520 (cena)\n\n👉 ~870 kcal\n\n⸻\n\nDia de gimnasio: Pecho 300kxal-350\n\n💪 Proteína total estimada\n\n– Pan proteico → 17 g\n– Pavo → 7 g\n– Burrata → 11 g\n– Tortilla → ~12 g\n\n👉 ~47 g proteína",
+      "source": {
+        "calories": "👉 ~870 kcal",
+        "protein_g": "– Pan proteico → 17 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2493,
+      "net_intake_kcal": 545,
+      "deficit_kcal": 1623,
+      "cumulative_deficit_kcal": 25869,
+      "estimated_weight_kg": 83.14,
+      "trend_weight_kg": 83.46,
+      "estimated_body_fat_pct": 20.8,
+      "trend_body_fat_pct": 21.0,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 50,
+      "date": "2026-03-09",
+      "calories": 2185,
+      "protein_g": 89,
+      "exercise_kcal": 275,
+      "training_type": "espalda + bíceps",
+      "alcohol": false,
+      "notes": "DÍA 50 – RESUMEN Calorías ingeridas Comida (restaurante): – 1/3 Buffalo fries → ~525 kcal – 1/2 burger Emmy → ~525 kcal – 2/3 cheesecake con salsa tipo Kinder → ~480 kcal → Total comida: ~1.530 kcal   Cena (pizza casera): – Base pizza → 380 kcal – Pollo (140 g) → ~165 kcal – Mozzarella rallada (40 g) → ~110 kcal → Total cena: ~655 kcal   Total calorías inger",
+      "raw_block": "DÍA 50 – RESUMEN\n\nCalorías ingeridas\n\nComida (restaurante):\n\n– 1/3 Buffalo fries → ~525 kcal\n– 1/2 burger Emmy → ~525 kcal\n– 2/3 cheesecake con salsa tipo Kinder → ~480 kcal\n\n→ Total comida: ~1.530 kcal\n\n⸻\n\nCena (pizza casera):\n\n– Base pizza → 380 kcal\n– Pollo (140 g) → ~165 kcal\n– Mozzarella rallada (40 g) → ~110 kcal\n\n→ Total cena: ~655 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n1.530 + 655 =\n\n👉 ~2.185 kcal\n\n⸻\n\nDeporte realizado:\n\n– Gimnasio (espalda + bíceps)\n• 4 ejercicios de espalda\n• 2 ejercicios de bíceps\n• series tipo 4×12 aprox\n\n→ Duración estimada: ~60–70 min\n→ Gasto estimado: ~250–300 kcal\n\n⸻\n\nBalance aproximado del día\n\nSi mantenimiento ≈ 2.300–2.400 kcal:\n\n2.185 kcal ingeridas\n– ~275 kcal entrenamiento\n\n👉 Día equivalente a ~1.900 kcal netas\n\n→ Déficit ligero o mantenimiento.\n\n⸻\n\nProteína estimada\n\n– Burger + pollo fries → ~40 g\n– Cheesecake → ~8 g\n– Pollo pizza (140 g) → ~31 g\n– Mozzarella (40 g) → ~9 g\n\n👉 Total proteína aproximada: ~88–90 g",
+      "source": {
+        "calories": "👉 ~2.185 kcal",
+        "protein_g": "👉 Total proteína aproximada: ~88–90 g",
+        "exercise_kcal": "→ Gasto estimado: ~250–300 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2443,
+      "net_intake_kcal": 1910,
+      "deficit_kcal": 258,
+      "cumulative_deficit_kcal": 26127,
+      "estimated_weight_kg": 83.11,
+      "trend_weight_kg": 83.4,
+      "estimated_body_fat_pct": 20.8,
+      "trend_body_fat_pct": 20.9,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 51,
+      "date": "2026-03-10",
+      "calories": 1650,
+      "protein_g": 130,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA – 51 Calorías ingeridas Desayuno: – Pan integral → 120 kcal – Leche en polvo (10 g) → 50 kcal – Proteína en polvo → 135 kcal → Total desayuno: ~305 kcal   Comida: – Lasaña casera → ~700 kcal → Total comida: ~700 kcal   Cena / comida principal: – Pollo (140 g) → ~170 kcal – Tortitas integrales → 200 kcal – Mozzarella rallada (15 g) → ~45 kcal → Total cena",
+      "raw_block": "DÍA – 51\n\nCalorías ingeridas\n\nDesayuno:\n– Pan integral → 120 kcal\n– Leche en polvo (10 g) → 50 kcal\n– Proteína en polvo → 135 kcal\n\n→ Total desayuno: ~305 kcal\n\n⸻\n\nComida:\n– Lasaña casera → ~700 kcal\n\n→ Total comida: ~700 kcal\n\n⸻\n\nCena / comida principal:\n– Pollo (140 g) → ~170 kcal\n– Tortitas integrales → 200 kcal\n– Mozzarella rallada (15 g) → ~45 kcal\n\n→ Total cena: ~415 kcal\n\n⸻\n\nPostre / bol proteico:\n– Queso fresco batido (150 g) → ~75 kcal\n– Proteína en polvo → 135 kcal\n– Cereales Choco Zero (5 g) → ~20 kcal\n\n→ Total postre: ~230 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n305 + 700 + 415 + 230 =\n\n👉 ~1.650 kcal\n\n⸻\n\nDeporte realizado:\n– No gimnasio\n\n⸻\n\nProteína ingerida (aprox):\n\n– Proteína en polvo (2 tomas) → ~40 g\n– Pollo (140 g) → ~31 g\n– Queso fresco batido → ~12 g\n– Mozzarella → ~3 g\n– Tortitas integrales → ~6 g\n– Pan integral → ~4 g\n– Lasaña (estimación) → ~35 g\n\n👉 Total proteína aproximada: ~130 g",
+      "source": {
+        "calories": "👉 ~1.650 kcal",
+        "protein_g": "👉 Total proteína aproximada: ~130 g",
+        "exercise_kcal": "no gym"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1650,
+      "deficit_kcal": 518,
+      "cumulative_deficit_kcal": 26645,
+      "estimated_weight_kg": 83.04,
+      "trend_weight_kg": 83.34,
+      "estimated_body_fat_pct": 20.8,
+      "trend_body_fat_pct": 20.9,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 52,
+      "date": "2026-03-11",
+      "calories": 1420,
+      "protein_g": 135,
+      "exercise_kcal": 335,
+      "training_type": "hombro + abdomen + cardio",
+      "alcohol": false,
+      "notes": "DÍA 52 – RESUMEN Calorías ingeridas Desayuno: – Queso fresco batido (200 g) → ~100 kcal → Total desayuno: ~100 kcal   Comida: – Pollo (250 g) → ~300 kcal – Cereales de maíz (empanado) → 100 kcal Salsa: – Queso fresco batido (80 g) → ~40 kcal – Mostaza (10 g) → ~7 kcal – Salsa BBQ (10 g) → ~25 kcal – Ketchup 0 (40 g) → ~12 kcal → Total comida: ~484 kcal   Cen",
+      "raw_block": "DÍA 52 – RESUMEN\n\nCalorías ingeridas\n\nDesayuno:\n– Queso fresco batido (200 g) → ~100 kcal\n\n→ Total desayuno: ~100 kcal\n\n⸻\n\nComida:\n– Pollo (250 g) → ~300 kcal\n– Cereales de maíz (empanado) → 100 kcal\n\nSalsa:\n– Queso fresco batido (80 g) → ~40 kcal\n– Mostaza (10 g) → ~7 kcal\n– Salsa BBQ (10 g) → ~25 kcal\n– Ketchup 0 (40 g) → ~12 kcal\n\n→ Total comida: ~484 kcal\n\n⸻\n\nCena (pizza proteica):\n\nBase:\n– Queso cottage (200 g) → ~180 kcal\n– Harina de trigo (25 g) → ~90 kcal\n– Huevos (2) → ~150 kcal\n\nToppings:\n– Tomate frito 0 (150 g) → ~40 kcal\n– Pavo (80 g) → ~90 kcal\n– Grana Padano rallado (40 g) → ~170 kcal\n– Salsa BBQ (20 g) → ~50 kcal\n– Philadelphia light (40 g) → ~65 kcal\n\n→ Total cena: ~835 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n100 + 484 + 835 =\n\n👉 ~1.420 kcal\n\n⸻\n\nDeporte realizado:\n\n– Cinta (20 min, inclinación 15, 6.7 km/h) → ~270 kcal\n– Abdominales → ~6 series (ejercicios variados)\n– Elevaciones de hombro → 3 series\n– Press militar → 4 series\n\n→ Gasto estimado total entrenamiento: ~320–350 kcal\n\n⸻\n\nProteína ingerida (aprox):\n\n– Pollo (250 g) → ~55 g\n– Queso cottage → ~22 g\n– Huevos → ~12 g\n– Pavo → ~18 g\n– Queso fresco batido total → ~14 g\n– Grana Padano → ~14 g\n\n👉 Total proteína aproximada: ~135 g\n\n⸻\n\n📊 Balance del día\n\n– Calorías ingeridas: ~1.420 kcal\n– Gasto entrenamiento: ~330 kcal aprox\n\n→ Día efectivo: ~1.090 kcal netas.",
+      "source": {
+        "calories": "👉 ~1.420 kcal",
+        "protein_g": "👉 Total proteína aproximada: ~135 g",
+        "exercise_kcal": "→ Gasto estimado total entrenamiento: ~320–350 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2503,
+      "net_intake_kcal": 1085,
+      "deficit_kcal": 1083,
+      "cumulative_deficit_kcal": 27728,
+      "estimated_weight_kg": 82.9,
+      "trend_weight_kg": 83.27,
+      "estimated_body_fat_pct": 20.7,
+      "trend_body_fat_pct": 20.9,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 53,
+      "date": "2026-03-12",
+      "calories": 1615,
+      "protein_g": 140,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA – 53 Calorías ingeridas Desayuno: – Proteína en polvo → 200 kcal – Leche en polvo → 50 kcal – Leche → 25 kcal – Pan integral → 180 kcal → Total desayuno: ~455 kcal   Comida (plato de pasta): – Pasta de lentejas (90 g) → 300 kcal – Queso feta (40 g) → 105 kcal – Tomate triturado → 50 kcal – Atún natural (80 g) → 90 kcal → Total comida: ~545 kcal   Cena (p",
+      "raw_block": "DÍA – 53\n\nCalorías ingeridas\n\nDesayuno:\n\n– Proteína en polvo → 200 kcal\n– Leche en polvo → 50 kcal\n– Leche → 25 kcal\n– Pan integral → 180 kcal\n\n→ Total desayuno: ~455 kcal\n\n⸻\n\nComida (plato de pasta):\n\n– Pasta de lentejas (90 g) → 300 kcal\n– Queso feta (40 g) → 105 kcal\n– Tomate triturado → 50 kcal\n– Atún natural (80 g) → 90 kcal\n\n→ Total comida: ~545 kcal\n\n⸻\n\nCena (plato tipo pizza):\n\n– Queso cottage (200 g) → ~160 kcal\n– Harina de trigo (25 g) → ~90 kcal\n– Pollo → 140 kcal\n– Mozzarella rallada (40 g) → ~110 kcal\n– Salsa BBQ (20 g) → ~35 kcal\n– Tomate triturado → 80 kcal\n\n→ Total cena: ~615 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n455 + 545 + 615 =\n\n👉 ~1.615 kcal\n\n⸻\n\nDeporte realizado:\n\n– No gimnasio\n\n⸻\n\nProteína ingerida (aprox):\n\n– Proteína en polvo → ~29 g\n– Pasta de lentejas → ~24 g\n– Atún → ~20 g\n– Pollo → ~30 g\n– Queso cottage → ~22 g\n– Mozzarella → ~9 g\n– Feta → ~6 g\n\n👉 Total proteína aproximada: ~140 g",
+      "source": {
+        "calories": "👉 ~1.615 kcal",
+        "protein_g": "👉 Total proteína aproximada: ~140 g",
+        "exercise_kcal": "no gym"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1615,
+      "deficit_kcal": 553,
+      "cumulative_deficit_kcal": 28281,
+      "estimated_weight_kg": 82.83,
+      "trend_weight_kg": 83.21,
+      "estimated_body_fat_pct": 20.7,
+      "trend_body_fat_pct": 20.9,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 54,
+      "date": "2026-03-13",
+      "calories": 2225,
+      "protein_g": 102,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA – 54 Calorías ingeridas Comida: – Chuletas de cordero (100 g carne) → ~250 kcal – Puré de patata → ~210 kcal → Total comida: ~460 kcal   Extra: – Yogur proteico + huevo → ~200 kcal   Merienda: – Pan integral → 130 kcal – Proteína en polvo → 135 kcal – Leche en polvo (10 g) → 50 kcal → Total merienda: ~315 kcal   Cena (pizza casera): – Masa pizza (equival",
+      "raw_block": "DÍA – 54\n\nCalorías ingeridas\n\nComida:\n– Chuletas de cordero (100 g carne) → ~250 kcal\n– Puré de patata → ~210 kcal\n\n→ Total comida: ~460 kcal\n\n⸻\n\nExtra:\n– Yogur proteico + huevo → ~200 kcal\n\n⸻\n\nMerienda:\n– Pan integral → 130 kcal\n– Proteína en polvo → 135 kcal\n– Leche en polvo (10 g) → 50 kcal\n\n→ Total merienda: ~315 kcal\n\n⸻\n\nCena (pizza casera):\n– Masa pizza (equivalente a 1 masa completa) → ~700 kcal\n– Tomate frito → ~50 kcal\n– Pavo (40 g) → ~45 kcal\n– Mozzarella rallada (100 g) → ~280 kcal\n– Burrata (½) → ~175 kcal\n\n→ Total cena: ~1.250 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n460 + 200 + 315 + 1.250 =\n\n👉 ~2.225 kcal\n\n⸻\n\nProteína ingerida (aprox):\n\n– Cordero → ~20 g\n– Yogur + huevo → ~16 g\n– Proteína en polvo → ~20 g\n– Pan integral → ~6 g\n– Leche en polvo → ~3 g\n– Mozzarella → ~20 g\n– Pavo → ~10 g\n– Burrata → ~8 g\n\n👉 Total proteína aproximada: ~100–105 g",
+      "source": {
+        "calories": "👉 ~2.225 kcal",
+        "protein_g": "👉 Total proteína aproximada: ~100–105 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 2225,
+      "deficit_kcal": -57,
+      "cumulative_deficit_kcal": 28224,
+      "estimated_weight_kg": 82.83,
+      "trend_weight_kg": 83.15,
+      "estimated_body_fat_pct": 20.7,
+      "trend_body_fat_pct": 20.8,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 55,
+      "date": "2026-03-14",
+      "calories": 1190,
+      "protein_g": 84,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 55 – RESUMEN Calorías ingeridas Comida: – Patata cocida (250 g) → ~190 kcal – Carne de costilla de cerdo (35 g) → ~120 kcal → Total comida: ~310 kcal   Extras: – Yogur proteico coco → 70 kcal – ½ yogur proteico coco → 35 kcal – Huevo → ~70 kcal → Total: ~175 kcal   Gelatina proteica: – Gelatina con queso fresco batido (≈200 g mezcla) → ~100 kcal → Total ",
+      "raw_block": "DÍA 55 – RESUMEN\n\nCalorías ingeridas\n\nComida:\n– Patata cocida (250 g) → ~190 kcal\n– Carne de costilla de cerdo (35 g) → ~120 kcal\n\n→ Total comida: ~310 kcal\n\n⸻\n\nExtras:\n– Yogur proteico coco → 70 kcal\n– ½ yogur proteico coco → 35 kcal\n– Huevo → ~70 kcal\n\n→ Total: ~175 kcal\n\n⸻\n\nGelatina proteica:\n– Gelatina con queso fresco batido (≈200 g mezcla) → ~100 kcal\n\n→ Total gelatina: ~100 kcal\n\n⸻\n\nCena (quesadillas):\n– Tortitas integrales (3) → 300 kcal\n– Pollo (140 g) → ~165 kcal\n– Mozzarella rallada (50 g) → ~140 kcal\n\n→ Total cena: ~605 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n310 + 175 + 100 + 605 =\n\n👉 ~1.190 kcal\n\n⸻\n\nProteína ingerida (aprox):\n\n– Pollo → ~31 g\n– Mozzarella → ~11 g\n– Yogures proteicos → ~15 g\n– Huevo → ~6 g\n– Queso fresco batido → ~14 g\n– Costilla cerdo → ~7 g\n\n👉 Total proteína aproximada: ~84 g",
+      "source": {
+        "calories": "👉 ~1.190 kcal",
+        "protein_g": "👉 Total proteína aproximada: ~84 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1190,
+      "deficit_kcal": 978,
+      "cumulative_deficit_kcal": 29202,
+      "estimated_weight_kg": 82.71,
+      "trend_weight_kg": 83.08,
+      "estimated_body_fat_pct": 20.7,
+      "trend_body_fat_pct": 20.8,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 56,
+      "date": "2026-03-15",
+      "calories": 2655,
+      "protein_g": 105,
+      "exercise_kcal": 450,
+      "training_type": "espalda + bíceps + cardio",
+      "alcohol": false,
+      "notes": "DÍA 56 – RESUMEN Calorías ingeridas Comida / pizzas: – Formaggio (2 porciones) → ~362 kcal – Delicheese (3 porciones) → ~498 kcal – 4 Quesos (5 porciones) → ~845 kcal – Hawaiana (2 porciones) → ~310 kcal – BBQ (2 porciones) → ~340 kcal → Total pizzas: ~2.355 kcal   Extra: – Sándwich Rodilla (pollo curry + queso azul) → ~300 kcal → Total extra: ~300 kcal   To",
+      "raw_block": "DÍA 56 – RESUMEN\n\nCalorías ingeridas\n\nComida / pizzas:\n– Formaggio (2 porciones) → ~362 kcal\n– Delicheese (3 porciones) → ~498 kcal\n– 4 Quesos (5 porciones) → ~845 kcal\n– Hawaiana (2 porciones) → ~310 kcal\n– BBQ (2 porciones) → ~340 kcal\n\n→ Total pizzas: ~2.355 kcal\n\n⸻\n\nExtra:\n– Sándwich Rodilla (pollo curry + queso azul) → ~300 kcal\n\n→ Total extra: ~300 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n2.355 + 300 =\n\n👉 ~2.655 kcal\n\n⸻\n\nDeporte realizado:\n\n– Gimnasio (espalda + bíceps)\n• 4 ejercicios de espalda\n• 2 ejercicios de bíceps\n• Algo de cinta\n\n→ Gasto estimado (app Hevy): ~450 kcal\n\n⸻\n\nProteína ingerida (aprox):\n\n– Pizzas (quesos + algo de jamón/pollo): ~90 g\n– Sándwich Rodilla: ~15 g\n\n👉 Total proteína aproximada: ~105 g\n\n⸻\n\nBalance aproximado del día\n\nSi mantenimiento ≈ 2.300–2.400 kcal:\n\n2.655 kcal ingeridas\n– 450 kcal entrenamiento\n\n👉 Día equivalente a ~2.200 kcal netas\n\n→ Déficit muy ligero / casi mantenimiento.",
+      "source": {
+        "calories": "👉 ~2.655 kcal",
+        "protein_g": "👉 Total proteína aproximada: ~105 g",
+        "exercise_kcal": "→ Gasto estimado (app Hevy): ~450 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2618,
+      "net_intake_kcal": 2205,
+      "deficit_kcal": -37,
+      "cumulative_deficit_kcal": 29165,
+      "estimated_weight_kg": 82.71,
+      "trend_weight_kg": 83.02,
+      "estimated_body_fat_pct": 20.7,
+      "trend_body_fat_pct": 20.8,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 57,
+      "date": "2026-03-16",
+      "calories": 1855,
+      "protein_g": 70,
+      "exercise_kcal": 300,
+      "training_type": "pecho + tríceps",
+      "alcohol": true,
+      "notes": "DÍA 57 – RESUMEN Calorías ingeridas Desayuno: – No realizado → Total desayuno: 0 kcal   Comida: – Camembert empanado (2 triángulos) → ~200 kcal – Croquetas pequeñas (2) → ~140 kcal – Mollete con revuelto de huevo, patata y morcilla → ~880 kcal – Doble cerveza (330 ml) → ~150 kcal → Total comida: ~1.370 kcal   Cena (quesadillas): – Tortitas integrales (3 × 10",
+      "raw_block": "DÍA 57 – RESUMEN\n\nCalorías ingeridas\n\nDesayuno:\n– No realizado\n\n→ Total desayuno: 0 kcal\n\n⸻\n\nComida:\n– Camembert empanado (2 triángulos) → ~200 kcal\n– Croquetas pequeñas (2) → ~140 kcal\n– Mollete con revuelto de huevo, patata y morcilla → ~880 kcal\n– Doble cerveza (330 ml) → ~150 kcal\n\n→ Total comida: ~1.370 kcal\n\n⸻\n\nCena (quesadillas):\n– Tortitas integrales (3 × 100 kcal) → 300 kcal\n– Pavo (50 g) → ~55 kcal\n– Mozzarella rallada (40 g) → ~110 kcal\n– Tomate frito (40 g) → ~20 kcal\n\n→ Total cena: ~485 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n1.370 + 485 =\n\n👉 ~1.855 kcal\n\n⸻\n\nDeporte realizado:\n\n– Gimnasio (pecho + tríceps)\n• Pecho: 4 ejercicios × 4 series × 12 reps\n• Tríceps: 2 ejercicios × 3 series × 12 reps\n\nDuración estimada: ~60–70 min\n\n→ Gasto estimado entrenamiento: ~300 kcal\n\n⸻\n\nProteína ingerida (aprox):\n\n– Huevos (2) → ~12 g\n– Morcilla → ~7 g\n– Pavo (50 g) → ~11 g\n– Mozzarella (40 g) → ~9 g\n– Pan mollete → ~9 g\n– Camembert → ~8 g\n– Croquetas → ~4 g\n– Tortitas integrales → ~9 g\n\n👉 Total proteína aproximada: ~70 g",
+      "source": {
+        "calories": "👉 ~1.855 kcal",
+        "protein_g": "👉 Total proteína aproximada: ~70 g",
+        "exercise_kcal": "→ Gasto estimado entrenamiento: ~300 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2468,
+      "net_intake_kcal": 1555,
+      "deficit_kcal": 613,
+      "cumulative_deficit_kcal": 29778,
+      "estimated_weight_kg": 82.63,
+      "trend_weight_kg": 82.96,
+      "estimated_body_fat_pct": 20.6,
+      "trend_body_fat_pct": 20.8,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 58,
+      "date": "2026-03-17",
+      "calories": 1670,
+      "protein_g": 140,
+      "exercise_kcal": 350,
+      "training_type": "pierna",
+      "alcohol": false,
+      "notes": "DÍA 58 – RESUMEN Calorías ingeridas Desayuno / snack: – Pan integral → 120 kcal – Proteína en polvo → 135 kcal – Leche en polvo (10 g) → 50 kcal – Chorrito de leche → 30 kcal → Total desayuno: ~335 kcal   Comida: – Filete de ternera (140 g) → ~225 kcal – Puré de patata (250 g preparado) → ~240 kcal → Total comida: ~465 kcal   Merienda: – Yogur proteico coco ",
+      "raw_block": "DÍA 58 – RESUMEN\n\nCalorías ingeridas\n\nDesayuno / snack:\n– Pan integral → 120 kcal\n– Proteína en polvo → 135 kcal\n– Leche en polvo (10 g) → 50 kcal\n– Chorrito de leche → 30 kcal\n\n→ Total desayuno: ~335 kcal\n\n⸻\n\nComida:\n– Filete de ternera (140 g) → ~225 kcal\n– Puré de patata (250 g preparado) → ~240 kcal\n\n→ Total comida: ~465 kcal\n\n⸻\n\nMerienda:\n– Yogur proteico coco (3 × 70 kcal) → 210 kcal\n– Huevo → ~70 kcal\n\n→ Total merienda: ~280 kcal\n\n⸻\n\nCena:\n– Pasta de lentejas (90 g) → ~300 kcal\n– Pollo → 140 kcal\n– Salsas (teriyaki + soja, etc.) → ~150 kcal\n\n→ Total cena: ~590 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n335 + 465 + 280 + 590 =\n\n👉 ~1.670 kcal\n\n⸻\n\nDeporte realizado:\n\n– Gimnasio (pierna)\n• 4 ejercicios\n• 4 series × 12 repeticiones\n\n→ Gasto estimado (Hevy): ~350 kcal\n\n⸻\n\nProteína ingerida (aprox):\n\n– Proteína en polvo → ~20 g\n– Ternera → ~30 g\n– Pollo → ~26 g\n– Yogures proteicos → ~30 g\n– Huevo → ~6 g\n– Pasta de lentejas → ~24 g\n– Pan integral → ~5 g\n– Leche en polvo → ~3 g\n\n👉 Total proteína aproximada: ~140 g",
+      "source": {
+        "calories": "👉 ~1.670 kcal",
+        "protein_g": "👉 Total proteína aproximada: ~140 g",
+        "exercise_kcal": "→ Gasto estimado (Hevy): ~350 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2518,
+      "net_intake_kcal": 1320,
+      "deficit_kcal": 848,
+      "cumulative_deficit_kcal": 30626,
+      "estimated_weight_kg": 82.52,
+      "trend_weight_kg": 82.89,
+      "estimated_body_fat_pct": 20.6,
+      "trend_body_fat_pct": 20.7,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 59,
+      "date": "2026-03-18",
+      "calories": 2020,
+      "protein_g": 118,
+      "exercise_kcal": 300,
+      "training_type": "cardio",
+      "alcohol": false,
+      "notes": "DÍA 59 – RESUMEN Calorías ingeridas Desayuno: – Café + tostadas con hummus → ~550 kcal   Comida: – Merluza (200 g) → ~170 kcal – Queso fresco batido (300 g) → ~135 kcal – Extra → ~30 kcal → Total comida: ~335 kcal   Cena (pizza casera): Masas: – 1,5 masas Mercadona (389 kcal cada una) → ~585 kcal Toppings: – Burrata (75 g) → ~175 kcal – Mozzarella rallada (1",
+      "raw_block": "DÍA 59 – RESUMEN\n\nCalorías ingeridas\n\nDesayuno:\n– Café + tostadas con hummus → ~550 kcal\n\n⸻\n\nComida:\n– Merluza (200 g) → ~170 kcal\n– Queso fresco batido (300 g) → ~135 kcal\n– Extra → ~30 kcal\n\n→ Total comida: ~335 kcal\n\n⸻\n\nCena (pizza casera):\n\nMasas:\n– 1,5 masas Mercadona (389 kcal cada una) → ~585 kcal\n\nToppings:\n– Burrata (75 g) → ~175 kcal\n– Mozzarella rallada (100 g) → ~280 kcal\n– Pavo (40 g) → ~45 kcal\n– Tomate frito → ~50 kcal\n\n→ Total cena: ~1.135 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n550 + 335 + 1.135 =\n\n👉 ~2.020 kcal\n\n⸻\n\nDeporte realizado:\n\n– Cinta de correr → ~300 kcal\n\n⸻\n\nProteína ingerida (aprox):\n\n– Merluza → ~40 g\n– Queso fresco batido → ~24 g\n– Pan + hummus → ~15 g\n– Mozzarella → ~21 g\n– Pavo → ~9 g\n– Burrata → ~7 g\n\n👉 Total proteína aproximada: ~115–120 g\n\n⸻\n\nBalance aproximado del día\n\nSi mantenimiento ≈ 2.300–2.400 kcal:\n\n2.020 kcal ingeridas\n– 300 kcal cardio\n\n👉 Día equivalente a ~1.720 kcal netas\n\n→ Déficit aproximado: ~600–700 kcal.",
+      "source": {
+        "calories": "👉 ~2.020 kcal",
+        "protein_g": "👉 Total proteína aproximada: ~115–120 g",
+        "exercise_kcal": "– Cinta de correr → ~300 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2468,
+      "net_intake_kcal": 1720,
+      "deficit_kcal": 448,
+      "cumulative_deficit_kcal": 31074,
+      "estimated_weight_kg": 82.46,
+      "trend_weight_kg": 82.83,
+      "estimated_body_fat_pct": 20.6,
+      "trend_body_fat_pct": 20.7,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 60,
+      "date": "2026-03-19",
+      "calories": 1540,
+      "protein_g": 78,
+      "exercise_kcal": 400,
+      "training_type": "cardio",
+      "alcohol": false,
+      "notes": "DÍA 60 – RESUMEN Calorías ingeridas Comida / primera parte del día: – Media pizza (mozzarella + bacon/guanciale) → ~480 kcal – Mortadela (~40 g) + parmesano (~30 g) → ~250 kcal – Pastel de nata → ~220 kcal – Café con leche → ~70 kcal – Carbonara (80 g pasta cocida) → ~270 kcal → Total comida: ~1.290 kcal   Cena: – “Arroz” de pasta konjac → ~9 kcal – Pollo → ",
+      "raw_block": "DÍA 60 – RESUMEN\n\nCalorías ingeridas\n\nComida / primera parte del día:\n– Media pizza (mozzarella + bacon/guanciale) → ~480 kcal\n– Mortadela (~40 g) + parmesano (~30 g) → ~250 kcal\n– Pastel de nata → ~220 kcal\n– Café con leche → ~70 kcal\n– Carbonara (80 g pasta cocida) → ~270 kcal\n\n→ Total comida: ~1.290 kcal\n\n⸻\n\nCena:\n– “Arroz” de pasta konjac → ~9 kcal\n– Pollo → 140 kcal\n– Salsas (teriyaki + soja) → ~100 kcal\n\n→ Total cena: ~249 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n1.290 + 249 =\n\n👉 ~1.540 kcal\n\n⸻\n\nDeporte realizado:\n\n– Cinta de correr (2 sesiones) → ~400 kcal\n\n⸻\n\nProteína ingerida (aprox):\n\n– Pollo → ~26 g\n– Mortadela → ~8 g\n– Parmesano total → ~14 g\n– Carbonara (huevo + guanciale + queso) → ~12 g\n– Pizza → ~15 g\n– Konjac → ~1 g\n\n👉 Total proteína aproximada: ~75–80 g\n\n⸻\n\nBalance aproximado del día\n\nSi mantenimiento ≈ 2.300–2.400 kcal:\n\n1.540 kcal ingeridas\n– 400 kcal cardio\n\n👉 Día equivalente a ~1.140 kcal netas\n\n→ Déficit aproximado: ~1.200 kcal.",
+      "source": {
+        "calories": "👉 ~1.540 kcal",
+        "protein_g": "👉 Total proteína aproximada: ~75–80 g",
+        "exercise_kcal": "– Cinta de correr (2 sesiones) → ~400 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2568,
+      "net_intake_kcal": 1140,
+      "deficit_kcal": 1028,
+      "cumulative_deficit_kcal": 32102,
+      "estimated_weight_kg": 82.33,
+      "trend_weight_kg": 82.77,
+      "estimated_body_fat_pct": 20.5,
+      "trend_body_fat_pct": 20.7,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 61,
+      "date": "2026-03-20",
+      "calories": 1690,
+      "protein_g": 52,
+      "exercise_kcal": 250,
+      "training_type": "cardio",
+      "alcohol": false,
+      "notes": "DÍA 61 – RESUMEN Calorías ingeridas Comida / cena: Pizza casera: – Base pizza (1,5 masas × 389 kcal) → ~584 kcal – Mozzarella rallada (80 g) → ~220 kcal – Pavo (40 g) → ~45 kcal – Burrata (75 g) → ~210 kcal – Tomate frito → ~50 kcal → Total pizza: ~1.110 kcal   Extras: – Media ración patatas bravas → ~330 kcal – Media tortilla pequeña → ~250 kcal → Total ext",
+      "raw_block": "DÍA 61 – RESUMEN\n\nCalorías ingeridas\n\nComida / cena:\n\nPizza casera:\n– Base pizza (1,5 masas × 389 kcal) → ~584 kcal\n– Mozzarella rallada (80 g) → ~220 kcal\n– Pavo (40 g) → ~45 kcal\n– Burrata (75 g) → ~210 kcal\n– Tomate frito → ~50 kcal\n\n→ Total pizza: ~1.110 kcal\n\n⸻\n\nExtras:\n– Media ración patatas bravas → ~330 kcal\n– Media tortilla pequeña → ~250 kcal\n\n→ Total extras: ~580 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n1.110 + 580 =\n\n👉 ~1.690 kcal\n\n⸻\n\nDeporte realizado:\n\n– Cardio → ~250 kcal\n\n⸻\n\nProteína ingerida (aprox):\n\n– Mozzarella (80 g) → ~17 g\n– Pavo (40 g) → ~9 g\n– Burrata (75 g) → ~7 g\n– Tortilla (media) → ~10 g\n– Pizza base + extras → ~8 g\n\n👉 Total proteína aproximada: ~50–55 g\n\n⸻\n\nBalance aproximado del día\n\nSi mantenimiento ≈ 2.300–2.400 kcal:\n\n1.690 kcal ingeridas\n– 250 kcal cardio\n\n👉 Día equivalente a ~1.440 kcal netas\n\n→ Déficit aproximado: ~900 kcal.",
+      "source": {
+        "calories": "👉 ~1.690 kcal",
+        "protein_g": "👉 Total proteína aproximada: ~50–55 g",
+        "exercise_kcal": "– Cardio → ~250 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2418,
+      "net_intake_kcal": 1440,
+      "deficit_kcal": 728,
+      "cumulative_deficit_kcal": 32830,
+      "estimated_weight_kg": 82.24,
+      "trend_weight_kg": 82.7,
+      "estimated_body_fat_pct": 20.5,
+      "trend_body_fat_pct": 20.7,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 62,
+      "date": "2026-03-21",
+      "calories": 1940,
+      "protein_g": 112,
+      "exercise_kcal": 400,
+      "training_type": "espalda + bíceps + cardio",
+      "alcohol": false,
+      "notes": "DÍA 62 – RESUMEN Calorías ingeridas Comida (sushi): – Nigiri de salmón (12) → ~780 kcal – Makis salmón + aguacate + philadelphia (12) → ~600 kcal – Gyozas (4) → ~240 kcal → Total comida: ~1.620 kcal   Cena: – Atún al natural (80 g) → ~90 kcal – Tomate frito → 80 kcal – Mozzarella rallada (40 g) → ~110 kcal – Grana Padano (10 g) → ~40 kcal → Total cena: ~320 ",
+      "raw_block": "DÍA 62 – RESUMEN\n\nCalorías ingeridas\n\nComida (sushi):\n– Nigiri de salmón (12) → ~780 kcal\n– Makis salmón + aguacate + philadelphia (12) → ~600 kcal\n– Gyozas (4) → ~240 kcal\n\n→ Total comida: ~1.620 kcal\n\n⸻\n\nCena:\n– Atún al natural (80 g) → ~90 kcal\n– Tomate frito → 80 kcal\n– Mozzarella rallada (40 g) → ~110 kcal\n– Grana Padano (10 g) → ~40 kcal\n\n→ Total cena: ~320 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n1.620 + 320 =\n\n👉 ~1.940 kcal\n\n⸻\n\nDeporte realizado:\n\n– Gimnasio (espalda + bíceps) → ~320 kcal\n• 4 ejercicios de espalda\n• 2 ejercicios de bíceps\n\n– Cardio → ~80 kcal\n\n→ Gasto total entrenamiento: ~400 kcal\n\n⸻\n\nProteína ingerida (aprox):\n\n– Salmón sushi → ~40 g\n– Makis (salmón + queso) → ~30 g\n– Gyozas → ~10 g\n– Atún → ~20 g\n– Mozzarella → ~9 g\n– Grana Padano → ~4 g\n\n👉 Total proteína aproximada: ~110–115 g\n\n⸻\n\nBalance aproximado del día\n\nSi mantenimiento ≈ 2.300–2.400 kcal:\n\n1.940 kcal ingeridas\n– 400 kcal entrenamiento\n\n👉 Día equivalente a ~1.540 kcal netas\n\n→ Déficit aproximado: ~750–850 kcal.",
+      "source": {
+        "calories": "👉 ~1.940 kcal",
+        "protein_g": "👉 Total proteína aproximada: ~110–115 g",
+        "exercise_kcal": "→ Gasto total entrenamiento: ~400 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2568,
+      "net_intake_kcal": 1540,
+      "deficit_kcal": 628,
+      "cumulative_deficit_kcal": 33458,
+      "estimated_weight_kg": 82.15,
+      "trend_weight_kg": 82.64,
+      "estimated_body_fat_pct": 20.5,
+      "trend_body_fat_pct": 20.6,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 63,
+      "date": "2026-03-22",
+      "calories": 1570,
+      "protein_g": 110,
+      "exercise_kcal": 300,
+      "training_type": "pecho + tríceps",
+      "alcohol": false,
+      "notes": "DÍA 63 – RESUMEN (FINAL) Calorías ingeridas Comida: – Boquerones fritos (6) → ~420 kcal – Tortita integral → 100 kcal – Mozzarella (20 g) → ~55 kcal – Pavo (34 g) → ~40 kcal – Puré de calabaza → ~70 kcal → Total comida: ~685 kcal   Cena: – Albóndigas de pollo (170 g) → ~280 kcal – Tortitas integrales → 200 kcal – Guacamole (50 g) → ~80 kcal – Mozzarella rall",
+      "raw_block": "DÍA 63 – RESUMEN (FINAL)\n\nCalorías ingeridas\n\nComida:\n– Boquerones fritos (6) → ~420 kcal\n– Tortita integral → 100 kcal\n– Mozzarella (20 g) → ~55 kcal\n– Pavo (34 g) → ~40 kcal\n– Puré de calabaza → ~70 kcal\n\n→ Total comida: ~685 kcal\n\n⸻\n\nCena:\n– Albóndigas de pollo (170 g) → ~280 kcal\n– Tortitas integrales → 200 kcal\n– Guacamole (50 g) → ~80 kcal\n– Mozzarella rallada (30 g) → ~90 kcal\n\n→ Total cena: ~650 kcal\n\n⸻\n\nExtra:\n– Pan integral → 60 kcal\n– Cacahuete en polvo desgrasado → 100 kcal\n– Yogur proteico coco → 70 kcal\n– Leche → ~5 kcal\n\n→ Total extra: ~235 kcal\n\n⸻\n\nTotal calorías ingeridas del día:\n\n685 + 650 + 235 =\n\n👉 ~1.570 kcal\n\n⸻\n\nDeporte realizado:\n\n– Gimnasio (pecho + tríceps) → ~300 kcal\n\n⸻\n\nProteína ingerida (aprox):\n\n– Albóndigas de pollo → ~35 g\n– Pavo → ~8 g\n– Mozzarella total → ~11 g\n– Yogur proteico → ~10 g\n– Boquerones → ~25 g\n– Tortitas + pan → ~11 g\n– Cacahuete en polvo → ~10 g\n– Leche → ~0–1 g\n\n👉 Total proteína aproximada: ~110 g\n\n⸻\n\nBalance aproximado del día\n\nSi mantenimiento ≈ 2.300–2.400 kcal:\n\n1.570 kcal ingeridas\n– 300 kcal entrenamiento\n\n👉 Día equivalente a ~1.270 kcal netas\n\n→ Déficit aproximado: ~1.050–1.150 kcal.",
+      "source": {
+        "calories": "👉 ~1.570 kcal",
+        "protein_g": "👉 Total proteína aproximada: ~110 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2468,
+      "net_intake_kcal": 1270,
+      "deficit_kcal": 898,
+      "cumulative_deficit_kcal": 34356,
+      "estimated_weight_kg": 82.04,
+      "trend_weight_kg": 82.58,
+      "estimated_body_fat_pct": 20.4,
+      "trend_body_fat_pct": 20.6,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 64,
+      "date": "2026-03-23",
+      "calories": 1930,
+      "protein_g": 92,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA 64 – RESUMEN Desayuno: – Pan integral (2 tostadas) → 120 kcal – Proteína en polvo → 135 kcal – Leche en polvo (5 g) → ~25 kcal  Total desayuno: ~280 kcal Proteína: ~22 g   Comida: – Puré de patata (250 g) → 200 kcal – Ternera (150 g) → 150 kcal  Total comida: ~350 kcal Proteína: ~30 g   Cena (sushi sandwiches): – 5 piezas spicy tuna (~140 kcal c/u) → ~70",
+      "raw_block": "DÍA 64 – RESUMEN\n\nDesayuno:\n– Pan integral (2 tostadas) → 120 kcal\n– Proteína en polvo → 135 kcal\n– Leche en polvo (5 g) → ~25 kcal\n\n👉 Total desayuno: ~280 kcal\n\nProteína: ~22 g\n\n⸻\n\nComida:\n– Puré de patata (250 g) → 200 kcal\n– Ternera (150 g) → 150 kcal\n\n👉 Total comida: ~350 kcal\n\nProteína: ~30 g\n\n⸻\n\nCena (sushi sandwiches):\n\n– 5 piezas spicy tuna (~140 kcal c/u) → ~700 kcal\n– 1 pieza tempurizada → ~180 kcal\n\n👉 Sushi: ~880 kcal\n\n– Salsa (40 g + 20 g tipo mayo)\n≈ 60 g total → ~420 kcal\n\n👉 Total cena: ~1.300 kcal\n\nProteína: ~35–40 g\n\n⸻\n\n🔢 TOTAL DEL DÍA\n\n280 + 350 + 1.300 =\n\n👉 ~1.930 kcal\n\n⸻\n\n💪 PROTEÍNA TOTAL\n\n– Desayuno → ~22 g\n– Comida → ~30 g\n– Cena → ~35–40 g\n\n👉 Total: ~90–95 g proteína\n\n⸻\n\n📊 CONCLUSIÓN RÁPIDA (modo claro):\n– Día alto en calorías por las salsas\n– La comida estaba bastante limpia\n– El “problema” ha sido el combo sushi + mayos (ahí se te han ido fácil +400 kcal)",
+      "source": {
+        "calories": "👉 ~1.930 kcal",
+        "protein_g": "– Desayuno → ~22 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": true,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1930,
+      "deficit_kcal": 238,
+      "cumulative_deficit_kcal": 34594,
+      "estimated_weight_kg": 82.01,
+      "trend_weight_kg": 82.51,
+      "estimated_body_fat_pct": 20.4,
+      "trend_body_fat_pct": 20.6,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 65,
+      "date": "2026-03-24",
+      "calories": 1995,
+      "protein_g": 90,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "DÍA – 65 Desayuno (tortitas de la imagen):  ~440 kcal Proteína: ~40 g   Comida: – Chuletas de cordero (poca carne, estimación) → ~180 kcal – Puré de patata (70 g) → ~60 kcal  Total comida: ~240 kcal Proteína: ~15 g   Postre comida: – Yogur proteico → 70 kcal  +70 kcal Proteína: 10 g   Cena: – Empanada pollo y setas (140 g) → ~370 kcal – Tortilla de patata co",
+      "raw_block": "DÍA – 65\n\nDesayuno (tortitas de la imagen):\n👉 ~440 kcal\n\nProteína: ~40 g\n\n⸻\n\nComida:\n– Chuletas de cordero (poca carne, estimación) → ~180 kcal\n– Puré de patata (70 g) → ~60 kcal\n\n👉 Total comida: ~240 kcal\n\nProteína: ~15 g\n\n⸻\n\nPostre comida:\n– Yogur proteico → 70 kcal\n\n👉 +70 kcal\n\nProteína: 10 g\n\n⸻\n\nCena:\n– Empanada pollo y setas (140 g) → ~370 kcal\n– Tortilla de patata con cebolla → ~300 kcal\n\n👉 Total cena: ~670 kcal\n\nProteína: ~25 g\n\n⸻\n\nPostre:\n– McFlurry grande Oreo + caramelo → ~550–600 kcal\n\n👉 ~575 kcal\n\n⸻\n\n🔢 TOTAL DEL DÍA\n\n440 + 240 + 70 + 670 + 575 =\n\n👉 ~1.995 kcal\n\n⸻\n\n💪 PROTEÍNA TOTAL\n\n– Desayuno → ~40 g\n– Comida → ~15 g\n– Yogur → 10 g\n– Cena → ~25 g\n\n👉 Total: ~90 g proteína",
+      "source": {
+        "calories": "👉 ~1.995 kcal",
+        "protein_g": "– Desayuno → ~40 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": true,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1995,
+      "deficit_kcal": 173,
+      "cumulative_deficit_kcal": 34767,
+      "estimated_weight_kg": 81.98,
+      "trend_weight_kg": 82.45,
+      "estimated_body_fat_pct": 20.4,
+      "trend_body_fat_pct": 20.6,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 66,
+      "date": "2026-03-25",
+      "calories": 1880,
+      "protein_g": 78,
+      "exercise_kcal": 270,
+      "training_type": "hombro + abdomen + cardio",
+      "alcohol": false,
+      "notes": "DÍA 66 – RESUMEN 🍞 Desayuno (imagen): – Leche entera (250 ml) → 160 kcal – Cereales → 40 kcal – ColaCao Zero (30 g) → 110 kcal  Total desayuno: ~310 kcal Proteína: ~10 g     Comida: – Merluza a la plancha (100 g) → ~85 kcal  Total comida: ~85 kcal Proteína: ~18–20 g   🍔 Cena (McDonald’s): – McCrispy Original → ~530 kcal – Patatas pequeñas → ~230 kcal – 6 McN",
+      "raw_block": "DÍA 66 – RESUMEN\n\n🍞 Desayuno (imagen):\n– Leche entera (250 ml) → 160 kcal\n– Cereales → 40 kcal\n– ColaCao Zero (30 g) → 110 kcal\n\n👉 Total desayuno: ~310 kcal\n\nProteína: ~10 g\n\n⸻\n\n🍽️ Comida:\n– Merluza a la plancha (100 g) → ~85 kcal\n\n👉 Total comida: ~85 kcal\n\nProteína: ~18–20 g\n\n⸻\n\n🍔 Cena (McDonald’s):\n\n– McCrispy Original → ~530 kcal\n– Patatas pequeñas → ~230 kcal\n– 6 McNuggets → ~250 kcal\n– Salsa BBQ → ~45 kcal\n– Salsa Buffalo → ~30 kcal\n– Ketchup (5 sobres) → ~50 kcal\n– Mini McFlurry (Oreo + caramelo) → ~350 kcal\n\n👉 Total cena: ~1.485 kcal\n\nProteína: ~45–50 g\n\n⸻\n\n🔢 TOTAL DEL DÍA\n\n310 + 85 + 1.485 =\n\n👉 ~1.880 kcal\n\n⸻\n\n💪 PROTEÍNA TOTAL\n\n– Desayuno → ~10 g\n– Merluza → ~20 g\n– Cena → ~45–50 g\n\n👉 Total: ~75–80 g proteína\n\n⸻\n\n🏋️‍♂️ ENTRENAMIENTO\n\n– Cardio → 186 kcal\n– Fuerza (hombro + abdomen) → ligera (≈80–120 kcal estimadas)\n\n👉 Gasto total aprox: ~270 kcal\n\n⸻\n\n📊 BALANCE REAL DEL DÍA\n\n1.880 kcal ingeridas\n– 270 kcal gasto\n\n👉 ~1.600 kcal netas",
+      "source": {
+        "calories": "👉 ~1.880 kcal",
+        "protein_g": "– Desayuno → ~10 g",
+        "exercise_kcal": "👉 Gasto total aprox: ~270 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": true,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2438,
+      "net_intake_kcal": 1610,
+      "deficit_kcal": 558,
+      "cumulative_deficit_kcal": 35325,
+      "estimated_weight_kg": 81.91,
+      "trend_weight_kg": 82.39,
+      "estimated_body_fat_pct": 20.4,
+      "trend_body_fat_pct": 20.5,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 67,
+      "date": "2026-03-26",
+      "calories": 2050,
+      "protein_g": 45,
+      "exercise_kcal": 100,
+      "training_type": "cardio",
+      "alcohol": true,
+      "notes": "DÍA 67 – RESUMEN 🍻 Comida / salida – 3,5 dobles de cerveza → ~525 kcal – 1/2 ración bravas → ~550 kcal – Pincho tortilla + pan → ~450 kcal – Finger pollo + patatas + 1/2 huevo → ~220 kcal – Sándwich (brioche + mozzarella + pavo) → ~305 kcal  Total comida: ~2.050 kcal   🔢 TOTAL DEL DÍA  ~2.050 kcal     PROTEÍNA APROXIMADA – Tortilla → ~12–15 g – Sándwich → ~1",
+      "raw_block": "DÍA 67 – RESUMEN\n\n🍻 Comida / salida\n\n– 3,5 dobles de cerveza → ~525 kcal\n– 1/2 ración bravas → ~550 kcal\n– Pincho tortilla + pan → ~450 kcal\n– Finger pollo + patatas + 1/2 huevo → ~220 kcal\n– Sándwich (brioche + mozzarella + pavo) → ~305 kcal\n\n👉 Total comida: ~2.050 kcal\n\n⸻\n\n🔢 TOTAL DEL DÍA\n\n👉 ~2.050 kcal\n\n⸻\n\n💪 PROTEÍNA APROXIMADA\n\n– Tortilla → ~12–15 g\n– Sándwich → ~15 g\n– Finger pollo → ~10–12 g\n– Patata + resto → ~5 g\n\n👉 Total: ~40–50 g proteína\n\n⸻\n\n🏃‍♂️ DEPORTE\n\n– Cardio → 100 kcal\n\n⸻\n\n📊 BALANCE DEL DÍA\n\n2.050 kcal ingeridas\n– 100 kcal gasto\n\n👉 ~1.950 kcal netas\n\n⸻\n\n📌 CONCLUSIÓN (realista):\n– Día alto pero controlado\n– Estás prácticamente en mantenimiento o ligero superávit\n– Lo que más sube: cerveza + bravas + pan\n– Proteína bastante baja → aquí sí flojea el día",
+      "source": {
+        "calories": "👉 ~2.050 kcal",
+        "protein_g": "👉 Total: ~40–50 g proteína",
+        "exercise_kcal": "– Cardio → 100 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2268,
+      "net_intake_kcal": 1950,
+      "deficit_kcal": 218,
+      "cumulative_deficit_kcal": 35543,
+      "estimated_weight_kg": 81.88,
+      "trend_weight_kg": 82.32,
+      "estimated_body_fat_pct": 20.4,
+      "trend_body_fat_pct": 20.5,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 68,
+      "date": "2026-03-27",
+      "calories": 1730,
+      "protein_g": 128,
+      "exercise_kcal": 275,
+      "training_type": "pecho + tríceps",
+      "alcohol": false,
+      "notes": "DÍA – 68 🌅 Desayuno – No realizado  Total desayuno: 0 kcal   🍝 Comida – Macarrones con tomate + chorizo + cebolla (420 g) → ~675 kcal  Total comida: ~675 kcal Proteína: ~25 g     Entrenamiento – Pecho + tríceps (1h aprox)  Gasto estimado: ~250–300 kcal   🌙 Cena – 2 huevos → ~140 kcal – Queso cottage (200 g) → ~160 kcal – Pavo (90 g) → ~100 kcal – Mozzarella ",
+      "raw_block": "DÍA – 68\n\n🌅 Desayuno\n– No realizado\n\n👉 Total desayuno: 0 kcal\n\n⸻\n\n🍝 Comida\n\n– Macarrones con tomate + chorizo + cebolla (420 g) → ~675 kcal\n\n👉 Total comida: ~675 kcal\n\nProteína: ~25 g\n\n⸻\n\n🏋️‍♂️ Entrenamiento\n\n– Pecho + tríceps (1h aprox)\n👉 Gasto estimado: ~250–300 kcal\n\n⸻\n\n🌙 Cena\n\n– 2 huevos → ~140 kcal\n– Queso cottage (200 g) → ~160 kcal\n– Pavo (90 g) → ~100 kcal\n– Mozzarella rallada (80 g) → ~220 kcal\n– Queso de cabra (30 g) → ~100 kcal\n– Leche proteica (250 ml) → ~280 kcal\n– ColaCao Zero (15 g) → ~55 kcal\n\n👉 Total cena: ~1.055 kcal\n\n⸻\n\n🔢 TOTAL DEL DÍA\n\n675 + 1.055 =\n\n👉 ~1.730 kcal\n\n⸻\n\n💪 PROTEÍNA TOTAL\n\n– Pasta + chorizo → ~25 g\n– Huevos → ~12 g\n– Cottage → ~22 g\n– Pavo → ~20 g\n– Mozzarella → ~18 g\n– Queso cabra → ~6 g\n– Leche proteica → ~20–25 g\n\n👉 Total: ~125–130 g proteína\n\n⸻\n\n📊 BALANCE DEL DÍA\n\n1.730 kcal ingeridas\n– ~275 kcal gym\n\n👉 ~1.450 kcal netas\n\n⸻\n\n📌 CONCLUSIÓN (muy buen día):\n– Déficit claro 👍\n– Proteína muy bien (nivel óptimo)\n– Día equilibrado: comida más “normal” + cena muy proteica\n\nSi todos los días fueran así, bajas peso seguro y limpio.",
+      "source": {
+        "calories": "👉 ~1.730 kcal",
+        "protein_g": "– Pasta + chorizo → ~25 g",
+        "exercise_kcal": "👉 Gasto estimado: ~250–300 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": true,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2443,
+      "net_intake_kcal": 1455,
+      "deficit_kcal": 713,
+      "cumulative_deficit_kcal": 36256,
+      "estimated_weight_kg": 81.79,
+      "trend_weight_kg": 82.26,
+      "estimated_body_fat_pct": 20.3,
+      "trend_body_fat_pct": 20.5,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 69,
+      "date": "2026-03-28",
+      "calories": 1715,
+      "protein_g": 103,
+      "exercise_kcal": 275,
+      "training_type": "espalda + bíceps",
+      "alcohol": false,
+      "notes": "DÍA – 69   Comida / día completo – Croqueta pequeña de jamón → 30 kcal | 1 g proteína – Triángulo Rodilla bacon y huevo → 220 kcal | 8 g proteína – Triángulo Rodilla atún con tomate → 220 kcal | 7 g proteína – Tortilla de patata (50 g) → 60 kcal | 3 g proteína – Macarrones con chorizo (300 g) → 500 kcal | 20 g proteína – Mozzarella rallada (60 g) → 180 kcal ",
+      "raw_block": "DÍA – 69\n\n🍽️ Comida / día completo\n\n– Croqueta pequeña de jamón → 30 kcal | 1 g proteína\n– Triángulo Rodilla bacon y huevo → 220 kcal | 8 g proteína\n– Triángulo Rodilla atún con tomate → 220 kcal | 7 g proteína\n– Tortilla de patata (50 g) → 60 kcal | 3 g proteína\n\n– Macarrones con chorizo (300 g) → 500 kcal | 20 g proteína\n\n– Mozzarella rallada (60 g) → 180 kcal | 15 g proteína\n– Tortitas integrales → 300 kcal | 9 g proteína\n– Pavo (60 g) → 65 kcal | 13 g proteína\n– Pollo → 140 kcal | 27 g proteína\n\n⸻\n\n🔢 TOTAL DEL DÍA\n\n👉 ~1.715 kcal\n\n⸻\n\n💪 PROTEÍNA TOTAL\n\n👉 ~103 g proteína\n\n⸻\n\n🏋️‍♂️ ENTRENAMIENTO\n\n– Espalda (4 ejercicios × 4 series)\n– Bíceps (2 ejercicios × 3 series)\n\n👉 Gasto estimado: ~250–300 kcal\n\n⸻\n\n📊 BALANCE REAL\n\n1.715 kcal ingeridas\n– ~275 kcal gym\n\n👉 ~1.440 kcal netas",
+      "source": {
+        "calories": "👉 ~1.715 kcal",
+        "protein_g": "👉 ~103 g proteína",
+        "exercise_kcal": "👉 Gasto estimado: ~250–300 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2443,
+      "net_intake_kcal": 1440,
+      "deficit_kcal": 728,
+      "cumulative_deficit_kcal": 36984,
+      "estimated_weight_kg": 81.7,
+      "trend_weight_kg": 82.2,
+      "estimated_body_fat_pct": 20.3,
+      "trend_body_fat_pct": 20.5,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 70,
+      "date": "2026-03-29",
+      "calories": 1815,
+      "protein_g": 58,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": true,
+      "notes": "DÍA 70 – RESUMEN   Comida – Lomo de cerdo (80 g) → ~160 kcal – Puré de patata (300 g preparado) → ~270 kcal  Total comida: ~430 kcal Proteína: ~20–22 g   🌙 Cena / salida – Mini montadito (pan + queso + jamón cocido) → ~180 kcal – 3 copas de whisky → ~285 kcal – 3 chupitos Fireball → ~300 kcal  Total cena/salida: ~765 kcal   🍕 Recena – Base pizza → 389 kcal –",
+      "raw_block": "DÍA 70 – RESUMEN\n\n🍽️ Comida\n\n– Lomo de cerdo (80 g) → ~160 kcal\n– Puré de patata (300 g preparado) → ~270 kcal\n\n👉 Total comida: ~430 kcal\n\nProteína: ~20–22 g\n\n⸻\n\n🌙 Cena / salida\n\n– Mini montadito (pan + queso + jamón cocido) → ~180 kcal\n\n– 3 copas de whisky → ~285 kcal\n– 3 chupitos Fireball → ~300 kcal\n\n👉 Total cena/salida: ~765 kcal\n\n⸻\n\n🍕 Recena\n\n– Base pizza → 389 kcal\n– Pavo (35 g) → ~40 kcal\n– Mozzarella (70 g) → ~190 kcal\n\n👉 Total recena: ~620 kcal\n\n⸻\n\n🔢 TOTAL DEL DÍA\n\n430 + 765 + 620 =\n\n👉 ~1.815 kcal\n\n⸻\n\n💪 PROTEÍNA TOTAL\n\n– Lomo → ~18 g\n– Puré → ~5 g\n– Montadito → ~8 g\n– Pavo → ~8 g\n– Mozzarella → ~15 g\n\n👉 Total: ~55–60 g proteína\n\n⸻\n\n📊 CONCLUSIÓN\n\n– Calorías: ~1.800 kcal\n– Proteína: baja (este día flojea bastante)\n– Sin gym → el margen es menor\n\n👉 Estás en mantenimiento o ligero déficit muy pequeño",
+      "source": {
+        "calories": "👉 ~1.815 kcal",
+        "protein_g": "– Lomo → ~18 g",
+        "exercise_kcal": "no gym"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": true,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1815,
+      "deficit_kcal": 353,
+      "cumulative_deficit_kcal": 37337,
+      "estimated_weight_kg": 81.65,
+      "trend_weight_kg": 82.13,
+      "estimated_body_fat_pct": 20.3,
+      "trend_body_fat_pct": 20.4,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 71,
+      "date": "2026-03-30",
+      "calories": 2535,
+      "protein_g": 100,
+      "exercise_kcal": 150,
+      "training_type": "cardio",
+      "alcohol": true,
+      "notes": "DÍA 71 🍔 Comida (McDonald’s) – Big Mac → 544 kcal – Patatas medianas → 330 kcal – Hamburguesa pollo → ~350 kcal – 10 McNuggets → 441 kcal – Mini McFlurry Oreo caramelo → ~280 kcal – 2 BBQ → ~80 kcal – Salsa búfalo → ~20 kcal – Ketchup (4) → ~50 kcal  Total McDonald’s: ~2.095 kcal   🍻 Extra / salida – 2 dobles de cerveza → ~300 kcal – Patatas bravas (20 g) → ",
+      "raw_block": "DÍA 71 \n🍔 Comida (McDonald’s)\n\n– Big Mac → 544 kcal\n– Patatas medianas → 330 kcal\n– Hamburguesa pollo → ~350 kcal\n– 10 McNuggets → 441 kcal\n– Mini McFlurry Oreo caramelo → ~280 kcal\n– 2 BBQ → ~80 kcal\n– Salsa búfalo → ~20 kcal\n– Ketchup (4) → ~50 kcal\n\n👉 Total McDonald’s: ~2.095 kcal\n\n⸻\n\n🍻 Extra / salida\n\n– 2 dobles de cerveza → ~300 kcal\n– Patatas bravas (20 g) → ~60 kcal\n– Queso curado (2 triangulitos) → ~80 kcal\n\n👉 Total extra: ~440 kcal\n\n⸻\n\n🏃‍♂️ Actividad\n\n– Cardio → 150 kcal\n\n⸻\n\n🔢 TOTAL DEL DÍA\n\n2.095 + 440 =\n\n👉 ~2.535 kcal\n\n⸻\n\n📊 BALANCE REAL\n\n2.535 kcal ingeridas\n– 150 kcal cardio\n\n👉 ~2.385 kcal netas\n\n⸻\n\n💪 PROTEÍNA APROX\n\n– Hamburguesas + nuggets → ~90–100 g\n– Queso → ~5 g\n\n👉 Total: ~95–105 g proteína\n\n⸻\n\n📌 CONCLUSIÓN CLARA\n\n– Día alto en calorías (superávit o mantenimiento alto)\n– El problema no es la comida… es la suma: McDonald’s + alcohol + salsas\n– Proteína → decente, no es mal día en ese sentido",
+      "source": {
+        "calories": "👉 ~2.535 kcal",
+        "protein_g": "👉 Total: ~95–105 g proteína",
+        "exercise_kcal": "– Cardio → 150 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2318,
+      "net_intake_kcal": 2385,
+      "deficit_kcal": -217,
+      "cumulative_deficit_kcal": 37120,
+      "estimated_weight_kg": 81.68,
+      "trend_weight_kg": 82.07,
+      "estimated_body_fat_pct": 20.3,
+      "trend_body_fat_pct": 20.4,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 72,
+      "date": "2026-03-31",
+      "calories": 1470,
+      "protein_g": 78,
+      "exercise_kcal": 275,
+      "training_type": "pecho + tríceps",
+      "alcohol": false,
+      "notes": "DÍA 72 – RESUMEN   Comida / día – Hamburguesa + boniato → ~832 kcal | ~47 g proteína – Consomé con fideos → ~220 kcal | ~8 g proteína – Sándwich (pan integral + pavo + Philadelphia) → ~225 kcal | ~12 g proteína – Gelatina + proteína → ~190 kcal | ~10 g proteína   🔢 TOTAL DEL DÍA  ~1.470 kcal (puedes apuntar 1.500 kcal redondo)     PROTEÍNA TOTAL  ~75–80 g pr",
+      "raw_block": "DÍA 72 – RESUMEN\n\n🍽️ Comida / día\n\n– Hamburguesa + boniato → ~832 kcal | ~47 g proteína\n– Consomé con fideos → ~220 kcal | ~8 g proteína\n– Sándwich (pan integral + pavo + Philadelphia) → ~225 kcal | ~12 g proteína\n– Gelatina + proteína → ~190 kcal | ~10 g proteína\n\n⸻\n\n🔢 TOTAL DEL DÍA\n\n👉 ~1.470 kcal (puedes apuntar 1.500 kcal redondo)\n\n⸻\n\n💪 PROTEÍNA TOTAL\n\n👉 ~75–80 g proteína\n\n⸻\n\n🏋️‍♂️ ENTRENAMIENTO\n\n– Pecho (4 ejercicios × 4 series)\n– Tríceps (2 ejercicios × 3 series)\n\n👉 Gasto estimado: ~250–300 kcal\n\n⸻\n\n📊 BALANCE REAL\n\n1.470 kcal ingeridas\n– ~275 kcal gym\n\n👉 ~1.200 kcal netas\n\n⸻\n\n📌 CONCLUSIÓN\n\n– Déficit fuerte 🔥\n– Proteína → tirando a justa (mejor >110 g para ti)\n– Día muy bueno para perder grasa",
+      "source": {
+        "calories": "👉 ~1.470 kcal (puedes apuntar 1.500 kcal redondo)",
+        "protein_g": "👉 ~75–80 g proteína",
+        "exercise_kcal": "👉 Gasto estimado: ~250–300 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2443,
+      "net_intake_kcal": 1195,
+      "deficit_kcal": 973,
+      "cumulative_deficit_kcal": 38093,
+      "estimated_weight_kg": 81.55,
+      "trend_weight_kg": 82.01,
+      "estimated_body_fat_pct": 20.2,
+      "trend_body_fat_pct": 20.4,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 73,
+      "date": "2026-04-01",
+      "calories": 1720,
+      "protein_g": 110,
+      "exercise_kcal": 275,
+      "training_type": "espalda + bíceps",
+      "alcohol": false,
+      "notes": "DÍA 73 – RESUMEN 🌅 Desayuno / primera comida – Pan integral → 120 kcal – Proteína en polvo → 135 kcal (20 g proteína) – Leche proteica (250 ml) → ~160 kcal – ColaCao Zero (10 g) → ~35 kcal  Total: ~450 kcal Proteína: ~32–35 g     Comida – Pollo asado (180 g, sin piel) → ~300 kcal – Patatas fritas (90 g) → ~250 kcal  Total comida: ~550 kcal Proteína: ~40 g   ",
+      "raw_block": "DÍA 73 – RESUMEN\n\n🌅 Desayuno / primera comida\n\n– Pan integral → 120 kcal\n– Proteína en polvo → 135 kcal (20 g proteína)\n– Leche proteica (250 ml) → ~160 kcal\n– ColaCao Zero (10 g) → ~35 kcal\n\n👉 Total: ~450 kcal\n\nProteína: ~32–35 g\n\n⸻\n\n🍽️ Comida\n\n– Pollo asado (180 g, sin piel) → ~300 kcal\n– Patatas fritas (90 g) → ~250 kcal\n\n👉 Total comida: ~550 kcal\n\nProteína: ~40 g\n\n⸻\n\n🍰 Extra\n\n– Media torrija → ~150 kcal\n\n👉 Total extra: ~150 kcal\n\n⸻\n\n🌙 Cena\n\n– Pasta de lentejas (100 g) → ~300 kcal\n– Salsas → 130 kcal\n– Pollo → 140 kcal\n\n👉 Total cena: ~570 kcal\n\n⸻\n\n🔢 TOTAL DEL DÍA\n\n450 + 550 + 150 + 570 =\n\n👉 ~1.720 kcal\n\n⸻\n\n💪 PROTEÍNA TOTAL\n\n– Desayuno → ~35 g\n– Comida → ~40 g\n– Cena → ~35 g\n\n👉 Total: ~110 g proteína\n\n⸻\n\n🏋️‍♂️ ENTRENAMIENTO\n\n– Espalda (3 ejercicios × 4 series)\n– Bíceps (2 ejercicios × 3 series)\n\n👉 Gasto estimado: ~250–300 kcal\n\n⸻\n\n📊 BALANCE REAL\n\n1.720 kcal ingeridas\n– ~275 kcal gym\n\n👉 ~1.450 kcal netas\n\n⸻\n\n📌 CONCLUSIÓN\n\n– Déficit claro 👍\n– Proteína bien (nivel correcto)\n– Día bastante sólido\n\n👉 No es perfecto, pero es un día de progreso",
+      "source": {
+        "calories": "👉 ~1.720 kcal",
+        "protein_g": "– Desayuno → ~35 g",
+        "exercise_kcal": "👉 Gasto estimado: ~250–300 kcal"
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": true,
+        "exercise_imputed": false
+      },
+      "maintenance_kcal": 2443,
+      "net_intake_kcal": 1445,
+      "deficit_kcal": 723,
+      "cumulative_deficit_kcal": 38816,
+      "estimated_weight_kg": 81.46,
+      "trend_weight_kg": 81.94,
+      "estimated_body_fat_pct": 20.2,
+      "trend_body_fat_pct": 20.4,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 74,
+      "date": "2026-04-02",
+      "calories": 1990,
+      "protein_g": 114,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "Día 74 (ajustado) 🔧 Corrección pato – Pato asado (30 g en vez de media ración) → ~90 kcal | ~7 g proteína Antes lo teníamos como ~200 kcal, así que:  –110 kcal menos  –8 g proteína aprox   🔢 NUEVO TOTAL  Calorías: ~1.990 kcal  Proteína: ~112–115 g     Resumen limpio – Calorías: ~2.000 kcal – Proteína: bastante bien (más de 110 g) – Día alto pero no exagerado",
+      "raw_block": "📅 Día 74 (ajustado)\n\n🔧 Corrección pato\n\n– Pato asado (30 g en vez de media ración)\n→ ~90 kcal | ~7 g proteína\n\nAntes lo teníamos como ~200 kcal, así que:\n\n👉 –110 kcal menos\n👉 –8 g proteína aprox\n\n⸻\n\n🔢 NUEVO TOTAL\n\n👉 Calorías: ~1.990 kcal\n👉 Proteína: ~112–115 g\n\n⸻\n\n📊 Resumen limpio\n\n– Calorías: ~2.000 kcal\n– Proteína: bastante bien (más de 110 g)\n– Día alto pero no exagerado\n\n⸻\n\nSi te soy sincero:\n👉 para haber sido sushi + cosas variadas, está bastante controlado",
+      "source": {
+        "calories": "👉 Calorías: ~1.990 kcal",
+        "protein_g": "👉 Proteína: ~112–115 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1990,
+      "deficit_kcal": 178,
+      "cumulative_deficit_kcal": 38994,
+      "estimated_weight_kg": 81.44,
+      "trend_weight_kg": 81.88,
+      "estimated_body_fat_pct": 20.2,
+      "trend_body_fat_pct": 20.4,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 75,
+      "date": "2026-04-03",
+      "calories": 2830,
+      "protein_g": 105,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": true,
+      "notes": "Día 75   Comida y extras – 3 triángulos queso manchego → 210 kcal | ~12 g proteína – 2 gildas → 70 kcal | ~3 g proteína – 15 g patatas fritas bolsa → 78 kcal | ~1 g proteína – Paella (1,5 platos) → 680 kcal | ~25 g proteína – 2 buñuelos → 220 kcal | ~4 g proteína – Media torrija → 150 kcal | ~3 g proteína   🍺 Bebida – 2 copas whisky + Coca-Cola Zero → 150 kc",
+      "raw_block": "📅 Día 75\n\n🍽️ Comida y extras\n\n– 3 triángulos queso manchego → 210 kcal | ~12 g proteína\n– 2 gildas → 70 kcal | ~3 g proteína\n– 15 g patatas fritas bolsa → 78 kcal | ~1 g proteína\n– Paella (1,5 platos) → 680 kcal | ~25 g proteína\n– 2 buñuelos → 220 kcal | ~4 g proteína\n– Media torrija → 150 kcal | ~3 g proteína\n\n⸻\n\n🍺 Bebida\n\n– 2 copas whisky + Coca-Cola Zero → 150 kcal | 0 g proteína\n\n⸻\n\n🍕 Cena\n\n– 2 pizzas caseras → 1275 kcal | ~55–65 g proteína\n\n⸻\n\n🔢 TOTAL DÍA 75\n\n👉 Calorías: ~2830 kcal\n👉 Proteína: ~100–110 g\n\n⸻\n\n📊 Resumen\n\n– Día muy alto en calorías\n– Proteína bastante bien igualmente\n– Claramente día de superávit fuerte",
+      "source": {
+        "calories": "👉 Calorías: ~2830 kcal",
+        "protein_g": "👉 Proteína: ~100–110 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 2830,
+      "deficit_kcal": -662,
+      "cumulative_deficit_kcal": 38332,
+      "estimated_weight_kg": 81.52,
+      "trend_weight_kg": 81.82,
+      "estimated_body_fat_pct": 20.2,
+      "trend_body_fat_pct": 20.3,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 76,
+      "date": "2026-04-04",
+      "calories": 2230,
+      "protein_g": 68,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": true,
+      "notes": "Día 76 (actualizado) ☕ Snack mañana – ColaCao Zero → ~110 kcal | ~1–2 g proteína – Pan (1 rebanada) → 60 kcal | ~2 g proteína  Subtotal: ~170 kcal | ~3 g proteína     Comida (picoteo) – Migas → ~120 kcal | ~3 g proteína – Gorrotos → ~100 kcal | ~5 g proteína – Patatas fritas con venado → ~180 kcal | ~10 g proteína  Subtotal: ~400 kcal | ~18 g proteína   🍔 Ce",
+      "raw_block": "Día 76 (actualizado)\n\n☕ Snack mañana\n\n– ColaCao Zero → ~110 kcal | ~1–2 g proteína\n– Pan (1 rebanada) → 60 kcal | ~2 g proteína\n\n👉 Subtotal: ~170 kcal | ~3 g proteína\n\n⸻\n\n🍽️ Comida (picoteo)\n\n– Migas → ~120 kcal | ~3 g proteína\n– Gorrotos → ~100 kcal | ~5 g proteína\n– Patatas fritas con venado → ~180 kcal | ~10 g proteína\n\n👉 Subtotal: ~400 kcal | ~18 g proteína\n\n⸻\n\n🍔 Cena (McDonald’s)\n\n– Big Mac → 544 kcal | ~25 g proteína\n– 6 McNuggets → ~265 kcal | ~15 g proteína\n– Patatas medianas (media) → ~165 kcal | ~2 g proteína\n– Salsa BBQ → ~45 kcal\n– Salsa búfalo → ~15 kcal\n– 5 ketchup → ~50 kcal\n– Mini McFlurry Oreo + caramelo → ~280 kcal | ~5 g proteína\n\n👉 Subtotal: ~1360 kcal | ~47 g proteína\n\n⸻\n\n🍺 Extra\n\n– 2 dobles de cerveza → ~300 kcal\n\n⸻\n\n🔢 TOTAL DÍA 76 (FINAL)\n\n👉 Calorías: ~2230 kcal\n👉 Proteína: ~65–70 g\n\n⸻\n\n📊 Resumen\n\n– Día alto en calorías\n– Proteína baja para lo que sueles\n– Bastante alcohol + comida densa\n\n⸻\n\n💬 Te digo la lectura real:\n👉 este día ya no es “medio”, es claramente superávit",
+      "source": {
+        "calories": "👉 Calorías: ~2230 kcal",
+        "protein_g": "👉 Proteína: ~65–70 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 2230,
+      "deficit_kcal": -62,
+      "cumulative_deficit_kcal": 38270,
+      "estimated_weight_kg": 81.53,
+      "trend_weight_kg": 81.75,
+      "estimated_body_fat_pct": 20.2,
+      "trend_body_fat_pct": 20.3,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 77,
+      "date": "2026-04-05",
+      "calories": 2600,
+      "protein_g": 82,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": true,
+      "notes": "Día 77 🍳 Desayuno – Yogur natural → ~70 kcal | ~4 g proteína – Muesli (3 cucharadas ~30 g) → ~120 kcal | ~3 g proteína  Subtotal: ~190 kcal | ~7 g proteína     Comida – Medio pincho tortilla → ~125 kcal | ~4 g proteína – Media empanadilla chorizo/queso → ~150 kcal | ~5 g proteína – Media burrata → ~150 kcal | ~8 g proteína – Media tarta de queso → ~200 kcal ",
+      "raw_block": "Día 77\n\n🍳 Desayuno\n\n– Yogur natural → ~70 kcal | ~4 g proteína\n– Muesli (3 cucharadas ~30 g) → ~120 kcal | ~3 g proteína\n\n👉 Subtotal: ~190 kcal | ~7 g proteína\n\n⸻\n\n🍽️ Comida\n\n– Medio pincho tortilla → ~125 kcal | ~4 g proteína\n– Media empanadilla chorizo/queso → ~150 kcal | ~5 g proteína\n– Media burrata → ~150 kcal | ~8 g proteína\n– Media tarta de queso → ~200 kcal | ~4 g proteína\n– 1 croqueta jamón → ~70 kcal | ~2 g proteína\n– Doble cerveza → ~150 kcal\n\n👉 Subtotal: ~845 kcal | ~23 g proteína\n\n⸻\n\n🍞 Merienda\n\n– Pan → 60 kcal | ~2 g proteína\n– ColaCao Zero (30 kcal) → ~30 kcal\n\n👉 Subtotal: ~90 kcal | ~2 g proteína\n\n⸻\n\n🍔 Cena (McDonald’s)\n\n– Hamburguesa pollo (1€) → ~350 kcal | ~15 g proteína\n– 10 McNuggets → ~440 kcal | ~25 g proteína\n– Patatas medianas (media) → ~165 kcal | ~2 g proteína\n– 2 salsas búfalo → ~30 kcal\n– 1 salsa BBQ → ~45 kcal\n– 5 ketchup → ~50 kcal\n– 2 bocados Big Mac → ~120 kcal | ~6 g proteína\n– Mini McFlurry Oreo + caramelo → ~280 kcal | ~5 g proteína\n\n👉 Subtotal: ~1480 kcal | ~53 g proteína\n\n⸻\n\n🔢 TOTAL DÍA 77\n\n👉 Calorías: ~2600 kcal\n👉 Proteína: ~80–85 g\n\n⸻\n\n📊 Resumen\n\n– Día alto en calorías\n– Proteína decente pero no muy alta\n– Bastante grasa + comida densa (McDonald’s + postres)",
+      "source": {
+        "calories": "👉 Calorías: ~2600 kcal",
+        "protein_g": "👉 Proteína: ~80–85 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 2600,
+      "deficit_kcal": -432,
+      "cumulative_deficit_kcal": 37838,
+      "estimated_weight_kg": 81.59,
+      "trend_weight_kg": 81.69,
+      "estimated_body_fat_pct": 20.2,
+      "trend_body_fat_pct": 20.3,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 78,
+      "date": "2026-04-06",
+      "calories": 1785,
+      "protein_g": 65,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "Día 78 🍪 Snacks / picoteo – 3 galletas → ~150 kcal | ~2 g proteína – Medio pastelito pequeño → ~120 kcal | ~2 g proteína – Patatas bolsa (10 g) → ~55 kcal | ~1 g proteína  Subtotal: ~325 kcal | ~5 g proteína     Comida – Pollo (70 g) → ~120 kcal | ~15 g proteína – Ternera (50 g) → ~80 kcal | ~10 g proteína – Patatas fritas (100 g) → ~300 kcal | ~4 g proteína",
+      "raw_block": "📅 Día 78\n\n🍪 Snacks / picoteo\n\n– 3 galletas → ~150 kcal | ~2 g proteína\n– Medio pastelito pequeño → ~120 kcal | ~2 g proteína\n– Patatas bolsa (10 g) → ~55 kcal | ~1 g proteína\n\n👉 Subtotal: ~325 kcal | ~5 g proteína\n\n⸻\n\n🍽️ Comida\n\n– Pollo (70 g) → ~120 kcal | ~15 g proteína\n– Ternera (50 g) → ~80 kcal | ~10 g proteína\n– Patatas fritas (100 g) → ~300 kcal | ~4 g proteína\n\n👉 Subtotal: ~500 kcal | ~29 g proteína\n\n⸻\n\n🍰 Extras\n\n– 2 torrijas (sin mucho azúcar) → ~350 kcal | ~6 g proteína\n– 2 triangulitos de queso → ~120 kcal | ~6 g proteína\n– Pan integral (1 rebanada) → 60 kcal | ~2 g proteína\n\n👉 Subtotal: ~530 kcal | ~14 g proteína\n\n⸻\n\n🌙 Cena\n\n– Pan (140 kcal) → 140 kcal | ~5 g proteína\n– Burrata (125 g) → ~290 kcal | ~12 g proteína\n\n👉 Subtotal: ~430 kcal | ~17 g proteína\n\n⸻\n\n🔢 TOTAL DÍA 78\n\n👉 Calorías: ~1785 kcal\n👉 Proteína: ~65 g\n\n⸻\n\n📊 Resumen\n\n– Calorías moderadas (bien después de días altos)\n– Proteína bastante baja\n– Mucho alimento “random” (poco estructurado)",
+      "source": {
+        "calories": "👉 Calorías: ~1785 kcal",
+        "protein_g": "👉 Proteína: ~65 g",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1785,
+      "deficit_kcal": 383,
+      "cumulative_deficit_kcal": 38221,
+      "estimated_weight_kg": 81.54,
+      "trend_weight_kg": 81.63,
+      "estimated_body_fat_pct": 20.2,
+      "trend_body_fat_pct": 20.3,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 79,
+      "date": "2026-04-07",
+      "calories": 1910,
+      "protein_g": 88,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "Día 79 🍣 Sushi Total: 23 piezas 🐟 Nigiris (≈11–12 piezas con teriyaki) – 12 × ~70 kcal → ~840 kcal  Proteína: ~36 g 🍱 Uramakis (≈11 piezas salmón + aguacate + phila) – 11 × ~50 kcal → ~550 kcal  Proteína: ~22 g   🐙 Extras – Takoyaki (3 piezas) → ~210 kcal | ~8 g proteína – Gyozas (2) → ~120 kcal | ~5 g proteína   🌙 Cena – Leche proteica (250 ml) → (128 kcal ",
+      "raw_block": "📅 Día 79\n\n🍣 Sushi\n\nTotal: 23 piezas\n\n🐟 Nigiris (≈11–12 piezas con teriyaki)\n– 12 × ~70 kcal → ~840 kcal\n👉 Proteína: ~36 g\n\n🍱 Uramakis (≈11 piezas salmón + aguacate + phila)\n– 11 × ~50 kcal → ~550 kcal\n👉 Proteína: ~22 g\n\n⸻\n\n🐙 Extras\n\n– Takoyaki (3 piezas) → ~210 kcal | ~8 g proteína\n– Gyozas (2) → ~120 kcal | ~5 g proteína\n\n⸻\n\n🌙 Cena\n\n– Leche proteica (250 ml)\n→ (128 kcal / 200 ml) → ~160 kcal\n👉 Proteína: ~16 g\n\n– ColaCao Zero (10 g) → ~30 kcal\n\n⸻\n\n🔢 TOTAL DÍA 79\n\n👉 Calorías:\n840 + 550 + 210 + 120 + 160 + 30 =\n\n👉 ~1.910 kcal\n\n⸻\n\n👉 Proteína:\n36 + 22 + 8 + 5 + 16 =\n\n👉 ~85–90 g proteína\n\n⸻\n\n📊 Resumen\n\n– Calorías moderadas (tirando a altas)\n– Proteína aceptable pero no óptima\n– Mucha comida concentrada en sushi\n\n⸻\n\n💬 Lectura rápida:\n👉 no es un mal día\n👉 pero tampoco es día de déficit claro\n\nEstás en:\n👉 mantenimiento ligero / déficit pequeño",
+      "source": {
+        "calories": "👉 ~1.910 kcal",
+        "protein_g": "👉 ~85–90 g proteína",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1910,
+      "deficit_kcal": 258,
+      "cumulative_deficit_kcal": 38479,
+      "estimated_weight_kg": 81.5,
+      "trend_weight_kg": 81.56,
+      "estimated_body_fat_pct": 20.2,
+      "trend_body_fat_pct": 20.2,
+      "weight_actual_kg": null
+    },
+    {
+      "day": 80,
+      "date": "2026-04-08",
+      "calories": 1780,
+      "protein_g": 68,
+      "exercise_kcal": 0,
+      "training_type": "descanso",
+      "alcohol": false,
+      "notes": "Día 80 ☕ Desayuno – Café con leche → ~60 kcal | ~3 g proteína     Comida – Costilla cerdo (60 g carne) → ~180 kcal | ~12 g proteína – Patata cocida (150 g) → ~120 kcal | ~3 g proteína  Subtotal: ~300 kcal | ~15 g proteína   🍮 Postres comida 🍓 Gelatina proteica (125 g de mezcla) Tu mezcla total ≈ ~410 kcal en 1 kg  125 g → ~50 kcal  Proteína: ~6–7 g   🍚 Arroz",
+      "raw_block": "📅 Día 80\n\n☕ Desayuno\n\n– Café con leche → ~60 kcal | ~3 g proteína\n\n⸻\n\n🍽️ Comida\n\n– Costilla cerdo (60 g carne) → ~180 kcal | ~12 g proteína\n– Patata cocida (150 g) → ~120 kcal | ~3 g proteína\n\n👉 Subtotal: ~300 kcal | ~15 g proteína\n\n⸻\n\n🍮 Postres comida\n\n🍓 Gelatina proteica (125 g de mezcla)\nTu mezcla total ≈ ~410 kcal en 1 kg\n\n👉 125 g → ~50 kcal\n👉 Proteína: ~6–7 g\n\n⸻\n\n🍚 Arroz con leche (200 g)\n👉 ~260 kcal | ~6 g proteína\n\n👉 Subtotal postres: ~310 kcal | ~12 g proteína\n\n⸻\n\n🌙 Cena (pizza casera)\n\nBase:\n– 1,5 bases → 389 × 1,5 = 585 kcal\n\nToppings:\n– Mozzarella (100 g) → ~280 kcal | ~22 g proteína\n– Pavo (30 g) → ~35 kcal | ~7 g proteína\n– Burrata (75 g) → ~210 kcal | ~9 g proteína\n\n👉 Total pizza: ~1.110 kcal | ~38 g proteína\n\n⸻\n\n🔢 TOTAL DÍA 80\n\n👉 Calorías:\n60 + 300 + 310 + 1.110 =\n\n👉 ~1.780 kcal\n\n⸻\n\n👉 Proteína:\n3 + 15 + 12 + 38 =\n\n👉 ~68 g proteína",
+      "source": {
+        "calories": "👉 ~1.780 kcal",
+        "protein_g": "👉 ~68 g proteína",
+        "exercise_kcal": null
+      },
+      "flags": {
+        "calories_imputed": false,
+        "protein_imputed": false,
+        "exercise_imputed": true
+      },
+      "maintenance_kcal": 2168,
+      "net_intake_kcal": 1780,
+      "deficit_kcal": 388,
+      "cumulative_deficit_kcal": 38867,
+      "estimated_weight_kg": 81.45,
+      "trend_weight_kg": 81.5,
+      "estimated_body_fat_pct": 20.2,
+      "trend_body_fat_pct": 20.2,
+      "weight_actual_kg": 81.5
+    }
+  ],
+  "monthly_summary": [
+    {
+      "month": "2026-01",
+      "days_logged": 13,
+      "avg_calories": 1854,
+      "avg_protein_g": 93,
+      "avg_deficit_kcal": 441,
+      "exercise_days": 4,
+      "estimated_weight_change_kg": -0.7
+    },
+    {
+      "month": "2026-02",
+      "days_logged": 28,
+      "avg_calories": 1772,
+      "avg_protein_g": 96,
+      "avg_deficit_kcal": 553,
+      "exercise_days": 13,
+      "estimated_weight_change_kg": -1.92
+    },
+    {
+      "month": "2026-03",
+      "days_logged": 31,
+      "avg_calories": 1805,
+      "avg_protein_g": 92,
+      "avg_deficit_kcal": 545,
+      "exercise_days": 19,
+      "estimated_weight_change_kg": -2.1
+    },
+    {
+      "month": "2026-04",
+      "days_logged": 8,
+      "avg_calories": 2106,
+      "avg_protein_g": 88,
+      "avg_deficit_kcal": 97,
+      "exercise_days": 1,
+      "estimated_weight_change_kg": -0.01
+    }
+  ]
+}

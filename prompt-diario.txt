@@ -1,0 +1,14 @@
+Quiero que me devuelvas el seguimiento del día en este formato exacto, sin explicaciones extra:
+
+DIA: <numero>
+FECHA: <YYYY-MM-DD>
+CALORIAS: <numero>
+PROTEINA_G: <numero>
+EJERCICIO_KCAL: <numero>
+TIPO_ENTRENO: <descanso / cardio / pecho + triceps / espalda + biceps / pierna / hombro + abdomen / otro>
+ALCOHOL: <si/no>
+PESO_KG: <numero o vacio>
+NOTAS: <una frase corta con lo comido y entrenado>
+RESUMEN: <deficit fuerte / deficit moderado / mantenimiento / superavit>
+
+Si te doy un resumen largo, conviértelo tú a este formato limpio.

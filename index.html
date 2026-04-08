@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Dieta enero</title>
+  <meta name="description" content="Seguimiento móvil de peso, calorías, proteína, déficit y entrenamiento con estética fitness premium en modo oscuro.">
+  <meta name="theme-color" content="#0b0f17">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <div class="bg-orb orb-1"></div>
+  <div class="bg-orb orb-2"></div>
+  <div class="app-shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Dieta enero</p>
+        <h1 id="screenTitle">Today, <span id="todayDateLabel">--</span></h1>
+        <p class="subcopy" id="screenSubtitle">Cargando histórico...</p>
+      </div>
+      <button class="avatar" type="button" aria-label="Perfil">IR</button>
+    </header>
+
+    <div class="range-row" id="rangeFilters" aria-label="Filtro temporal">
+      <button class="range-chip active" data-range="14">14D</button>
+      <button class="range-chip" data-range="30">30D</button>
+      <button class="range-chip" data-range="60">60D</button>
+      <button class="range-chip" data-range="all">All</button>
+    </div>
+
+    <main class="screens">
+      <section class="screen active" data-screen="home">
+        <article class="panel rings-panel">
+          <div class="rings-grid">
+            <div class="ring-wrap">
+              <div class="ring" id="ringDeficit"><div class="ring-inner"><span id="ringDeficitValue">0%</span></div></div>
+              <p class="ring-label">Cut</p>
+            </div>
+            <div class="ring-wrap">
+              <div class="ring" id="ringProtein"><div class="ring-inner"><span id="ringProteinValue">0%</span></div></div>
+              <p class="ring-label">Protein</p>
+            </div>
+            <div class="ring-wrap">
+              <div class="ring" id="ringTraining"><div class="ring-inner"><span id="ringTrainingValue">0%</span></div></div>
+              <p class="ring-label">Training</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="panel coaching-panel">
+          <p class="panel-kicker">Coaching</p>
+          <h2 id="coachHeadline">Cargando lectura rápida...</h2>
+          <p id="coachText" class="coach-copy"></p>
+        </article>
+
+        <section class="panel metric-section">
+          <div class="section-head compact">
+            <div>
+              <p class="panel-kicker">Status</p>
+              <h2>Health monitor</h2>
+            </div>
+          </div>
+          <div class="metrics-scroller" id="homeMetrics"></div>
+          <div class="status-banner" id="statusBanner"></div>
+        </section>
+
+        <article class="panel chart-panel tall">
+          <div class="section-head">
+            <div>
+              <p class="panel-kicker">Trend</p>
+              <h2>Peso real vs estimado</h2>
+            </div>
+            <span class="soft-pill" id="weightDeltaPill">--</span>
+          </div>
+          <canvas id="weightChart"></canvas>
+        </article>
+
+        <article class="panel journal-card" id="todayCard"></article>
+      </section>
+
+      <section class="screen" data-screen="trends">
+        <article class="panel chart-panel">
+          <div class="section-head">
+            <div>
+              <p class="panel-kicker">Wearable view</p>
+              <h2>% graso estimado</h2>
+            </div>
+          </div>
+          <canvas id="bodyFatChart"></canvas>
+        </article>
+
+        <article class="panel chart-panel">
+          <div class="section-head">
+            <div>
+              <p class="panel-kicker">Nutrition</p>
+              <h2>Calorías por día</h2>
+            </div>
+          </div>
+          <canvas id="caloriesChart"></canvas>
+        </article>
+
+        <article class="panel chart-panel">
+          <div class="section-head">
+            <div>
+              <p class="panel-kicker">Nutrition</p>
+              <h2>Proteína por día</h2>
+            </div>
+          </div>
+          <canvas id="proteinChart"></canvas>
+        </article>
+
+        <article class="panel chart-panel">
+          <div class="section-head">
+            <div>
+              <p class="panel-kicker">Energy balance</p>
+              <h2>Déficit acumulado</h2>
+            </div>
+          </div>
+          <canvas id="deficitChart"></canvas>
+        </article>
+
+        <article class="panel chart-panel">
+          <div class="section-head">
+            <div>
+              <p class="panel-kicker">Training load</p>
+              <h2>Entrenamientos por semana</h2>
+            </div>
+          </div>
+          <canvas id="exerciseChart"></canvas>
+        </article>
+      </section>
+
+      <section class="screen" data-screen="months">
+        <article class="panel">
+          <div class="section-head">
+            <div>
+              <p class="panel-kicker">Long view</p>
+              <h2>Resumen mensual</h2>
+            </div>
+          </div>
+          <div class="months-stack" id="monthlyCards"></div>
+        </article>
+
+        <article class="panel">
+          <div class="section-head">
+            <div>
+              <p class="panel-kicker">Consistency</p>
+              <h2>Heatmap de adherencia</h2>
+            </div>
+          </div>
+          <div class="heatmap-legend">
+            <span>Superávit</span>
+            <div class="legend-scale">
+              <span class="legend-box heat-0"></span>
+              <span class="legend-box heat-1"></span>
+              <span class="legend-box heat-2"></span>
+              <span class="legend-box heat-3"></span>
+              <span class="legend-box heat-4"></span>
+            </div>
+            <span>Déficit fuerte</span>
+          </div>
+          <div id="heatmap" class="heatmap-grid"></div>
+        </article>
+
+        <article class="panel recent-panel">
+          <div class="section-head">
+            <div>
+              <p class="panel-kicker">Recent days</p>
+              <h2>Últimos registros</h2>
+            </div>
+          </div>
+          <div class="recent-list" id="recentDaysList"></div>
+        </article>
+      </section>
+
+      <section class="screen" data-screen="add">
+        <article class="panel">
+          <div class="section-head">
+            <div>
+              <p class="panel-kicker">Input flow</p>
+              <h2>Prompt diario</h2>
+            </div>
+            <button class="ghost-btn" id="copyPromptBtn" type="button">Copiar</button>
+          </div>
+          <pre class="prompt-box" id="dailyPrompt"></pre>
+        </article>
+
+        <article class="panel">
+          <div class="section-head">
+            <div>
+              <p class="panel-kicker">Paste</p>
+              <h2>Pega aquí tu día</h2>
+            </div>
+          </div>
+          <textarea id="dailyInput" class="input-box" placeholder="Pega aquí el bloque del día o el formato limpio..."></textarea>
+          <div class="button-row">
+            <button class="primary-btn" id="parseDailyBtn" type="button">Convertir</button>
+            <button class="ghost-btn" id="clearDailyBtn" type="button">Limpiar</button>
+            <button class="ghost-btn" id="copyJsonBtn" type="button">Copiar JSON</button>
+          </div>
+          <pre class="output-box" id="parserOutput">Aquí aparecerá el JSON listo para pegar dentro de data.json.</pre>
+        </article>
+
+        <article class="panel howto-panel">
+          <div class="section-head">
+            <div>
+              <p class="panel-kicker">Update steps</p>
+              <h2>Cómo actualizar GitHub</h2>
+            </div>
+          </div>
+          <ol class="steps-list">
+            <li>Pega tu resumen del día arriba y pulsa <strong>Convertir</strong>.</li>
+            <li>Copia el JSON que salga en la caja.</li>
+            <li>Abre <strong>data.json</strong> en GitHub.</li>
+            <li>Añade el nuevo objeto al final del array <strong>days</strong>.</li>
+            <li>Si has metido un peso real, la web lo usará como nueva referencia al recargar.</li>
+          </ol>
+        </article>
+      </section>
+    </main>
+
+    <nav class="bottom-nav" aria-label="Navegación principal">
+      <button class="nav-btn active" data-screen-target="home" type="button">
+        <span class="nav-ico">⌂</span>
+        <span>Home</span>
+      </button>
+      <button class="nav-btn" data-screen-target="trends" type="button">
+        <span class="nav-ico">◔</span>
+        <span>Trends</span>
+      </button>
+      <button class="nav-btn" data-screen-target="months" type="button">
+        <span class="nav-ico">▦</span>
+        <span>Months</span>
+      </button>
+      <button class="nav-btn" data-screen-target="add" type="button">
+        <span class="nav-ico">＋</span>
+        <span>Add</span>
+      </button>
+    </nav>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
