@@ -1,4 +1,4 @@
-# Dieta enero · GitHub Pages
+# Dieta enero · GitHub Pages 
 
 Web estática pensada para móvil, con estética inspirada en apps tipo Whoop / Bevel / Apple Watch:
 - modo oscuro premium 
